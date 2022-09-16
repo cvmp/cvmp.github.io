@@ -24,8 +24,11 @@ We encourage participation from a diverse range of backgrounds including scienti
 | - Author notification: | 26 September 2022 |
 | - Camera-ready submission deadline: | 7 October 2022 |
 | __Industry Talks deadline:__ | ~~16 September 2022~~ <span style="color:red">30 September 2022 (final extension)</span> |
+| - Author notification: | 6 October 2022 |
 | __Short Papers deadline:__ | ~~16 September 2022~~ <span style="color:red">30 September 2022 (final extension)</span> |
+| - Author notification: | 6 October 2022 |
 | __Demos deadline:__ | ~~16 September 2022~~ <span style="color:red">30 September 2022 (final extension)</span> |
+| - Author notification: | 6 October 2022 |
 
 *All deadlines are 23:59 Pacific Time.*
 
