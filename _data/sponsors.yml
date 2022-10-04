@@ -1,4 +1,9 @@
 2022:
+- name: ACM SIGGRAPH
+  url: https://www.siggraph.org/
+  image: img/2022/sponsors/logo-acm-siggraph-wide.png
+  level: conference
+
 - name: Foundry
   url: https://www.foundry.com/
   image: img/2022/sponsors/logo-foundry-2x.png

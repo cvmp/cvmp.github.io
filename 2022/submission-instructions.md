@@ -28,10 +28,9 @@ To set up the LaTeX template for anonymous submission, assign the “**sigconf**
 
 Additionally, please set the conference details in the template as follows:
 
-<!--acmConference[CVMP 2022]{the 19th ACM SIGGRAPH European Conference on-->
 ```
 %Conference
-\acmConference[CVMP 2022]{the 19th European Conference on
+\acmConference[CVMP 2022]{the 19th ACM SIGGRAPH European Conference on
 Visual Media Production}{Dec.\ 1--2}{London, UK}
 \acmYear{2022}
 \copyrightyear{2022}
@@ -52,4 +51,4 @@ Submissions for both short papers and demos are single-blind and do not need to 
 
 ### Publications Policies
 
-As a published <!--ACM--> CVMP author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies), including ACM's [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects).
+As a published ACM CVMP author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies), including ACM's [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects).
