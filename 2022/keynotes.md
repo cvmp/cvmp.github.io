@@ -27,6 +27,46 @@ In this session Ben Cowell-Thomas, DFX Supervisor at DNEG, will be breaking down
 
 
 
+<a name="ER" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Erik Reinhard, Distinguished Scientist at InterDigital <br> Lights, Camera, Climate Action!
+
+From production to transmission and final consumption in cinemas and at home: movies, series and other (live) programmes all cost non-trivial amounts of energy to produce, process, transmit and display. Advances in framerate, colour gamut, dynamic range and pixel resolution all have a further energetic impact, as does the introduction of new media, and the move from traditional broadcast to streaming technologies. The aim of this presentation is to create awareness of the magnitude of the problem, to show what efforts are underway (production, certification, standardization, image processing, displays), and where opportunities lie to do better.
+
+*Erik Reinhard is Distinguished Scientist at InterDigital, a research, innovation and licensing company in wireless and video communication. He participates in sustainability programs at ITU-R, DVB, and SMPTE. He currently uses his expertise in color science, image/video processing and psychophysics to reduce the environmental impact of video communication and display.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2022/keynotes/ErikReinhard.jpg" class="img-responsive img-thumbnail" alt="Erik Reinhard" title="Erik Reinhard">
+</figure>
+
+</div>
+
+
+
+<a name="BM" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Belen Masia, Associate Professor at Universidad de Zaragoza <br> Modeling attention and gaze behavior in immersive environments
+
+Creating engaging and compelling experiences in Virtual Reality is a challenging task: large bandwidth, computation and memory requirements are limiting factors; on top of that, there is the added difficulty of designing content for users who have control over the point of view. We argue that understanding user behavior and attention in immersive environments can help address these challenges. In this talk, we explore approaches to modeling visual attention and gaze behavior in 360º environments. Applications range from compression to realistic avatar simulation or scene content design, as well as furthering our understanding of human perception, and in particular how we selectively process the sensory information we receive.
+
+*Belen Masia is an Associate Professor in the Computer Science Department at Universidad de Zaragoza, and a member of the Graphics and Imaging Lab. Before, she was a postdoctoral researcher at the Max Planck Institute for Informatics. Her research focuses on the areas of appearance modeling, applied perception and virtual reality. She is a Eurographics Junior Fellow, and the recipient of a Eurographics Young Researcher Award in 2017, a Eurographics PhD Award in 2015, an award to the top ten innovators below 35 in Spain from MIT Technology Review in 2014, and an NVIDIA Graduate Fellowship in 2012. She is also a co-founder of DIVE Medical, a startup devoted to enabling an automatic, fast, and accurate exploration of the visual function, even in non-verbal patients.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2022/keynotes/BelenMasia.jpg" class="img-responsive img-thumbnail" alt="Belen Masia" title="Belen Masia">
+</figure>
+
+</div>
+
+
+
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
