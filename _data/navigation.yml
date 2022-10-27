@@ -15,6 +15,8 @@
   url: committees
 - title: News
   url: news
+- title: Code of Conduct
+  url: code-of-conduct
 
 2021:
 - title: About
