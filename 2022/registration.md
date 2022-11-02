@@ -16,13 +16,14 @@ Tickets gain you entry to all areas of the conference (keynotes, paper sessions,
 
 ### Available tickets 
 
-- **Full delegate registration**  
+- **<span class="label label-info">Early bird</span> Full delegate registration – £400**  
 Full conference ticket for both days
 
-- **Student registration**  
+- **<span class="label label-info">Early bird</span> Student registration – £250**  
 Full conference ticket for both days <span class="label label-info">Students only</span>
 
-- **Day delegate registration**  
+- **Day delegate registration – £225**  
 One-day conference ticket
 
-The registration website will open in November. 
+The **[registration website](https://store.york.ac.uk/product-catalogue/computer-science/cvmp-2022)** is now open. 
+
