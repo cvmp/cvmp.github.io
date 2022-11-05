@@ -11,15 +11,14 @@ Ticket numbers are restricted, so make sure to reserve your place early!
 
 Tickets gain you entry to all areas of the conference (keynotes, paper sessions, poster and demos), lunch, refreshments, and also to the networking reception on Thursday, 1 December 2022.
 
-<!-- <span class="label label-info">**Please note:**</span> -->
-<!-- **Tickets for CVMP 2021 have now sold out.** -->
+**Please note: Early bird registration ends on the 16th of November.**
 
 ### Available tickets 
 
-- **<span class="label label-info">Early bird</span> Full delegate registration – £400**  
+- **Full delegate registration – £400 <span class="label label-info">Early bird</span> / £425**  
 Full conference ticket for both days
 
-- **<span class="label label-info">Early bird</span> Student registration – £250**  
+- **Student registration – £250 <span class="label label-info">Early bird</span> / £275**  
 Full conference ticket for both days <span class="label label-info">Students only</span>
 
 - **Day delegate registration – £225**  
