@@ -106,31 +106,29 @@ year: 2022
             <h4 class="panel-title">Programme Committee</h4>
         </div>
         <div class="panel-body">
-			<div class="col-4 col-sm-4 col-lg-4"><h4>TBD</h4></div>
-<!--            <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Akin Caliskan<br><small>University of Surrey</small></h4>
-                <h4>Dan Casas<br><small>Universidad Rey Juan Carlos</small></h4>
-                <h4>Robert Dawes<br><small>BBC Research</small></h4>
-                <h4>Daljit Singh Dhillon<br><small>Clemson University</small></h4>
-                <h4>Peter Eisert<br><small>Fraunhofer Heinrich Hertz Institute</small></h4>
-                <h4>Andrew Gilbert<br><small>University of Surrey</small></h4>
+            <div class="col-4 col-sm-4 col-lg-4">
+				<h4>Akin Caliskan<br><small>University of Surrey</small></h4>
+				<h4>Kevin Matthe Caramancion<br><small>University at Albany, SUNY</small></h4>
+				<h4>Dan Casas<br><small>Universidad Rey Juan Carlos</small></h4>
+				<h4>Robert Dawes<br><small>BBC Research</small></h4>
+				<h4>Daljit Singh Dhillon<br><small>Clemson University</small></h4>
+				<h4>Peter Eisert<br><small>Fraunhofer Heinrich Hertz Institute</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Tom Haines<br><small>University of Bath</small></h4>
-                <h4>Oliver James<br><small>Double Negative</small></h4>
-                <h4>Hansung Kim<br><small>University of Southampton</small></h4>
-                <h4>Koki Nagano<br><small>NVIDIA</small></h4>
-                <h4>Alexandros Neophytou<br><small>Microsoft</small></h4>
-                <h4>Marco Pesavento<br><small>University of Surrey</small></h4>
+				<h4>Zhenhua Feng<br><small>University of Surrey</small></h4>
+				<h4>Andrew Gilbert<br><small>University of Surrey</small></h4>
+				<h4>Tom Haines<br><small>University of Bath</small></h4>
+				<h4>Oliver James<br><small>DNEG</small></h4>
+				<h4>Hansung Kim<br><small>University of Southampton</small></h4>
+				<h4>George Alex Koulieris<br><small>Durham University</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Erik Reinhard<br><small>InterDigital</small></h4>
-                <h4>Nadejda Roubtsova<br><small>University of Bath</small></h4>
-                <h4>William Smith<br><small>University of York</small></h4>
-                <h4>Kartic Subr<br><small>University of Edinburgh</small></h4>
-                <h4>Graham Thomas<br><small>BBC</small></h4>
-                <h4>Zhidong Xiao<br><small>Bournemouth University</small></h4>
-            </div>-->
+				<h4>Marco Pesavento<br><small>University of Surrey</small></h4>
+				<h4>Stanislav Pidhorskyi<br><small>Meta Reality Labs Research</small></h4>
+				<h4>Erik Reinhard<br><small>InterDigital</small></h4>
+				<h4>Christian Richardt<br><small>Meta Reality Labs Research</small></h4>
+				<h4>Zhidong Xiao<br><small>Bournemouth University</small></h4>
+            </div>
         </div>
     </div>
 </div>
