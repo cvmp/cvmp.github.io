@@ -7,6 +7,26 @@ year: 2022
 We are pleased to announce the following keynote speakers for CVMP 2022:
 
 
+<a name="ER" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Erik Reinhard, Distinguished Scientist at InterDigital <br> Lights, Camera, Climate Action!
+
+From production to transmission and final consumption in cinemas and at home: movies, series and other (live) programmes all cost non-trivial amounts of energy to produce, process, transmit and display. Advances in framerate, colour gamut, dynamic range and pixel resolution all have a further energetic impact, as does the introduction of new media, and the move from traditional broadcast to streaming technologies. The aim of this presentation is to create awareness of the magnitude of the problem, to show what efforts are underway (production, certification, standardization, image processing, displays), and where opportunities lie to do better.
+
+*Erik Reinhard is Distinguished Scientist at InterDigital, a research, innovation and licensing company in wireless and video communication. He participates in sustainability programs at ITU-R, DVB, and SMPTE. He currently uses his expertise in color science, image/video processing and psychophysics to reduce the environmental impact of video communication and display.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2022/keynotes/ErikReinhard.jpg" class="img-responsive img-thumbnail" alt="Erik Reinhard" title="Erik Reinhard">
+</figure>
+
+</div>
+
+
+
 <a name="BCT" />
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
@@ -27,20 +47,24 @@ In this session Ben Cowell-Thomas, DFX Supervisor at DNEG, will be breaking down
 
 
 
-<a name="ER" />
+<a name="BB" />
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
-#### Erik Reinhard, Distinguished Scientist at InterDigital <br> Lights, Camera, Climate Action!
+#### Bernd Bickel, Professor at IST Austria <br> Reimagining Design and Fabrication with Computational and Data-Driven Methods
 
-From production to transmission and final consumption in cinemas and at home: movies, series and other (live) programmes all cost non-trivial amounts of energy to produce, process, transmit and display. Advances in framerate, colour gamut, dynamic range and pixel resolution all have a further energetic impact, as does the introduction of new media, and the move from traditional broadcast to streaming technologies. The aim of this presentation is to create awareness of the magnitude of the problem, to show what efforts are underway (production, certification, standardization, image processing, displays), and where opportunities lie to do better.
+Advanced fabrication techniques have grown in sophistication over the last decade, vastly extending the scope of structures and materials that can be manufactured. While providing new opportunities for personalized fabrication, product design, engineering, architecture, art, and science, the potential impact of these techniques is tightly coupled with the availability of efficient computational methods for design.
 
-*Erik Reinhard is Distinguished Scientist at InterDigital, a research, innovation and licensing company in wireless and video communication. He participates in sustainability programs at ITU-R, DVB, and SMPTE. He currently uses his expertise in color science, image/video processing and psychophysics to reduce the environmental impact of video communication and display.*
+In this talk, I will describe our recent efforts toward transforming design workflows with computational and data-driven methods. I will first introduce a generic optimization approach based on the extended finite element method, which allows for the optimization of a wide range of design objectives directly on parameterized 3D CAD models. Leveraging optimization-based design and a tailored data-driven model of the materials' responses, I will then introduce novel approaches for interactive shape exploration and demonstrate its applicability to designing cold-bent glass facades and deployable structures. Furthermore, I will show how insights from geometry can be used to derive an intuitive and rigorous characterization of the design space of planar elastic rods, which can be shaped into intriguing curved elements.
+
+Finally, I will reflect on the successes and the challenges of algorithms and artificial intelligence as tools for the future of design and discuss research opportunities in this area.
+
+*Bernd Bickel is a Professor at IST Austria, heading the Computer Graphics and Digital Fabrication group. He is a computer scientist interested in computer graphics and its overlap into robotics, computer vision, machine learning, material science, and digital fabrication. His main objective is to push the boundaries of how digital content can be efficiently created, simulated, and reproduced.*
 
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/img/2022/keynotes/ErikReinhard.jpg" class="img-responsive img-thumbnail" alt="Erik Reinhard" title="Erik Reinhard">
+  <img src="{{site.url}}/img/2022/keynotes/BerndBickel.png" class="img-responsive img-thumbnail" alt="Bernd Bickel" title="Bernd Bickel">
 </figure>
 
 </div>
@@ -63,14 +87,4 @@ Creating engaging and compelling experiences in Virtual Reality is a challenging
   <img src="{{site.url}}/img/2022/keynotes/BelenMasia.jpg" class="img-responsive img-thumbnail" alt="Belen Masia" title="Belen Masia">
 </figure>
 
-</div>
-
-
-
-<div class="row">
-<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
-
-#### More keynotes will be announced soon!
-
-</div>
 </div>
