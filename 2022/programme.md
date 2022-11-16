@@ -1,6 +1,6 @@
 ---
 layout: cvmp-default
-title: Tentative Conference Programme
+title: Conference Programme
 year: 2022
 ---
 
@@ -27,10 +27,10 @@ year: 2022
 				<td>09:40</td>
 				<td><b>Papers and Industry Talks Session 1<!--: Topic TBD--></b><br/>
 					<ul>
-						<li>Neural apparent BRDF fields for multiview photometric stereo<br/><i><!--Authors TBD--></i></li>
-						<li>A wide-baseline multiview system for indoor scene capture<br/><i><!--Authors TBD--></i></li>
-						<li>Light Field GAN-based View Synthesis using full 4D information<br/><i><!--Authors TBD--></i></li>
-						<li>SEDDI – Redesigning how fashion goes to market<br/><i>Elena Garces (SEDDI)</i></li>
+						<li>Neural apparent BRDF fields for multiview photometric stereo<br/><i>Meghna Asthana, William A. P. Smith, Patrik Huber (University of York)</i></li>
+						<li>A wide-baseline multiview system for indoor scene capture<br/><i>Théo Barrios (University of Reims Champagne-Ardenne), Cédric Niquin (XD Productions), Stéphanie Prévost (University of Reims Champagne-Ardenne), Philippe Souchet (XD Productions), Céline Loscos (University of Reims Champagne-Ardenne)</i></li>
+						<li>Light Field GAN-based View Synthesis using full 4D information<br/><i>Abrar Wafa, Panos Nasiopoulos (University of British Columbia)</i></li>
+						<li>From fibers to pixels: SEDDI’s approach for scalable textile digitization<br/><i>Elena Garces (SEDDI)</i></li>
 					</ul>
 				</td>
 			</tr>
@@ -48,7 +48,7 @@ year: 2022
 					<ul>
 						<li>Rendering for Hyper-Realistic Displays: A Benchmark Study<br/><i>Akshay Jindal, Rafał Mantiuk (University of Cambridge)</i></li>
 						<li>Super-resolution 3D human digitization from a single low-resolution image<br/><i>Marco Pesavento, Marco Volino, Adrian Hilton (University of Surrey)</i></li>
-						<li>Reconstructing Multiple People and Objects from a Single Image<br/><i><!--Authors TBD--></i></li>
+						<li>Reconstructing Multiple People and Objects from a Single Image<br/><i>Sarthak Batra (Indian Institute of Technology Kharagpur), Simon Hadfield (University of Surrey), Armin Mustafa (University of Surrey)</i></li>
 						<li>RealMonoDepth: Self-Supervised Monocular Depth Estimation for General Scenes<br/><i>Mertalp Ocal, Armin Mustafa, Adrian Hilton (University of Surrey)</i></li>
 						<li>A Deep Learning Based Tone Mapping Operator For 4K HDR Images Focusing On Color Accuracy And Artistic Intent<br/><i>Junbin Zhang, Yixiao Wang, Hamid Reza Tohidypour, Mahsa T. Pourazad, Panos Nasiopoulos (University of British Columbia)</i></li>
 						<li>Volumetric and User-Centric Rendering Techniques for Lens Flare and Film Grain in Virtual Reality Environments<br/><i>Johann Wentzel (University of Waterloo), Lesley Istead (Carleton University)</i></li>
@@ -73,9 +73,9 @@ year: 2022
 				<td>14:30</td>
 				<td><b>Papers and Industry Talks Session 2<!--: Topic TBD--></b><br/>
 					<ul>
-						<li>Generating real-time detailed ground visualisations from sparse aerial point clouds<br/><i><!--Authors TBD--></i></li>
-						<li>Semantic Segmentation for Multi-Contour Estimation in Maritime Scenes<br/><i><!--Authors TBD--></i></li>
-						<li>Tragic Talkers: A Shakespearean Sound- and Light-Field Dataset for Audio-Visual Machine Learning Research<br/><i><!--Authors TBD--></i></li>
+						<li>Generating real-time detailed ground visualisations from sparse aerial point clouds<br/><i>Kenny Mitchell (Edinburgh Napier University, Roblox, Cobra Simulation, and 3Finery)</i></li>
+						<li>Semantic Segmentation for Multi-Contour Estimation in Maritime Scenes<br/><i>Alastair J. Finlinson, Sotiris Moschoyiannis (University of Surrey)</i></li>
+						<li>Tragic Talkers: A Shakespearean Sound- and Light-Field Dataset for Audio-Visual Machine Learning Research<br/><i>Davide Berghi, Marco Volino, Philip J. B. Jackson (University of Surrey)</i></li>
 					</ul>
 				</td>
 			</tr>		
@@ -105,8 +105,8 @@ year: 2022
 				<td>09:30</td>
 				<td><b>Papers and Industry Talks Session 3<!--: Topic TBD--></b><br/>
 					<ul>
-						<li>The Colour of Horror<br/><i><!--Authors TBD--></i></li>
-						<li>Model-Based Deep Portrait Relighting<br/><i><!--Authors TBD--></i></li>
+						<li>The Colour of Horror<br/><i>Lesley Istead (Carleton University), Andreea Pocol, Sherman Siu, William Chen, Alex Zdanowicz, Alex Rowaan, Craig Kaplan (University of Waterloo)</i></li>
+						<li>Model-Based Deep Portrait Relighting<br/><i>Frederik David Schreiber, Anna Hilsmann, Peter Eisert (Fraunhofer Heinrich Hertz Institute)</i></li>
 						<li>LED Virtual Production - what the tutorials don’t tell you!<br/><i>Peter Kirkup (Disguise)</i></li>
 					</ul>
 				</td>
@@ -126,9 +126,9 @@ year: 2022
 				<td>14:00</td>
 				<td><b>Papers and Industry Talks Session 4<!--: Topic TBD--></b><br/>
 					<ul>
-						<li>Assessing Advances in Real Noise Image Denoiser<br/><i><!--Authors TBD--></i></li>
-						<li>U-Attention to Textures: Hierarchical Hourglass Vision Transformer for Universal Texture Synthesis<br/><i><!--Authors TBD--></i></li>
-						<li>Distilling Style from Image Pairs for Global Forward and Inverse Tone Mapping<br/><i><!--Authors TBD--></i></li>
+						<li>Assessing Advances in Real Noise Image Denoiser<br/><i>Clément Bled, François Pitié (Trinity College Dublin)</i></li>
+						<li>U-Attention to Textures: Hierarchical Hourglass Vision Transformer for Universal Texture Synthesis<br/><i>Shouchang Guo (University of Michigan), Valentin Deschaintre (Adobe Research), Douglas C. Noll (University of Michigan), Arthur Roullier (Adobe)</i></li>
+						<li>Distilling Style from Image Pairs for Global Forward and Inverse Tone Mapping<br/><i>Aamir Mustafa, Param Hanji, Rafał Mantiuk (University of Cambridge)</i></li>
 						<li>Capturing, Inferring and Applying Body Contact for Human-Scene Interaction Understanding<br/><i>Chun-Hao Paul Huang (Adobe)</i></li>
 					</ul>
 				</td>
