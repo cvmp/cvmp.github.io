@@ -11,14 +11,14 @@ Ticket numbers are restricted, so make sure to reserve your place early!
 
 Tickets gain you entry to all areas of the conference (keynotes, paper sessions, poster and demos), lunch, refreshments, and also to the networking reception on Thursday, 1 December 2022.
 
-**Please note: Early bird registration ends on the 16th of November.**
+**Please note: Early bird registration has closed.**
 
 ### Available tickets 
 
-- **Full delegate registration – £400 <span class="label label-info">Early bird</span> / £425**  
+- **Full delegate registration – £425**  
 Full conference ticket for both days
 
-- **Student registration – £250 <span class="label label-info">Early bird</span> / £275**  
+- **Student registration – £275**  
 Full conference ticket for both days <span class="label label-info">Students only</span>
 
 - **Day delegate registration – £225**  
