@@ -25,7 +25,7 @@ year: 2022
 			</tr>
 			<tr>
 				<td>09:40</td>
-				<td><b>Papers and Industry Talks Session 1<!--: Topic TBD--></b><br/>
+				<td><b>Papers and Industry Talks Session 1: A Lovely View</b><br/>
 					<ul>
 						<li>Neural apparent BRDF fields for multiview photometric stereo<br/><i>Meghna Asthana, William A. P. Smith, Patrik Huber (University of York)</i></li>
 						<li>A wide-baseline multiview system for indoor scene capture<br/><i>Théo Barrios (University of Reims Champagne-Ardenne), Cédric Niquin (XD Productions), Stéphanie Prévost (University of Reims Champagne-Ardenne), Philippe Souchet (XD Productions), Céline Loscos (University of Reims Champagne-Ardenne)</i></li>
@@ -71,7 +71,7 @@ year: 2022
 			</tr>
 			<tr>
 				<td>14:30</td>
-				<td><b>Papers and Industry Talks Session 2<!--: Topic TBD--></b><br/>
+				<td><b>Papers and Industry Talks Session 2: The Main and th' Aerial Blue</b><br/>
 					<ul>
 						<li>Generating real-time detailed ground visualisations from sparse aerial point clouds<br/><i>Kenny Mitchell (Edinburgh Napier University, Roblox, Cobra Simulation, and 3Finery)</i></li>
 						<li>Semantic Segmentation for Multi-Contour Estimation in Maritime Scenes<br/><i>Alastair J. Finlinson, Sotiris Moschoyiannis (University of Surrey)</i></li>
@@ -103,7 +103,7 @@ year: 2022
 			</tr>
 			<tr>
 				<td>09:30</td>
-				<td><b>Papers and Industry Talks Session 3<!--: Topic TBD--></b><br/>
+				<td><b>Special Session: Delivering Stories through Light and Color</b><br/>
 					<ul>
 						<li>The Colour of Horror<br/><i>Lesley Istead (Carleton University), Andreea Pocol, Sherman Siu, William Chen, Alex Zdanowicz, Alex Rowaan, Craig Kaplan (University of Waterloo)</i></li>
 						<li>Model-Based Deep Portrait Relighting<br/><i>Frederik David Schreiber, Anna Hilsmann, Peter Eisert (Fraunhofer Heinrich Hertz Institute)</i></li>
@@ -124,7 +124,7 @@ year: 2022
 			</tr>
 			<tr>
 				<td>14:00</td>
-				<td><b>Papers and Industry Talks Session 4<!--: Topic TBD--></b><br/>
+				<td><b>Papers and Industry Talks Session 4: Touch-up Touch Down</b><br/>
 					<ul>
 						<li>Assessing Advances in Real Noise Image Denoiser<br/><i>Clément Bled, François Pitié (Trinity College Dublin)</i></li>
 						<li>U-Attention to Textures: Hierarchical Hourglass Vision Transformer for Universal Texture Synthesis<br/><i>Shouchang Guo (University of Michigan), Valentin Deschaintre (Adobe Research), Douglas C. Noll (University of Michigan), Arthur Roullier (Adobe)</i></li>
