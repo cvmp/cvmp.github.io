@@ -73,7 +73,7 @@ year: 2022
 				<td>14:30</td>
 				<td><b>Papers and Industry Talks Session 2: The Main and th' Aerial Blue</b><br/>
 					<ul>
-						<li>Generating real-time detailed ground visualisations from sparse aerial point clouds<br/><i>Kenny Mitchell (Edinburgh Napier University, Roblox, Cobra Simulation, and 3Finery)</i></li>
+						<li>Generating real-time detailed ground visualisations from sparse aerial point clouds<br/><i>Aiden Murray, Scarlet Mitchell, Alexander Bradley (Cobra Simulation), Eddie Waite, Caleb Ross, Joanna Jamrozy, Kenny Mitchell (Edinburgh Napier University, Cobra Simulation)</i></li>
 						<li>Semantic Segmentation for Multi-Contour Estimation in Maritime Scenes<br/><i>Alastair J. Finlinson, Sotiris Moschoyiannis (University of Surrey)</i></li>
 						<li>Tragic Talkers: A Shakespearean Sound- and Light-Field Dataset for Audio-Visual Machine Learning Research<br/><i>Davide Berghi, Marco Volino, Philip J. B. Jackson (University of Surrey)</i></li>
 					</ul>
