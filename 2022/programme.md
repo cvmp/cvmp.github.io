@@ -5,10 +5,10 @@ year: 2022
 ---
 
 <!--<strong>Programme booklet:</strong>
-[CVMP 2021 Programme (5.8 MB)]({{ site.url }}/files/2021/CVMP2021-programme.pdf)
+[CVMP 2022 Programme (5.8 MB)]({{ site.url }}/files/2022/CVMP2022-programme.pdf)-->
 
 <strong>Conference proceedings:</strong>
-[ACM Digital Library](https://doi.org/10.1145/3485441){:target="_blank"}-->
+[ACM Digital Library](https://doi.org/10.1145/3565516){:target="_blank"}
 
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="thursday"></a>
