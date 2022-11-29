@@ -19,6 +19,11 @@
   image: img/2022/sponsors/logo-adobe.png
   level: silver
 
+- name: Niantic
+  url: https://nianticlabs.com/
+  image: img/2022/sponsors/logo-niantic.png
+  level: bronze
+
 - name: CAMERA
   url: https://www.camera.ac.uk/
   image: img/2022/sponsors/logo-camera-2x.png

@@ -89,7 +89,7 @@ year: 2022
 			</tr>
 			<tr>
 				<td>17:00</td>
-				<td><b>Networking Reception</b></td>
+				<td><b>Networking Reception</b><br/>sponsored by Niantic Labs</td>
 			</tr>
 		</table>
 	</div>
