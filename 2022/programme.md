@@ -4,8 +4,8 @@ title: Conference Programme
 year: 2022
 ---
 
-<!--<strong>Programme booklet:</strong>
-[CVMP 2022 Programme (5.8 MB)]({{ site.url }}/files/2022/CVMP2022-programme.pdf)-->
+<strong>Programme booklet:</strong>
+[CVMP 2022 Programme (7.7 MB)]({{ site.url }}/files/2022/CVMP2022-programme.pdf)
 
 <strong>Conference proceedings:</strong>
 [ACM Digital Library](https://doi.org/10.1145/3565516){:target="_blank"}
