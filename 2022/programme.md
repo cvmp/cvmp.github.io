@@ -49,7 +49,7 @@ year: 2022
 						<li>Rendering for Hyper-Realistic Displays: A Benchmark Study<br/><i>Akshay Jindal, Rafał Mantiuk (University of Cambridge)</i></li>
 						<li>Super-resolution 3D human digitization from a single low-resolution image<br/><i>Marco Pesavento, Marco Volino, Adrian Hilton (University of Surrey)</i></li>
 						<li>Reconstructing Multiple People and Objects from a Single Image<br/><i>Sarthak Batra (Indian Institute of Technology Kharagpur), Simon Hadfield (University of Surrey), Armin Mustafa (University of Surrey)</i></li>
-						<li>RealMonoDepth: Self-Supervised Monocular Depth Estimation for General Scenes<br/><i>Mertalp Ocal, Armin Mustafa, Adrian Hilton (University of Surrey)</i></li>
+						<li>RealMonoDepth: Self-Supervised Monocular Depth Estimation for General Scenes <span class="label label-info">Best Short Paper Award</span><br/><i>Mertalp Ocal, Armin Mustafa, Adrian Hilton (University of Surrey)</i></li>
 						<li>A Deep Learning Based Tone Mapping Operator For 4K HDR Images Focusing On Color Accuracy And Artistic Intent<br/><i>Junbin Zhang, Yixiao Wang, Hamid Reza Tohidypour, Mahsa T. Pourazad, Panos Nasiopoulos (University of British Columbia)</i></li>
 						<li>Volumetric and User-Centric Rendering Techniques for Lens Flare and Film Grain in Virtual Reality Environments<br/><i>Johann Wentzel (University of Waterloo), Lesley Istead (Carleton University)</i></li>
 						<li>Learning Texture Transformer Network for Light Field Super Resolution<br/><i>Javeria Shabbir (Georgia Institute of Technology), M. Zeshan Alam (Brandon University), M. Umair Mukati (GN Jabra A/S)</i></li>
@@ -128,7 +128,7 @@ year: 2022
 					<ul>
 						<li>Assessing Advances in Real Noise Image Denoiser<br/><i>Clément Bled, François Pitié (Trinity College Dublin)</i></li>
 						<li>U-Attention to Textures: Hierarchical Hourglass Vision Transformer for Universal Texture Synthesis<br/><i>Shouchang Guo (University of Michigan), Valentin Deschaintre (Adobe Research), Douglas C. Noll (University of Michigan), Arthur Roullier (Adobe)</i></li>
-						<li>Distilling Style from Image Pairs for Global Forward and Inverse Tone Mapping<br/><i>Aamir Mustafa, Param Hanji, Rafał Mantiuk (University of Cambridge)</i></li>
+						<li>Distilling Style from Image Pairs for Global Forward and Inverse Tone Mapping <span class="label label-info">Best Full Paper Award</span><br/><i>Aamir Mustafa, Param Hanji, Rafał Mantiuk (University of Cambridge)</i></li>
 						<li>Capturing, Inferring and Applying Body Contact for Human-Scene Interaction Understanding<br/><i>Chun-Hao Paul Huang (Adobe)</i></li>
 					</ul>
 				</td>
