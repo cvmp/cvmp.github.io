@@ -11,7 +11,7 @@ Ticket numbers are restricted, so make sure to reserve your place early!
 
 Tickets gain you entry to all areas of the conference (keynotes, paper sessions, poster and demos), lunch, refreshments, and also to the networking reception on Thursday, 1 December 2022.
 
-**Please note: Early bird registration has closed.**
+**Please note: Registration has closed.**
 
 ### Available tickets 
 
@@ -23,6 +23,3 @@ Full conference ticket for both days <span class="label label-info">Students onl
 
 - **Day delegate registration – £225**  
 One-day conference ticket
-
-The **[registration website](https://store.york.ac.uk/product-catalogue/computer-science/cvmp-2022)** is now open. 
-
