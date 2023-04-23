@@ -1,10 +1,17 @@
-current-year: 2022
+current-year: 2023
 previous-years:
+    - 2023
     - 2022
     - 2021
     - 2020
     - 2019
     - 2018
+
+2023:
+    title: "The 20<sup>th</sup> <b>ACM SIGGRAPH European Conference on Visual Media Production</b>"
+    date: "TBC December 2023"
+    location: "TBC, London, UK"
+    logo: img/2023/CVMP-logo-1200w.png
 
 2022:
     title: "The 19<sup>th</sup> <b>ACM SIGGRAPH European Conference on Visual Media Production</b>"
