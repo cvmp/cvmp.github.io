@@ -13,7 +13,7 @@ year: 2023
         </div>
         <div class="panel-body">
             <h4><a href="https://marcovolino.github.io" target="_blank">Marco Volino</a><br><small>University of Surrey, UK</small></h4>
-            <h4><a href="https://www.surrey.ac.uk/people/armin-mustafa" target="_blank">Armin Mustafa</a><br><small>University of Surrey, UK</small></h4>
+            <h4><a href="https://arminmustafa.github.io/" target="_blank">Armin Mustafa</a><br><small>University of Surrey, UK</small></h4>
         </div>
     </div>
 </div>
@@ -49,7 +49,7 @@ year: 2023
             <h4 class="panel-title">Industry Chair</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="http://www.megalithic-visions.org/oliver/pmwiki.php?n=Main.HomePage" target="_blank">Oliver Grau</a><br><small>Intel, Germany</small></h4>
+            <h4><a href="http://www.megalithic-visions.org/oliver/" target="_blank">Oliver Grau</a><br><small>Intel, Germany</small></h4>
         </div>
     </div>
 </div>
@@ -99,7 +99,7 @@ year: 2023
         </div>
         <div class="panel-body">
             <h4>Da Chen<br><small>University of Bath, UK</small></h4>
-            <h4><a href="https://www.surrey.ac.uk/people/moira-shooter" target="_blank">Moira Shooter</a><br><small>University of Surrey, UK</small></h4>
+            <h4><a href="https://mshooter.github.io/" target="_blank">Moira Shooter</a><br><small>University of Surrey, UK</small></h4>
         </div>
     </div>
 </div>
