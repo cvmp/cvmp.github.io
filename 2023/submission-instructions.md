@@ -30,7 +30,7 @@ Additionally, please set the conference details in the template as follows:
 
 ```
 %Conference
-\acmConference[CVMP 2023]{the 20th ACM SIGGRAPH European Conference on
+\acmConference[CVMP 2023]{the 20th European Conference on
 Visual Media Production}{Dec.\ 1--2}{London, UK}
 \acmYear{2023}
 \copyrightyear{2023}
