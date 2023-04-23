@@ -76,7 +76,7 @@ year: 2023
             <h4 class="panel-title">Local Arrangements Chair</h4>
         </div>
         <div class="panel-body">
-            <h4>Hansung Kim<br><small>University of Southampton, UK</small></h4>
+            <h4><a href="http://www.3dkim.com/Eng/index.html?ckattempt=1" target="_blank">Hansung Kim</a><br><small>University of Southampton, UK</small></h4>
         </div>
     </div>
 </div>
