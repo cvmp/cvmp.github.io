@@ -14,7 +14,6 @@ CVMP brings together production and post-production specialists from the worlds 
 
 CVMP provides a European forum for presentation of the latest research and application advances, combined with keynote and invited talks on state-of-the-art industry practice.
 
-In this 20<sup>th</sup> edition of the conference, we are proud to be officially affiliated to and sponsored by [ACM SIGGRAPH](https://www.siggraph.org).
 
 <!-- featured images -->
 <figure class="top3" >
