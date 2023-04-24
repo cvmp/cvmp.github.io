@@ -63,7 +63,7 @@ year: 2023
             <h4 class="panel-title">Sponsorship Chair</h4>
         </div>
         <div class="panel-body">
-            <h4>Jeff Clifford<br><small>XXX, UK</small></h4>
+            <h4>Jeff Clifford<br><small>Wavecrest, UK</small></h4>
         </div>
     </div>
 </div>
@@ -111,56 +111,8 @@ year: 2023
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">Programme Committee</h4>
+            TBC
         </div>
-        <div class="panel-body">
-            <div class="col-4 col-sm-4 col-lg-4">
-				<h4>Akin Caliskan<br><small>University of Surrey</small></h4>
-				<h4>Kevin Matthe Caramancion<br><small>University at Albany, SUNY</small></h4>
-				<h4>Dan Casas<br><small>Universidad Rey Juan Carlos</small></h4>
-				<h4>Robert Dawes<br><small>BBC Research</small></h4>
-				<h4>Daljit Singh Dhillon<br><small>Clemson University</small></h4>
-				<h4>Peter Eisert<br><small>Fraunhofer Heinrich Hertz Institute</small></h4>
-            </div>
-            <div class="col-4 col-sm-4 col-lg-4">
-				<h4>Zhenhua Feng<br><small>University of Surrey</small></h4>
-				<h4>Andrew Gilbert<br><small>University of Surrey</small></h4>
-				<h4>Tom Haines<br><small>University of Bath</small></h4>
-				<h4>Oliver James<br><small>DNEG</small></h4>
-				<h4>Hansung Kim<br><small>University of Southampton</small></h4>
-				<h4>George Alex Koulieris<br><small>Durham University</small></h4>
-            </div>
-            <div class="col-4 col-sm-4 col-lg-4">
-				<h4>Marco Pesavento<br><small>University of Surrey</small></h4>
-				<h4>Stanislav Pidhorskyi<br><small>Meta Reality Labs Research</small></h4>
-				<h4>Erik Reinhard<br><small>InterDigital</small></h4>
-				<h4>Christian Richardt<br><small>Meta Reality Labs Research</small></h4>
-				<h4>Zhidong Xiao<br><small>Bournemouth University</small></h4>
-            </div>
-        </div>
-    </div>
 </div>
 
-<div class="col-12 col-sm-12 col-lg-12">
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">Steering Committee</h4>
-        </div>
-        <div class="panel-body">
-            <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Neill Campbell<br><small>University of Bath</small></h4>
-                <h4>Jeff Clifford<br><small>Wavecrest</small></h4>
-                <h4>John Collomosse<br><small>University of Surrey</small></h4>
-            </div>
-            <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Abhijeet Ghosh<br><small>Imperial College London</small></h4>
-                <h4>Oliver Grau<br><small>Intel</small></h4>
-                <h4>Peter Hall<br><small>University of Bath</small></h4>
-            </div>
-            <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Volker Helzle<br><small>Filmakademie</small></h4>
-                <h4>Anil Kokaram<br><small>Trinity College Dublin</small></h4>
-                <h4>Will Smith<br><small>University of York</small></h4>
-            </div>
-        </div>
-    </div>
-</div>
+
