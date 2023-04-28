@@ -63,7 +63,7 @@ year: 2023
             <h4 class="panel-title">Sponsorship Chair</h4>
         </div>
         <div class="panel-body">
-            <h4>Jeff Clifford<br><small>Wavecrest, UK</small></h4>
+            <h4><a href="http://evastute.com/" target="_blank">Jeff Clifford</a><br><small>Creative Industries Consultant, UK</small></h4>
         </div>
     </div>
 </div>
