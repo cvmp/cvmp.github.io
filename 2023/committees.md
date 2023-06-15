@@ -65,6 +65,7 @@ year: 2023
         </div>
         <div class="panel-body">
             <h4><a href="http://evastute.com/" target="_blank">Jeff Clifford</a><br><small>Creative Industries Consultant, UK</small></h4>
+            <h4><a href="https://www.linkedin.com/in/peri-friend/" target="_blank">Peri Friend</a><br><small>Foundry, UK</small></h4>
         </div>
     </div>
 </div>
