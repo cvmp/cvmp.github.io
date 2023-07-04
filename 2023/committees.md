@@ -100,7 +100,7 @@ year: 2023
             <h4 class="panel-title">Public Relations Chair</h4>
         </div>
         <div class="panel-body">
-            <h4>Da Chen<br><small>University of Bath, UK</small></h4>
+            <h4><a href="https://dachen.net/" target="_blank">Da Chen</a><br><small>University of Bath, UK</small></h4>
             <h4><a href="https://mshooter.github.io/" target="_blank">Moira Shooter</a><br><small>University of Surrey, UK</small></h4>
         </div>
     </div>
