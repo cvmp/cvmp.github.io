@@ -1,8 +1,8 @@
 2023:
-#- name: ACM SIGGRAPH
-#  url: https://www.siggraph.org/
-#  image: img/2023/sponsors/logo-acm-siggraph-wide.png
-#  level: conference
+- name: ACM SIGGRAPH
+  url: https://www.siggraph.org/
+  image: img/2023/sponsors/logo-acm-siggraph-wide.png
+  level: conference
 
 #- name: Disguise
 #  url: https://www.disguise.one/
@@ -75,7 +75,7 @@
   url: https://www.siggraph.org/
   image: img/2021/sponsors/logo-acm-siggraph-wide.png
   level: conference
-  
+
 - name: YouTube
   url: https://www.youtube.com/
   image: img/2021/sponsors/logo-youtube.png
@@ -131,12 +131,12 @@
   url: https://www.siggraph.org/
   image: img/2020/sponsors/logo-acm-siggraph-wide.png
   level: conference
-  
+
 - name: NVIDIA
   url: https://www.nvidia.com/
   image: img/2020/sponsors/logo-nvidia-2x.png
   level: gold
-  
+
 - name: YouTube
   url: https://www.youtube.com/
   image: img/2020/sponsors/logo-youtube.png
@@ -161,12 +161,12 @@
   url: https://www.camera.ac.uk/
   image: img/2020/sponsors/logo-camera-2x.png
   level: academic
-  
+
 - name: CDE
   url: https://www.digital-entertainment.org/
   image: img/2020/sponsors/logo-cde_tag_green.png
   level: academic
-  
+
 - name: CVSSP
   url: https://www.surrey.ac.uk/centre-vision-speech-signal-processing
   image: img/2020/sponsors/logo-cvssp.png
@@ -182,7 +182,7 @@
   url: https://www.foundry.com/
   image: img/2019/sponsors/logo-foundry-2x.png
   level: gold
-  
+
 - name: NVidia
   url: https://www.nvidia.com/
   image: img/2019/sponsors/logo-nvidia-2x.png
