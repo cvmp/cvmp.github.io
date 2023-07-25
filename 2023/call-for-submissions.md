@@ -20,7 +20,7 @@ We encourage participation from a diverse range of backgrounds including scienti
 {: .panel-heading}
 <div class="panel-body">
 
-| __Full Papers deadline:__ | **28 July 2023** |
+| __Full Papers deadline:__ | ~~28 July 2023~~ <span style="color:red">11 August 2023</span> |
 | - Review deadline: | 15 September 2023 |
 | - Author notification: | 25 September 2023 |
 | - Camera-ready submission deadline: | 6 October 2023 |
