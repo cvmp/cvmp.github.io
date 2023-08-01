@@ -6,7 +6,7 @@ year: 2023
 image:
     feature: img/teaser/London-teaser.jpg
 ---
-## TBC, TBC, London, UK
+## 30th November - 1st December, BFI Southbank, London, UK
 
 Welcome to the ACM SIGGRAPH European Conference on Visual Media Production (CVMP). For years, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries.
 

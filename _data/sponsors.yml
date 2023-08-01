@@ -24,11 +24,16 @@
 #  image: img/2023/sponsors/logo-niantic.png
 #  level: bronze
 #
-#- name: CAMERA
-#  url: https://www.camera.ac.uk/
-#  image: img/2023/sponsors/logo-camera-2x.png
-#  level: academic
-#
+- name: CAMERA
+  url: https://www.camera.ac.uk/
+  image: img/2023/sponsors/logo-camera-2x.png
+  level: academic
+
+- name: People-Centred AI Institute
+  url: https://www.surrey.ac.uk/artificial-intelligence
+  image: img/2023/sponsors/logo-people-centred-ai-UoS.png
+  level: academic
+
 #- name: CVSSP
 #  url: https://www.surrey.ac.uk/centre-vision-speech-signal-processing
 #  image: img/2023/sponsors/logo-cvssp.png
