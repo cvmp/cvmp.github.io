@@ -24,11 +24,11 @@ We encourage participation from a diverse range of backgrounds including scienti
 | - Review deadline: | 15 September 2023 |
 | - Author notification: | 25 September 2023 |
 | - Camera-ready submission deadline: | 6 October 2023 |
-| __Industry Talks deadline:__ | **15 September 2023** |
+| __Industry Talks deadline:__ | ~~15 September 2023~~ <span style="color:red">29 September 2023</span> |
 | - Author notification: | 9 October 2023 |
-| __Short Papers deadline:__ | **15 September 2023** |
+| __Short Papers deadline:__ | ~~15 September 2023~~ <span style="color:red">29 September 2023</span> |
 | - Author notification: | 9 October 2023 |
-| __Demos deadline:__ | **15 September 2023** |
+| __Demos deadline:__ | ~~15 September 2023~~ <span style="color:red">29 September 2023</span> |
 | - Author notification: | 9 October 2023 |
 
 
