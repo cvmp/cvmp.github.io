@@ -14,10 +14,10 @@
 #  image: img/2023/sponsors/logo-foundry-2x.png
 #  level: silver
 #
-#- name: Adobe
-#  url: https://www.adobe.com/
-#  image: img/2023/sponsors/logo-adobe.png
-#  level: silver
+- name: Adobe
+  url: https://research.adobe.com/
+  image: img/2023/sponsors/logo-adobe.png
+  level: silver
 #
 #- name: Niantic
 #  url: https://nianticlabs.com/
