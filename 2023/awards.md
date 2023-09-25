@@ -10,9 +10,10 @@ We are accepting applications for the following categories:
 
  * **Research Impact Award** - **[Online form](https://forms.gle/bzCu3AApzTCwk6o76)**
 
-    Awarded to individual(s) who have performed key research that has later been taken by other third parties and used effectively in media production. Examples:
+    Awarded to individual(s) who have performed key research that has later been taken by other third parties and used effectively in media production or product. Examples:
     * An author of a paper that has subsequently been used by a third party at a media company to develop a set of tools or effect used on production media.
     * Please note: This is not an award for a “best paper” – please see the CVMP "Calls for Submissions" section to submit a paper. This award is for the subsequent impact a research/paper has achieved.
+    * The submission should suggest a reference (with mail address) to describe the impact.
 
  * **Collaboration Award** - **[Online form](https://forms.gle/Rr18YMoTSiR8HLBM7)** 
 
