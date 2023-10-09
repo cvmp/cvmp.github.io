@@ -18,6 +18,7 @@
   url: https://research.adobe.com/
   image: img/2023/sponsors/logo-adobe.png
   level: silver
+
 #
 #- name: Niantic
 #  url: https://nianticlabs.com/
@@ -28,6 +29,11 @@
   url: https://www.camera.ac.uk/
   image: img/2023/sponsors/logo-camera-2x.png
   level: academic
+
+- name: Reality Labs
+  url: https://about.meta.com/uk/realitylabs/
+  image: img/2023/sponsors/logo-reality_labs_research.png
+  level: silver
 
 - name: People-Centred AI Institute
   url: https://www.surrey.ac.uk/artificial-intelligence
