@@ -62,3 +62,21 @@ There has been an explosion of interest and adoption of Generative AI over the l
 </figure>
 
 </div>
+
+<a name="ER" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Tupac Martir, Satore Studio <br> Engines For Everything Except Games
+
+Although gaming engines are mainly used for creating games, over the past few years Satore has used them for anything but. Instead Satore has found that they are crucial elements of art, VR and immersive pieces. Tupac Martir will share how Satore uses gaming technologies and how they are applied within Satore’s work and R&D, and how many of the techniques used are translatable to other aspects of entertainment and art. Tupac firmly believes that Technology is a character, with real-time softwares being the centre of importance at this time.
+
+*Tupac is the Creative Director and Founder of Satore Studio. He’s a multimedia artist whose work spans the fields of technology, lighting, projection and video, sound design, music, and composition, as well as choreography and costumes. Vogue has described him as ‘the visual designer and creative director behind some of the most important events in the world’. He has provided production design, visuals and lighting direction for the likes of Elton John, Beyoncé, Danny Boyle, the Coachella Music & Arts Festival and Serpentine Gallery. Tupac is renowned within the fashion industry and has worked on ground-breaking shows for Alexander McQueen, Moschino, Alexander Wang, and Thomas Tait, among others. In 2019 Tupac Directed and produced "Cosmos Within Us", a performative reality piece that debuted at the Venice Film Festival and won the "Spirit of Raindance Award" at the Raindance London Film Festival. More recently Tupac Directed and produced “Unique” at the BFI London & Sonar, a performative reality piece that showed the future of performance with improvisation at the heart of it. Additionally, Tupac has led a team to become pioneers in Virtual Production. debuting “Haita” at Sónar+D, working with Es Devlin on an illuminated kinetic sculpture for Moet, and being part of TRANSMIXR, a 19 partner consortium across Europe that aims to create a range of human-centric tools for remote content production/consumption in immersive technologies. At Satore Studio, Tupac leads an international team of creative minds to create ground-breaking work, mixing art and technology. Tupac founded Satore Studio as a place to explore and create powerful art and multimedia experiences combining - lighting, projection, video, sound design, music, virtual reality and augmented reality.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2023/keynotes/tupac_martir.jpg" class="img-responsive img-thumbnail" alt="Erik Reinhard" title="Erik Reinhard">
+</figure>
+
+</div>
