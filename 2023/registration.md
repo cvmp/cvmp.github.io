@@ -13,6 +13,8 @@ Tickets gain you entry to all areas of the conference (keynotes, paper sessions,
 
 The **[registration website](https://store.york.ac.uk/product-catalogue/computer-science/cvmp-2023)** is now open.
 
+**Early Bird prices end on November 10th at midnight(GMT) - Register now for the best price!**
+
 ### Available tickets 
 
 - **Regular registration**  
