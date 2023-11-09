@@ -7,7 +7,7 @@ year: 2023
 We are pleased to announce the following keynote speakers for CVMP 2023:
 
 
-<a name="ER" />
+<a name="AW" />
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
@@ -27,7 +27,7 @@ Andrew Whitehurst served as production Visual Effects Supervisor on Indiana Jone
 
 
 
-<a name="ER" />
+<a name="DC" />
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
@@ -45,7 +45,7 @@ We are witnessing an impressive pace of innovation happening in the generative A
 
 </div>
 
-<a name="ER" />
+<a name="JS" />
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
@@ -63,7 +63,7 @@ There has been an explosion of interest and adoption of Generative AI over the l
 
 </div>
 
-<a name="ER" />
+<a name="TM" />
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
