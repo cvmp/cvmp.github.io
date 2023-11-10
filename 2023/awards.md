@@ -30,6 +30,6 @@ We are accepting applications for the following categories:
    * Creating a tool that applies underlying research that provides a level of artistic control beyond the current state-of-the-art effective for media production.
 
 
-##### The deadline for the applications: Friday, 10th November 
+##### The deadline for the applications: Friday, 17th November 
 
 
