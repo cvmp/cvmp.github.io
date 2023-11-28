@@ -6,7 +6,7 @@ year: 2023
 ##### Noted that this program is tentative and subject to change
 
 <strong>Programme booklet:</strong>
-Coming soon
+[CVMP 2023 Programme (9.6 MB)]({{ site.url }}/files/2023/CVMP23-brochure.pdf)
 
 <strong>Conference proceedings:</strong>
 Coming soon
