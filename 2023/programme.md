@@ -9,7 +9,8 @@ year: 2023
 [CVMP 2023 Programme (9.6 MB)]({{ site.url }}/files/2023/CVMP23-brochure.pdf)
 
 <strong>Conference proceedings:</strong>
-Coming soon
+[ACM Digital Library](https://dl.acm.org/doi/proceedings/10.1145/3626495){:target="_blank"}
+
 
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="thursday"></a>
