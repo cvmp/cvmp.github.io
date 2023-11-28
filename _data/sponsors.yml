@@ -4,6 +4,11 @@
   image: img/2023/sponsors/logo-acm-siggraph-wide.png
   level: conference
 
+- name: YouTube
+  url: https://www.youtube.com/
+  image: img/2023/sponsors/logo-youtube.png
+  level: gold
+
 - name: Adobe
   url: https://research.adobe.com/
   image: img/2023/sponsors/logo-adobe.png
@@ -24,15 +29,15 @@
   image: img/2023/sponsors/logo-disguise_Black.png
   level: silver
 
-- name: People-Centred AI Institute
-  url: https://www.surrey.ac.uk/artificial-intelligence
-  image: img/2023/sponsors/logo-people-centred-ai-UoS.png
-  level: academic
-
 - name: Activision
   url: https://www.activision.com/
   image: img/2023/sponsors/logo-activision-2x.png
   level: bronze
+
+- name: People-Centred AI Institute
+  url: https://www.surrey.ac.uk/artificial-intelligence
+  image: img/2023/sponsors/logo-people-centred-ai-UoS.png
+  level: academic
 
 #- name: CVSSP
 #  url: https://www.surrey.ac.uk/centre-vision-speech-signal-processing
