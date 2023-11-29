@@ -49,23 +49,26 @@ year: 2023
 				<td>12:40</td>
 				<td><b>Spotlight Session-Short Papers and Demos</b><br/>
 					<ul>
+                    <b>Presented: 30th November</b>
 						<li>Light Field Video Compression Efficiency Through View Omission and Synthesis<br/><i>Nusrat Mehajabin (University of British Columbia); Tala Bazzaza (University of British Columbia); Hamid Reza Tohidypour (University of British Columbia)*; Yixiao Wang (University of British Columbia); Panos Nasiopoulos (University of British Columbia)</i></li>
 						<li>Human Pose Estimation Assisted Posture Reminder for E-Learning Video Production<br/><i>Yixia Zhao (Computer Network Information Center, Chinese Academy of Sciences)*; Zhenhua Feng (University of Surrey)</i></li>
 						<li>Practical Imaging and Analysis of Turbidity in Liquid<br/><i>Kewei Li (Imperial College London)*; Abhijeet Ghosh (Imperial College London)</i></li>
 						<li>SDiT: Enhanced Stable Diffusion for Audio-to-Talking Face Generation <br/><i>Fatemeh Nazarieh (University of Surrey)*; Zhenhua Feng (University of Surrey)</i></li>
 						<li>So you think you can dance? Controllable Multi-person Dance Generation<br/><i>Emily Corby (University of Surrey)*; Andrew Gilbert (University of Surrey); Edward Fish (University of Surrey)</i></li>
 						<li>InclusivityXR – an online tool for detecting inclusivity issues in AR and VR<br/><i>Andy T Woods (StoryFutures)*; Umar Farooq (University of Surrey); James Bennett (StoryFutures); Marco Volino (University of Surrey)</i></li>
-						<li>Towards Neural Representations of Heterogeneous Translucent Voxelised Media<br/><i>Thomas Gillooly (Norwegian University of Science and Technology)*; Jon Yngve Hardeberg (NTNU); Abhijeet Ghosh (Imperial College London); Giuseppe Claudio Guarnera (University of York)</i></li>
+                    <b>Presented: 1st December</b>
+                        <li>Towards Neural Representations of Heterogeneous Translucent Voxelised Media<br/><i>Thomas Gillooly (Norwegian University of Science and Technology)*; Jon Yngve Hardeberg (NTNU); Abhijeet Ghosh (Imperial College London); Giuseppe Claudio Guarnera (University of York)</i></li>
 						<li>Refocus-NeRF: Focus-Distance-Aware Neural Radiance Fields Trained with Focus Bracket Photography<br/><i>Yuki Yabumoto (Shibaura Institute of Technology)*; Takuhiro Nishida (Shibaura Institute of Technology); Takashi Ijiri (Shibaura Institute of Technology)</i></li>
 						<li>MV-SyDog: A Multi-View 3D Dog Pose Dataset for Advancing 3D Pose Estimation<br/><i>Moira C Shooter (University of Surrey)*; Charles Malleson (University of Surrey); Adrian Hilton (University of Surrey)</i></li>
 						<li>AI Robotic Camera System for Live Soccer Broadcasts<br/><i>Kota Takahashi (Japan Broadcasting Corporation)*; Toshie Misu (Japan Broadcasting Corporation); Kensuke Hisatomi ( Japan Broadcasting Corporation)</i></li>
 						<li>Depth Reprojection for Mitigating Latency in XR Media Production<br/><i>Dominic Brown (disguise Technologies Ltd)*; Sebastian Day (disguise Technologies Ltd); Tom Whittock (disguise Technologies Ltd)</i></li>
 						<li>Real-time omnidirectional 3D multi-person human pose estimation with occlusion handling<br/><i>Pawel M Knap (University of Southampton)*; Peter TD Hardy (University of Southampton); Alberto Tamajo (University of Southampton); Hwasup Lim (Korea Institute of Science and Technology); Hansung Kim (University Of Southampton)</i></li>
-						<li>Using ML networks for turning 2D video into 3D Volumetric Video inside of Unreal Engine 5 <br/><i>Alex Grona (Velox XR Limited)*</i></li>
+					<b>Demo Presentation</b>	
+                        <li>Using ML networks for turning 2D video into 3D Volumetric Video inside of Unreal Engine 5 <br/><i>Alex Grona (Velox XR Limited)*</i></li>
 						<li>Drawing from Motion Capture: Performance, 3D Drawing and Character Animation<br/><i>Ricardo Megre (AIM Creative Studios)*</i></li>
 						<li>LightMoCap: Light-weight, Real-time & Scalable Markerless Motion Capture <br/><i>Georgios Albanis (University of Thessaly)*; NIKOLAOS ZIOULIS (Independent Researcher); Anargyros Chatzitofis (Moverse); Spyridon Thermos (Moverse); Vladimiros Sterzentsenko (CERTH); Kostas Kolomvatsos (University of Thessaly)</i></li>
 						<li>Audio-Driven Video Composition<br/><i>Tim Rumpf (Filmuniversity Babelsberg Konrad Wolf); Jakub Fiser (Adobe Research)*</i></li>
-					</ul>
+                    </ul>
 				</td>
 			</tr>
 			<tr>
