@@ -11,9 +11,8 @@ Ticket numbers are restricted, so make sure to reserve your place early!
 
 Tickets gain you entry to all areas of the conference (keynotes, paper sessions, poster and demos), lunch, refreshments, and also to the networking reception on 30th November and 1st December 2023.
 
-The registration is now closed.
+**The registration is now closed.**
 
-**Early Bird prices end on November 10th at midnight(GMT) - Register now for the best price!**
 
 ### Available tickets 
 
