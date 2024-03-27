@@ -1,13 +1,16 @@
 ---
+redirect_from: "/"
 layout: cvmp-plain
-title: "CVMP 2023"
-year: 2023
+title: "CVMP 2024"
+year: 2024
 image:
     feature: img/teaser/London-teaser.jpg
 ---
-## 30th November - 1st December, BFI Southbank, London, UK
 
-Welcome to the ACM SIGGRAPH European Conference on Visual Media Production (CVMP). For years, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries.
+[//]: # (## 30th November - 1st December, BFI Southbank, London, UK)
+
+## London, UK
+Welcome to the European Conference on Visual Media Production (CVMP). For years, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries.
 
 CVMP brings together production and post-production specialists from the worlds of film, broadcast and games with imaging and graphics researchers; it brings together expertise in video processing, computer vision, computer graphics, animation and physical simulation.
 
