@@ -20,19 +20,19 @@ We encourage participation from a diverse range of backgrounds including scienti
 {: .panel-heading}
 <div class="panel-body">
 
-| __Full Papers deadline:__ | TBC |
-| - Review deadline: | TBC |
-| - Author notification: | TBC |
-| - Camera-ready submission deadline: | TBC |
-| __Industry Talks deadline:__ | TBC |
-| - Author notification: | TBC |
-| __Short Papers deadline:__ | TBC |
-| - Author notification: | TBC |
-| __Demos deadline:__ | TBC |
-| - Author notification: | TBC |
+| __Full Papers deadline:__ | 19 July 2024 |
+| - Review deadline: | 30 August 2024 |
+| - Author notification: | 9 September 2024 |
+| - Camera-ready submission deadline: | 20 September 2024 |
+| __Industry Talks deadline:__ | 13 September 2024 |
+| - Author notification: | 7 October 2024 |
+| __Short Papers deadline:__ | 13 September 2024 |
+| - Author notification: | 7 October 2024 |
+| __Demos deadline:__ | 13 September 2024 |
+| - Author notification: | 7 October 2024 |
 
 
-[//]: # (*All deadlines are 23:59 Pacific Time.*)
+*All deadlines are 23:59 Pacific Time.*
 
 </div>
 </div>
