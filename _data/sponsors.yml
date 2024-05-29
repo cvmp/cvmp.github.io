@@ -1,4 +1,8 @@
 2024:
+- name: Adobe
+  url: https://research.adobe.com/
+  image: img/2023/sponsors/logo-adobe.png
+  level: silver
 
 2023:
 - name: ACM SIGGRAPH
