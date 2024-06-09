@@ -97,4 +97,4 @@ Please ensure that you and your co-authors [obtain an ORCID ID](https://orcid.or
 
 
 
-[//]: # (#### For information on how to submit papers, please refer to the [Submission Instructions]&#40;{{site.baseurl}}/2023/submission-instructions/&#41;.)
+#### For information on how to submit papers, please refer to the [Submission Instructions]({{site.baseurl}}/2024/submission-instructions/).
