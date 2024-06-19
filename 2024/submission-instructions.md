@@ -30,8 +30,8 @@ Additionally, please set the conference details in the template as follows:
 
 ```
 %Conference
-\acmConference[CVMP 2024]{the 20th ACM SIGGRAPH European Conference on
-Visual Media Production}{Nov.\ 30--Dec.\ 1}{London, UK}
+\acmConference[CVMP 2024]{the 21st ACM SIGGRAPH European Conference on
+Visual Media Production}{Nov.\ 18--19}{London, UK}
 \acmYear{2024}
 \copyrightyear{2024}
 \setcopyright{none}
