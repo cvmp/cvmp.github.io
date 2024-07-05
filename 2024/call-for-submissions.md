@@ -5,7 +5,7 @@ excerpt: "Submit your work to CVMP 2024"
 year: 2024
 ---
 
-For two decades, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries: film, broadcast and games. The Conference brings together expertise in video processing, computer vision, computer graphics, animation and physical simulation. It provides a forum for the presentation of the latest research and application advances, combined with keynote and invited talks on state-of-the-art industry practice. CVMP regularly attracts over 100 attendees approximately 50:50 from academia and the creative industries.
+For two decades, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries: film, broadcast and games. The Conference brings together expertise in video processing, computer vision, computer graphics, animation and physical simulation sponsored by ACM SIGGRAPH. It provides a forum for the presentation of the latest research and application advances, combined with keynote and invited talks on state-of-the-art industry practice. CVMP regularly attracts over 100 attendees approximately 50:50 from academia and the creative industries.
 
 ---
 Please check our website https://cvmp-conference.org/ and follow @CVMP on twitter for the latest updates. Proceedings of the Full Papers will appear in the ACM Digital Library, subject to ACM approval of this year’s conference. 
