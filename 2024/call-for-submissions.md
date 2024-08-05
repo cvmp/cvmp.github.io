@@ -20,7 +20,7 @@ We encourage participation from a diverse range of backgrounds including scienti
 {: .panel-heading}
 <div class="panel-body">
 
-| __Full Papers deadline:__ | ~~19 July 2024~~ ~~02 August 2024~~ <span style="color:red">13 August 2024</span>|
+| __Full Papers deadline:__ | ~~19 July 2024~~ ~~02 August 2024~~ <span style="color:red">16 August 2024</span>|
 | - Review deadline: | ~~30 August 2024~~ 13 September 2024|
 | - Author notification: | ~~9 September 2024~~ 23 September 2024 |
 | - Camera-ready submission deadline: | ~~20 September 2024~~ 4 October 2024 |
