@@ -4,6 +4,11 @@
   image: img/2023/sponsors/logo-adobe.png
   level: silver
 
+- name: Foundry
+  url: https://www.foundry.com/
+  image: img/2024/sponsors/Foundry_RGB_black-yellow-01.png
+  level: silver
+
 2023:
 - name: ACM SIGGRAPH
   url: https://www.siggraph.org/
