@@ -24,11 +24,11 @@ We encourage participation from a diverse range of backgrounds including scienti
 | - Review deadline: | ~~30 August 2024~~ 13 September 2024|
 | - Author notification: | ~~9 September 2024~~ 23 September 2024 |
 | - Camera-ready submission deadline: | ~~20 September 2024~~ 4 October 2024 |
-| __Industry Talks deadline:__ | 6 September 2024 |
+| __Industry Talks deadline:__ | ~~6 September 2024~~ <span style="color:red">20 September 2024</span>|
 | - Author notification: | 30 September 2024 |
-| __Short Papers deadline:__ | 6 September 2024 |
+| __Short Papers deadline:__ | ~~6 September 2024~~ <span style="color:red">20 September 2024</span>|
 | - Author notification: | 30 September 2024 |
-| __Demos deadline:__ | 6 September 2024 |
+| __Demos deadline:__ | ~~6 September 2024~~ <span style="color:red">20 September 2024</span>|
 | - Author notification: | 30 September 2024 |
 
 
