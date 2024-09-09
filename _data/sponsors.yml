@@ -9,6 +9,11 @@
   image: img/2024/sponsors/Foundry_RGB_black-yellow-01.png
   level: silver
 
+- name: CAMERA
+  url: https://www.camera.ac.uk/
+  image: img/2023/sponsors/logo-camera-2x.png
+  level: academic
+
 2023:
 - name: ACM SIGGRAPH
   url: https://www.siggraph.org/
