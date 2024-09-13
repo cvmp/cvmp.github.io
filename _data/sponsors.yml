@@ -14,6 +14,11 @@
   image: img/2023/sponsors/logo-camera-2x.png
   level: academic
 
+- name: Activision
+  url: https://research.activision.com/
+  image: img/2023/sponsors/logo-activision-2x.png
+  level: bronze
+
 2023:
 - name: ACM SIGGRAPH
   url: https://www.siggraph.org/
