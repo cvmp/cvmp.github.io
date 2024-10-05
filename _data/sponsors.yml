@@ -19,6 +19,11 @@
   image: img/2023/sponsors/logo-activision-2x.png
   level: bronze
 
+- name: Reality Labs
+  url: https://about.meta.com/uk/realitylabs/
+  image: img/2023/sponsors/logo-reality_labs_research.png
+  level: silver
+
 2023:
 - name: ACM SIGGRAPH
   url: https://www.siggraph.org/
