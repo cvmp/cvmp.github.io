@@ -24,6 +24,11 @@
   image: img/2023/sponsors/logo-reality_labs_research.png
   level: silver
 
+- name: YouTube
+  url: https://www.youtube.com/
+  image: img/2023/sponsors/logo-youtube.png
+  level: gold
+
 2023:
 - name: ACM SIGGRAPH
   url: https://www.siggraph.org/
