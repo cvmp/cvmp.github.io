@@ -1,7 +1,7 @@
 ---
 layout: cvmp-default
 title: Keynotes
-year: 2023
+year: 2024
 ---
 
 We are pleased to announce the following keynote speakers for CVMP 2024:
