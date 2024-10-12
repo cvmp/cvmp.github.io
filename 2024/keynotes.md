@@ -61,6 +61,15 @@ Virtual reality (VR) is an exciting and rapidly growing medium that presents bot
 
 </div>
 
+<a name="SS" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Sarah Ellis, Royal Shakespeare Company <br> 
+
+[//]: # (We are witnessing an impressive pace of innovation happening in the generative AI space. 2D image domain is often at the frontier of this innovation followed by trends to extend the success to domains such as videos or 3D. While they seem as different domains, one can argue that these domains are in fact very much connected. In this talk, I will talk about some recent efforts that leverage the knowledge of foundational models trained for a particular domain to address tasks in other domains. I will also present thoughts around future opportunities that can leverage this tight connection to go towards universal generation models.)
+
+*TBD*
 
 
 
