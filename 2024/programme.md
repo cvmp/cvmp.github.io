@@ -84,6 +84,7 @@ year: 2024
 					<ul>
 						<li>Optimal OLAT Alignment for Image-Based Relighting with Color-Multiplexed OLAT Sequence<br/><i>Arvin Lin, Abhijeet Ghosh </i></li>
 						<li>Image-Based Material Editing Using Perceptual Attributes or Ground-Truth Parameters<br/><i>Victor Stenvers, Peter Vangorp</i></li>
+                        <li>Low-light Video Enhancement with Conditional Diffusion Models and Wavelet Interscale Attentions<br/><i>Ruirui Lin, Qi Sun, Nantheera Anantrasirichai</i></li>
 					</ul>
 				</td>
 			</tr>
@@ -128,7 +129,7 @@ year: 2024
 				<td><b>Coffee Break</b></td>
 			</tr>	
 			<tr>
-				<td>11:00</td><td><a href="/2024/keynotes/#SS"><b>Keynote: TBD</b></a><br/>Shunsuke Saito, <i> Reality Labs Research, Meta</i></td>
+				<td>11:00</td><td><a href="/2024/keynotes/#SS"><b>Keynote: Foundations for 3D Digital Humans</b></a><br/>Shunsuke Saito, <i> Reality Labs Research, Meta</i></td>
 			</tr>
 			<tr>
 				<td>12:00</td>
