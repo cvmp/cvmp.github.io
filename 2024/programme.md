@@ -137,7 +137,7 @@ year: 2024
 			</tr>
 			<tr>
 				<td>13:45</td>
-				<td><b>Session #4: Industrial Session</b><br/>
+				<td><b>Session #4: Industrial Session: Generative AI in Media Production</b><br/>
 					<ul>
 						<li>John Collomosse, Adobe/Surrey University<br/><i></i></li>
 						<li> Graham Jack, BeloFX<br/><i></i></li>
@@ -152,7 +152,7 @@ year: 2024
 			</tr>
 			<tr>
 				<td>15:50</td>
-				<td><a href="/2024/keynotes/#AS"><b>Keynote: TBD</b></a><br/>Aljosa Smolic, <i> Lucerne University of Applied Sciences and Arts</i></td>
+				<td><a href="/2024/keynotes/#AS"><b>Keynote: AI-based Volumetric Content Creation for Immersive XR Experiences and Production Workflows</b></a><br/>Aljosa Smolic, <i> Lucerne University of Applied Sciences and Arts</i></td>
 			</tr>
 			<tr>
 				<td>16:50</td>
