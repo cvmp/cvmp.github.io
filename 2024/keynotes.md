@@ -10,7 +10,7 @@ We are pleased to announce the following keynote speakers for CVMP 2024:
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
-#### Aljosa Smolic, Lucerne University of Applied Sciences and Arts <br> 
+#### Aljosa Smolic, Lucerne University of Applied Sciences and Arts <br> AI-based Volumetric Content Creation for Immersive XR Experiences and Production Workflows
 
 [//]: # (We are witnessing an impressive pace of innovation happening in the generative AI space. 2D image domain is often at the frontier of this innovation followed by trends to extend the success to domains such as videos or 3D. While they seem as different domains, one can argue that these domains are in fact very much connected. In this talk, I will talk about some recent efforts that leverage the knowledge of foundational models trained for a particular domain to address tasks in other domains. I will also present thoughts around future opportunities that can leverage this tight connection to go towards universal generation models.)
 
@@ -69,7 +69,7 @@ Virtual reality (VR) is an exciting and rapidly growing medium that presents bot
 
 [//]: # (We are witnessing an impressive pace of innovation happening in the generative AI space. 2D image domain is often at the frontier of this innovation followed by trends to extend the success to domains such as videos or 3D. While they seem as different domains, one can argue that these domains are in fact very much connected. In this talk, I will talk about some recent efforts that leverage the knowledge of foundational models trained for a particular domain to address tasks in other domains. I will also present thoughts around future opportunities that can leverage this tight connection to go towards universal generation models.)
 
-*TBD*
+*Sarah Ellis is an award-winning producer currently working as Director of Digital Development for the Royal Shakespeare Company to explore new artistic initiatives and partnerships. The latest partnership for the RSC is the Audience of the Future Live Performance Demonstrator funded by Innovate UK - a consortium consisting of arts organisations, research partners and technology companies to explore the future of performances and real-time immersive experiences.As a spoken word producer, she has worked with the Old Vic Tunnels, Battersea Arts Centre, Birmingham REP, Contact, Improbable, Southbank Centre, Soho Theatre, and Shunt. She has been Head of Creative Programmes at the Albany Theatre and Programme Manager for Apples & Snakes.She is a regular speaker and commentator on digital arts practice, as well as an Industry Champion for the Creative Industries Policy and Evidence Centre, which helps inform academic research on the creative industries to lead to better policies for the sector. She has been appointed Chair of digital agency, The Space, established by Arts Council England and the BBC to help promote digital engagement across the arts.*
 
 
 
