@@ -11,7 +11,7 @@ Ticket numbers are restricted, so make sure to reserve your place early!
 
 Tickets gain you entry to all areas of the conference (keynotes, paper sessions, poster and demos), lunch, refreshments, and also to the networking reception on 18th-19th November 2024.
 
-**The official registration will open soon; however, we are happy to issue visa letters right now. For visa letters please contact [h.kim@soton.ac.uk](h.kim@soton.ac.uk)**
+**The official registration is now open, please follow the [Link](https://store.surrey.ac.uk/conferences-and-events/feps-faculty-of-engineering-physical-sciences/cvssp);  For visa letters please contact [h.kim@soton.ac.uk](h.kim@soton.ac.uk)**
 
 
 ### Available tickets 
