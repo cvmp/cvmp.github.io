@@ -18,11 +18,11 @@ Tickets gain you entry to all areas of the conference (keynotes, paper sessions,
 
 - **Regular registration**  
 Full conference ticket for both days
-  * £400 (early bird)
+  * £400 (early bird) - Finishes on 1st Nov.
   * £450 (regular)
 
 - **Student registration**  
 Full conference ticket for both days - <span class="label label-info">Students only</span>
-  * £200 (early bird)
+  * £200 (early bird) - Finishes on 1st Nov.
   * £250 (regular)
 
