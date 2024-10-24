@@ -147,10 +147,10 @@ year: 2024
 				<td>13:45</td>
 				<td><b>Session #4: Industrial Session: Generative AI in Media Production</b><br/>
 					<ul>
-						<li>John Collomosse, Adobe/Surrey University<br/><i></i></li>
-						<li> Graham Jack, BeloFX<br/><i></i></li>
-						<li>Armen Avetisyan, Meta<br/><i></i></li>
-						<li>Graham Thomas, BBC R&D<br/><i></i></li>
+						<li>John Collomosse, Adobe/Surrey University<br/><i></i>Building Safe and Fair Generative AI with Content Provenance</li>
+						<li> Graham Jack, BeloFX<br/><i></i>AI In VFX: What works and what doesn't (yet)</li>
+						<li>Armen Avetisyan, Meta<br/><i></i>Modern 3D scene understanding with Project Aria Glasses. A step closer towards always-on sensing with AI wearables.</li>
+						<li>Graham Thomas, BBC R&D<br/><i></i>Generative AI and Public Service Media at the BBC</li>
 					</ul>
 				</td>
 			</tr>
