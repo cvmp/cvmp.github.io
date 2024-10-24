@@ -113,6 +113,17 @@ year: 2024
     </div>
 </div>
 
+<div class="col-8 col-sm-6 col-lg-4">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">Conference Secretary</h4>
+        </div>
+        <div class="panel-body">
+            <h4><a href="https://www.surrey.ac.uk/people/elizabeth-eli-james" target="_blank">Elizabeth James</a><br><small>University of Surrey, UK</small></h4>
+        </div>
+    </div>
+</div>
+
 </div>
 
 <h2>Programme Committee</h2>
