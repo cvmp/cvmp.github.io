@@ -132,7 +132,6 @@ year: 2024
                     <li>Single-Image Coherent Reconstruction of Object and Human<br/><i>Sarthak Batra (University of Surrey) Armin Mustafa (University of Surrey)</i></li>
                     <li>A Preliminary Study on Real-Time Compositing for 2D Cel-Animation Production<br/><i>Takeshi Okuya (Waseda University) Brian Y Pascente (Rose-Hulman Institute of Technology)</i></li>
                     <li>Efficient Multi-Scale 3D Gaussian Splatting<br/><i>Umar Farooq (University of Surrey)* Jean-Yves Guillemaut (University of Surrey) Adrian Hilton (University of Surrey) Marco Volino (University of Surrey)</i></li>	
-                    <li>Audio-Driven 3D Gaussians for High-Fidelity Talking Head Synthesis at 120 FPS<br/><i>Kyusun Cho (Korea University) Seungryong Kim (Korea Advanced Institute of Science & Technology)</i></li>
                     <li>MAX-R Demo: AnimHost<br/><i>Jonas Trottnow (Filmakademie Baden-Württemberg GmbH) Simon Spielmann (Filmakademie Baden-Württemberg GmbH) Volker Helzle (ANIMATIONSINSTITUT, FILMAKADEMIE, FMX) Francesco Andreussi (Filmakademie Baden-Württemberg GmbH) Simon Haag (Filmakademie Baden-Würtemberg GmbH)</i></li>
                     <li>Demonstrating Causal-Temporal Narrative Video Captioning using NarrativeBridge<br/><i>Asmar Nadeem (University of Surrey) Mahrukh Awan (University of Surrey) Armin Mustafa (University of Surrey)</i></li>
                     <li>AI-Driven Real-Time Visualization of Music<br/><i>Jenny Huang (University of Television and Film Munich)</i></li>
