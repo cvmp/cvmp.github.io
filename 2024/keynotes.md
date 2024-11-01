@@ -74,9 +74,7 @@ Virtual reality (VR) is an exciting and rapidly growing medium that presents bot
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/img/2024/keynotes/Sarah_Ellis.jpg" class="img-responsive img-thumbnail" alt="Erik Reinhard" title="Erik Reinhard">
+  <img src="{{site.url}}/img/2024/keynotes/Sarah_Ellis.png" class="img-responsive img-thumbnail" alt="Erik Reinhard" title="Erik Reinhard">
 </figure>
 
 </div>
-
-
