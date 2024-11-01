@@ -50,32 +50,23 @@ year: 2024
 				<td>12:00</td>
 				<td><b>Spotlight Session-Short Papers and Demos</b><br/>
 					<ul>
+                        <li>Overview over MAX-R demos<br/><i>Jonas Trottnow (Filmakademie Baden-Würtemberg Gmbh)</i></li>
 						<li>A New Dataset for Multi-Camera Frame Synthesis<br/><i>Conall Daly (Trinity College Dublin, Ireland)  Anil Kokaram (Trinity College Dublin, Ireland)</i></li>
 						<li>TRACER: Modular Open-Source Framework for Real-Time XR Collaboration<br/><i>Jonas Trottnow (Filmakademie Baden-Württemberg GmbH) Simon Spielmann (Filmakademie Baden-Württemberg GmbH) Simon Haag (Filmakademie Baden-Württemberg GmbH) Francesco Andreussi (Filmakademie Baden-Württemberg GmbH)</i></li>
 						<li>Detection and Re-Identification in the case of Horse Racing<br/><i>Will Binnings (University of Surrey) Sadegh Rahmaniboldaji (University of Surrey) Xu Dong (University of Surrey) Andrew Gilbert (University of Surrey)</i></li>
 						<li>ATRA: An Adaptive Tick Rate Algorithm for Efficient Collaboration in Virtual Reality<br/><i>William Naylor (University of Warwick) Alan Chalmers (University of Warwick) Kurt Debattista (University of Warwick, UK)</i></li>
 						<li>High Fidelity 3D Head Reconstruction with 2D Gaussian Splatting<br/><i>Anil Bas (Bournemouth University) Oleg Fryazinov (Bournemouth University) Xiaosong Yang (Bournemouth University) Callum Rex Reid (Visualskies Ltd)</i></li>
-                        <li>A Novel Motion Control Workflow for Capturing and Reproducing Realistic Lens Flares<br/><i>Vincent Maurer (Filmakademie Baden-Württemberg)</i></li>
 						<li>Efficient Audio-Visual Fusion for Video Classification using Attend-Fusion<br/><i>Mahrukh Awan (University of Surrey) Asmar Nadeem (University of Surrey) Armin Mustafa (University of Surrey)</i></li>
-                        <li>2D or not 2D: Live broadcasting into a game engine using a pseudo-3D approach<br/><i>Graham Thomas (BBC) Fiona Rivera (BBC)</i></li>
-						<li>Overcoming Spatial Limitations in Optical Motion Capture Using Nested Volumes<br/><i>Paulo Scatena (Independent Researcher)</i></li>
-						<li>Single-Image Coherent Reconstruction of Object and Human<br/><i>Sarthak Batra (University of Surrey) Armin Mustafa (University of Surrey)</i></li>
-						<li>A Preliminary Study on Real-Time Compositing for 2D Cel-Animation Production<br/><i>Takeshi Okuya (Waseda University) Brian Y Pascente (Rose-Hulman Institute of Technology)</i></li>
-						<li>Synthesis of Realistic Tongue Movements for Speech Animation Using Gated Recurrent Units<br/><i>Jake G Mwangi-Powell (University of Surrey) Marco Volino (University of Surrey) Robert Kosk (Humain Studios) Neo Yang (University of Surrey)</i></li>
-						<li>Efficient Multi-Scale 3D Gaussian Splatting<br/><i>Umar Farooq (University of Surrey)* Jean-Yves Guillemaut (University of Surrey) Adrian Hilton (University of Surrey) Marco Volino (University of Surrey)</i></li>	
-                        <li>Audio-Driven 3D Gaussians for High-Fidelity Talking Head Synthesis at 120 FPS<br/><i>Kyusun Cho (Korea University) Seungryong Kim (Korea Advanced Institute of Science & Technology)</i></li>
+ 						<li>Synthesis of Realistic Tongue Movements for Speech Animation Using Gated Recurrent Units<br/><i>Jake G Mwangi-Powell (University of Surrey) Marco Volino (University of Surrey) Robert Kosk (Humain Studios) Neo Yang (University of Surrey)</i></li>
 						<li>MAX-R Demo: Digital Location<br/><i>Jonas Trottnow (Filmakademie Baden-Württemberg GmbH) Simon Spielmann (Filmakademie Baden-Württemberg GmbH) Volker Helzle (ANIMATIONSINSTITUT, FILMAKADEMIE, FMX) Alexandru-Sebastian Tufis-Schwartz (Filmakademie Baden-Württemberg GmbH)</i></li>
-						<li>MAX-R Demo: AnimHost<br/><i>Jonas Trottnow (Filmakademie Baden-Württemberg GmbH) Simon Spielmann (Filmakademie Baden-Württemberg GmbH) Volker Helzle (ANIMATIONSINSTITUT, FILMAKADEMIE, FMX) Francesco Andreussi (Filmakademie Baden-Württemberg GmbH) Simon Haag (Filmakademie Baden-Würtemberg GmbH)</i></li>
-						<li>Demonstrating Causal-Temporal Narrative Video Captioning using NarrativeBridge<br/><i>Asmar Nadeem (University of Surrey) Mahrukh Awan (University of Surrey) Armin Mustafa (University of Surrey)</i></li>
                         <li>Advancements in Networked Pipelines for Virtual Production<br/><i>Philip Coulam-Jones (Disguise) Kenneth Leung (Disguise) Josh McNamee (Disguise)</i></li>
 						<li>EnVisualAIzer – Explorable AI-Generated Environments for All Filmmakers in Virtual Production<br/><i>Pauline Leininger (University of Television and Film Munich)</i></li>
                         <li>The Changing Forest: managing mass personalisation via audio-visual media flexibilities<br/><i>Craig Cieciura (University of Surrey) Maggie Kosek (University of Surrey) Elettra Bargiacchi (University of Surrey) Philip JB Jackson (University of Surrey)</i></li>
-                        <li>AI-Driven Real-Time Visualization of Music<br/><i>Jenny Huang (University of Television and Film Munich)</i></li>
                     </ul>
 				</td>
 			</tr>
 			<tr>
-				<td>12:30</td>
+				<td>12:20</td>
 				<td><b>Lunch, Posters and Demos</b></td>
 			</tr>
 			<tr>
@@ -133,16 +124,32 @@ year: 2024
 			</tr>
 			<tr>
 				<td>12:00</td>
+				<td><b>Spotlight Session-Short Papers and Demos</b><br/>
+					<ul>
+                    <li>A Novel Motion Control Workflow for Capturing and Reproducing Realistic Lens Flares<br/><i>Vincent Maurer (Filmakademie Baden-Württemberg)</i></li>
+                    <li>2D or not 2D: Live broadcasting into a game engine using a pseudo-3D approach<br/><i>Graham Thomas (BBC) Fiona Rivera (BBC)</i></li>
+                    <li>Overcoming Spatial Limitations in Optical Motion Capture Using Nested Volumes<br/><i>Paulo Scatena (Independent Researcher)</i></li>
+                    <li>Single-Image Coherent Reconstruction of Object and Human<br/><i>Sarthak Batra (University of Surrey) Armin Mustafa (University of Surrey)</i></li>
+                    <li>A Preliminary Study on Real-Time Compositing for 2D Cel-Animation Production<br/><i>Takeshi Okuya (Waseda University) Brian Y Pascente (Rose-Hulman Institute of Technology)</i></li>
+                    <li>Efficient Multi-Scale 3D Gaussian Splatting<br/><i>Umar Farooq (University of Surrey)* Jean-Yves Guillemaut (University of Surrey) Adrian Hilton (University of Surrey) Marco Volino (University of Surrey)</i></li>	
+                    <li>MAX-R Demo: AnimHost<br/><i>Jonas Trottnow (Filmakademie Baden-Württemberg GmbH) Simon Spielmann (Filmakademie Baden-Württemberg GmbH) Volker Helzle (ANIMATIONSINSTITUT, FILMAKADEMIE, FMX) Francesco Andreussi (Filmakademie Baden-Württemberg GmbH) Simon Haag (Filmakademie Baden-Würtemberg GmbH)</i></li>
+                    <li>Demonstrating Causal-Temporal Narrative Video Captioning using NarrativeBridge<br/><i>Asmar Nadeem (University of Surrey) Mahrukh Awan (University of Surrey) Armin Mustafa (University of Surrey)</i></li>
+                    <li>AI-Driven Real-Time Visualization of Music<br/><i>Jenny Huang (University of Television and Film Munich)</i></li>
+                    </ul>
+				</td>
+			</tr>
+			<tr>
+				<td>12:15</td>
 				<td><b>Lunch, Posters and Demos</b></td>
 			</tr>
 			<tr>
 				<td>13:45</td>
 				<td><b>Session #4: Industrial Session: Generative AI in Media Production</b><br/>
 					<ul>
-						<li>John Collomosse, Adobe/Surrey University<br/><i></i></li>
-						<li> Graham Jack, BeloFX<br/><i></i></li>
-						<li>Armen Avetisyan, Meta<br/><i></i></li>
-						<li>Graham Thomas, BBC R&D<br/><i></i></li>
+						<li>John Collomosse, Adobe/Surrey University<br/><i></i>Building Safe and Fair Generative AI with Content Provenance</li>
+						<li> Graham Jack, BeloFX<br/><i></i>AI In VFX: What works and what doesn't (yet)</li>
+						<li>Armen Avetisyan, Meta<br/><i></i>Modern 3D scene understanding with Project Aria Glasses. A step closer towards always-on sensing with AI wearables.</li>
+						<li>Graham Thomas, BBC R&D<br/><i></i>Generative AI and Public Service Media at the BBC</li>
 					</ul>
 				</td>
 			</tr>
