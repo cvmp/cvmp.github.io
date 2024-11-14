@@ -50,7 +50,7 @@ year: 2024
         </div>
         <div class="panel-body">
             <h4><a href="http://www.megalithic-visions.org/oliver/" target="_blank">Oliver Grau</a><br><small>Intel, Germany</small></h4>
-            <h4><a href="https://www.linkedin.com/in/saracoppolanicholson/" target="_blank">Sara Coppola-Nicholson</a><br><small>Disguise, UK</small></h4>
+            <h4><a href="https://www.linkedin.com/in/saracoppolanicholson/" target="_blank">Sara Coppola-Nicholson</a><br><small>Cooke, UK</small></h4>
         </div>
     </div>
 </div>
