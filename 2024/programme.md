@@ -5,9 +5,9 @@ year: 2024
 ---
 ##### Noted that this program is tentative and subject to change
 
-[//]: # (<strong>Programme booklet:</strong>)
+<strong>Programme booklet:</strong>
+[CVMP 2024 Programme (9.9 MB)]({{ site.url }}/files/2024/CVMP24.pdf)
 
-[//]: # ([CVMP 2023 Programme &#40;9.6 MB&#41;]&#40;{{ site.url }}/files/2023/CVMP23-brochure.pdf&#41;)
 
 [//]: # ()
 [//]: # (<strong>Conference proceedings:</strong>)
