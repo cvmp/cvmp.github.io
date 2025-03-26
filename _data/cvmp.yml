@@ -1,5 +1,6 @@
-current-year: 2024
+current-year: 2025
 previous-years:
+    - 2025
     - 2024
     - 2023
     - 2022
@@ -7,6 +8,12 @@ previous-years:
     - 2020
     - 2019
     - 2018
+
+2025:
+    title: "The 22<sup>nd</sup> <b>European Conference on Visual Media Production</b>"
+    date: "4-5 December"
+    location: "BFI Southbank, London, UK"
+    logo: img/2025/CVMP-logo-1200w.png
 
 2024:
     title: "The 21<sup>st</sup> <b>ACM SIGGRAPH European Conference on Visual Media Production</b>"
