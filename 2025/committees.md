@@ -125,6 +125,32 @@ year: 2025
   </div>
 </div>
 
+<h2>Steering Committee</h2>
+<div class="row">
+  <div class="col-xs-12">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">Steering Committee</h4>
+      </div>
+      <div class="panel-body">
+        <div class="row">
+          <div class="col-xs-12 col-sm-4 col-lg-4">
+            <h4><a href="https://marcovolino.github.io/" target="_blank">Marco Volino</a><br><small>University of Surrey, UK</small></h4>
+            <h4><a href="http://www.megalithic-visions.org/oliver/" target="_blank">Oliver Grau</a><br><small>Intel, Germany</small></h4>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-lg-4">
+            <h4><a href="https://researchportal.bath.ac.uk/en/persons/neill-campbell" target="_blank">Neill Campbell</a><br><small>University of Bath, UK</small></h4>
+            <h4><a href="https://www.surrey.ac.uk/people/adrian-hilton" target="_blank">Adrian Hilton</a><br><small>University of Surrey, UK</small></h4>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-lg-4">
+            <h4><a href="https://personalpages.surrey.ac.uk/j.collomosse/" target="_blank">John Collomosse</a><br><small>University of Surrey, UK</small></h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 <h2>Programme Committee</h2>
 <div class="row">
   <div class="col-xs-12">
@@ -135,4 +161,16 @@ year: 2025
       <div class="panel-body">
         <div class="row">
           <div class="col-xs-12 col-sm-4 col-lg-4">
-            <h4>TBD<br><small></small>
+            <h4>TBD<br><small></small></h4>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-lg-4">
+            <h4>TBD<br><small></small></h4>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-lg-4">
+            <h4>TBD<br><small></small></h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
