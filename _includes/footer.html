@@ -4,7 +4,11 @@
   <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.{% if site.email %} Contact: <a href="mailto:{{site.email}}" target="_top">{{site.email}}</a>{% endif %}</span>
   <div class="social-icons pull-right">
     {% if site.linkedin %}<a href="https://www.linkedin.com/company/{{ site.linkedin }}" title="{{site.title}} on LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>{% endif %}
-    {% if site.bluesky %}<a href="https://bsky.app/profile/{{ site.bluesky }}" title="{{site.title}} on BlueSky" target="_blank"><i class="fa fa-cloud fa-2x"></i></a>{% endif %}
+    {% if site.bluesky %}
+    <a href="https://bsky.app/profile/{{ site.bluesky }}" title="{{site.title}} on BlueSky" target="_blank">
+      <img src="/img/2025/Bluesky_Logo.svg.png" alt="BlueSky" style="height: 24px; vertical-align: middle;">
+    </a>
+    {% endif %}
     {% if site.facebook %}<a href="https://www.facebook.com/{{ site.facebook }}" title="{{site.title}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
   </div>
 </div>
