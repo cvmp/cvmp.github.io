@@ -1,13 +1,10 @@
-<footer class="visible-xs">
-
-</footer>
-
-
+<footer class="visible-xs"></footer>
 <!-- footer -->
 <div class="panel" id="social">
   <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.{% if site.email %} Contact: <a href="mailto:{{site.email}}" target="_top">{{site.email}}</a>{% endif %}</span>
   <div class="social-icons pull-right">
-    {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}" title="{{site.title}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
+    {% if site.linkedin %}<a href="https://www.linkedin.com/company/{{ site.linkedin }}" title="{{site.title}} on LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>{% endif %}
+    {% if site.bluesky %}<a href="https://bsky.app/profile/{{ site.bluesky }}" title="{{site.title}} on BlueSky" target="_blank"><i class="fa fa-cloud fa-2x"></i></a>{% endif %}
     {% if site.facebook %}<a href="https://www.facebook.com/{{ site.facebook }}" title="{{site.title}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
   </div>
 </div>
