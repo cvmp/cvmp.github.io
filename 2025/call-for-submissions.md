@@ -10,7 +10,7 @@ For over two decades, CVMP has built a reputation as the prime venue for researc
 ### Conference Theme 2025: From Capture to Creation: Intelligent 3D Scene Representation
 
 ---
-CVMP will take place physically at the BFI Southbank in London on 4–5 December 2025. Please check our website https://cvmp-conference.org/ and follow us on [BlueSky](https://bsky.app/profile/cvmp.bsky.social) or [LinkedIn](https://www.linkedin.com/company/cvmp-conference) for the latest updates. Proceedings of the Full Papers will appear in the ACM Digital Library.
+CVMP will take place physically at the BFI Southbank in London on 4–5 December 2025. Please check our website https://cvmp-conference.org/ and follow us on [BlueSky](https://bsky.app/profile/cvmp.bsky.social) or [LinkedIn](https://www.linkedin.com/company/cvmp) for the latest updates. Proceedings of the Full Papers will appear in the ACM Digital Library.
 
 We encourage participation from a diverse range of backgrounds, including scientists, engineers, artists, and producers, to contribute inspiring papers, presentations, posters, and technical abstracts. We invite submissions to the conference on any topic that demonstrates an impact on visual media production, animation, and interactive content creation and experiences. This year there is an additional focus on **From Capture to Creation: Intelligent 3D Scene Representation across the Creative Industries**. We encourage the submission of innovative ideas, technical details, and insight or experience into theory and/or practice.
 
