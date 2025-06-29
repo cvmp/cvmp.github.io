@@ -1,7 +1,13 @@
 2025:
-# Initial structure with no sponsors yet
-# Will be updated as sponsors are confirmed
+- name: CVSSP
+  url: https://www.surrey.ac.uk/centre-vision-speech-signal-processing
+  image: img/2023/sponsors/logo-cvssp.png
+  level: academic
 
+- name: People-Centred AI Institute
+  url: https://www.surrey.ac.uk/artificial-intelligence
+  image: img/2023/sponsors/logo-people-centred-ai-UoS.png
+  level: academic
 2024:
 - name: Adobe
   url: https://research.adobe.com/
