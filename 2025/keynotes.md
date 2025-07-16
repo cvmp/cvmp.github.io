@@ -10,6 +10,24 @@ We are pleased to announce the following keynote speakers for CVMP 2025:
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
+#### Christian Richardt, Meta Reality Labs <br> TBD (Title to be announced)
+
+Abstract and talk details will be announced soon.
+
+*Christian Richardt is a Research Scientist at Meta Reality Labs in Zurich, Switzerland, and previously at the Codec Avatars Lab in Pittsburgh, USA. Until 2022, he was previously a Reader (=Associate Professor) and EPSRC-UKRI Innovation Fellow in the Visual Computing Group and the CAMERA Centre at the University of Bath. His research interests cover the fields of image processing, computer graphics and computer vision, and his research combines insights from vision, graphics and perception to reconstruct visual information from images and videos, to create high-quality visual experiences with a focus on novel-view synthesis. Christian is delighted to return to CVMP after (co-)chairing CVMP in 2020 and 2021.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2025/keynotes/Christian.jpg" class="img-responsive img-thumbnail" alt="Christian Richardt" title="Christian Richardt">
+</figure>
+
+</div>
+
+<a name="AD" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
 #### Angela Dai, Technical University of Munich <br> TBD (Title to be announced)
 
 Abstract and talk details will be announced soon.
