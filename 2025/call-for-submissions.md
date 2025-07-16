@@ -17,21 +17,25 @@ We encourage participation from a diverse range of backgrounds, including scient
 ---
 
 {::options parse_block_html="true" /}
-<div class="panel panel-danger">
-<h3> 🚨 EXTENDED DEADLINE - Important Dates 🚨 </h3>
+<div class="panel panel-info">
+<h3> Important Dates </h3>
 {: .panel-heading}
 <div class="panel-body">
-| Full Papers deadline: | <span style="color:red">08 August 2025 (EXTENDED)</span> |
-| - Review deadline: | 29 September 2025 |
-| - Author notification: | 06 October 2025 |
-| - Camera-ready submission deadline: | 17 October 2025 |
-| Industry Talks deadline: | 19 September 2025 |
+
+| __Full Papers deadline:__ | ~~25 July 2025~~ <span style="color:red">08 August 2025</span>|
+| - Review deadline: | 15 September 2025 |
+| - Author notification: | 22 September 2025 |
+| - Camera-ready submission deadline: | 03 October 2025 |
+| __Industry Talks deadline:__ | 19 September 2025 |
 | - Author notification: | 03 October 2025 |
-| Short Papers deadline: | 05 September 2025 |
+| __Short Papers deadline:__ | 05 September 2025 |
 | - Author notification: | 29 September 2025 |
-| Demos deadline: | 05 September 2025 |
+| __Demos deadline:__ | 05 September 2025 |
 | - Author notification: | 29 September 2025 |
-All deadlines are 23:59 Pacific Time.
+
+
+*All deadlines are 23:59 Pacific Time.*
+
 </div>
 </div>
 
