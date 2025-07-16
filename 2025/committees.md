@@ -165,7 +165,7 @@ year: 2025
             <h4>Craig Kaplan<br><small>University of Waterloo</small></h4>
             <h4>Da Chen<br><small>University of Bath</small></h4>
             <h4>Daljit Singh Dhillon<br><small>Clemson University</small></h4>
-            <h4>Florian Barthel<br><small>University of Bath</small></h4>
+            <h4>Florian Barthel<br><small>Humboldt University of Berlin</small></h4>
             <h4>Graham Thomas<br><small>BBC</small></h4>
           </div>
           <div class="col-xs-12 col-sm-4 col-lg-4">
@@ -173,13 +173,13 @@ year: 2025
             <h4>Joe Geigel<br><small>Rochester Institute of Technology</small></h4>
             <h4>John Collomosse<br><small>University of Surrey</small></h4>
             <h4>Kenny Mitchell<br><small>Edinburgh Napier University</small></h4>
-            <h4>Lena Gieseke<br><small>University of Applied Sciences Düsseldorf</small></h4>
+            <h4>Lena Gieseke<br><small>Film University Babelsberg KONRAD WOLF</small></h4>
             <h4>Marc Christie<br><small>University of Rennes</small></h4>
           </div>
           <div class="col-xs-12 col-sm-4 col-lg-4">
-            <h4>Martin Eisemann<br><small>University of Applied Sciences Düsseldorf</small></h4>
+            <h4>Martin Eisemann<br><small>TU Braunschweig</small></h4>
             <h4>Oliver Grau<br><small>Intel</small></h4>
-            <h4>Peter Eisert<br><small>Humboldt University</small></h4>
+            <h4>Peter Eisert<br><small>Fraunhofer HHI / HU Berlin</small></h4>
             <h4>Robert Dawes<br><small>BBC</small></h4>
             <h4>Zhidong Xiao<br><small>Bournemouth University</small></h4>
           </div>
