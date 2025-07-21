@@ -4,6 +4,11 @@
   image: img/2023/sponsors/logo-acm-siggraph-wide.png
   level: conference
 
+- name: Microsoft
+  url: https://www.microsoft.com/
+  image: img/2025/Microsoft-Logo.png
+  level: silver
+
 - name: YouTube
   url: https://www.youtube.com/
   image: img/2023/sponsors/logo-youtube.png
