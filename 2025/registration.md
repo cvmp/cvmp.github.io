@@ -9,7 +9,7 @@ year: 2025
 CVMP is a not-for-profit, paid ticket event.
 Ticket numbers are restricted, so make sure to reserve your place early!
 
-Tickets gain you entry to all areas of the conference (keynotes, paper sessions, poster and demos), lunch, refreshments, and also to the networking reception on 4-5 December 2025.
+Tickets gain you entry to all areas of the conference (keynotes, paper sessions, poster and demos), lunch, refreshments, and also to the networking reception on 3-4 December 2025.
 
 **Registration will open closer to the event date. Please check back later for details.**
 

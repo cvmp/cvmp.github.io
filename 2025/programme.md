@@ -11,7 +11,7 @@ year: 2025
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="thursday"></a>
 	<div class="panel panel-default">
-		<div class="panel-heading"><b>Thursday 4th December 2025</b></div>
+		<div class="panel-heading"><b>Wednesday 3rd December 2025</b></div>
 		<table class="table table-striped">
 			<tr>
 				<td>09:00</td>
@@ -81,7 +81,7 @@ year: 2025
 	</div>
 	<a name="friday"></a>
 	<div class="panel panel-default">
-		<div class="panel-heading"><b>Friday 5th December 2025</b></div>
+		<div class="panel-heading"><b>Thursday 4th December 2025</b></div>
 		<table class="table table-striped">
 			<tr>
 				<td>09:00</td>
