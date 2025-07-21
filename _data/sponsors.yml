@@ -1,4 +1,14 @@
 2025:
+- name: ACM SIGGRAPH
+  url: https://www.siggraph.org/
+  image: img/2023/sponsors/logo-acm-siggraph-wide.png
+  level: conference
+
+- name: YouTube
+  url: https://www.youtube.com/
+  image: img/2023/sponsors/logo-youtube.png
+  level: silver
+
 - name: CVSSP
   url: https://www.surrey.ac.uk/centre-vision-speech-signal-processing
   image: img/2023/sponsors/logo-cvssp.png
