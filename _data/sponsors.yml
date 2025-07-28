@@ -4,6 +4,11 @@
   image: img/2023/sponsors/logo-acm-siggraph-wide.png
   level: conference
 
+- name: Activision
+  url: https://research.activision.com/
+  image: img/2023/sponsors/logo-activision-2x.png
+  level: gold
+
 - name: Microsoft
   url: https://www.microsoft.com/
   image: img/2025/Microsoft-Logo.png
