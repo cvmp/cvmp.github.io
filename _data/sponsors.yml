@@ -14,9 +14,9 @@
   image: img/2025/Microsoft-Logo.png
   level: silver
 
-- name: YouTube
-  url: https://www.youtube.com/
-  image: img/2023/sponsors/logo-youtube.png
+- name: Google
+  url: https://www.google.com/
+  image: img/2023/sponsors/googlelogo.png
   level: silver
 
 - name: CVSSP
