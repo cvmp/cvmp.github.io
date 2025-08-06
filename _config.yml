@@ -30,5 +30,5 @@ bluesky: cvmp.bsky.social
 # Use this for production
 sass:
     style: compressed
-exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
+exclude: [.scss, README.md, node_modules, gruntfile.js, package.json, vendor, Gemfile, Gemfile.lock]
 
