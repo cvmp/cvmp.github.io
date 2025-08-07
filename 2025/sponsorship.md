@@ -36,13 +36,13 @@ We would like to thank the following sponsors without whom this event, in partic
 <div class="sponsor-tier silver-tier">
   <div class="sponsor-grid">
     <div class="sponsor-logo-box">
-      <a href="https://research.google.com/" target="_blank">
-        <img src="{{ site.baseurl }}/img/2023/sponsors/logo-google-2x.png" alt="Google">
+      <a href="https://www.google.com/" target="_blank">
+        <img src="{{ site.baseurl }}/img/2025/googlelogo.png" alt="Google">
       </a>
     </div>
     <div class="sponsor-logo-box">
       <a href="https://www.microsoft.com/en-us/research/" target="_blank">
-        <img src="{{ site.baseurl }}/img/2023/sponsors/logo-microsoft-2x.png" alt="Microsoft">
+        <img src="{{ site.baseurl }}/img/2025/Microsoft-Logo.png" alt="Microsoft">
       </a>
     </div>
   </div>
