@@ -22,7 +22,11 @@ We encourage participation from a diverse range of backgrounds, including scient
 {: .panel-heading}
 <div class="panel-body">
 
-| __Full Papers deadline:__ | ~~25 July 2025~~ <span style="color:red">08 August 2025</span>|
+<div class="alert alert-warning" role="alert">
+  <strong>📢 DEADLINE EXTENDED:</strong> Full Papers submission deadline has been extended to <strong>August 22, 2025</strong> (New Deadline: 22.08.2025)
+</div>
+
+| __Full Papers deadline:__ | ~~25 July 2025~~ <span style="color:red">22 August 2025</span>|
 | - Review deadline: | 15 September 2025 |
 | - Author notification: | 22 September 2025 |
 | - Camera-ready submission deadline: | 03 October 2025 |
