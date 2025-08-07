@@ -121,7 +121,7 @@ CVMP invites sponsors to help support the conference. Previously, our sponsors i
 </ul>
 </div>
 
-<h3>Bronze Refreshment Sponsor (2 available)</h3>
+<h3>Bronze Refreshment Sponsor</h3>
 
 <div class="sponsor-package bronze-package">
 <ul>
@@ -132,7 +132,7 @@ CVMP invites sponsors to help support the conference. Previously, our sponsors i
 </ul>
 </div>
 
-<h3>CVMP Technical Awards Sponsor (3 available)</h3>
+<h3>CVMP Technical Awards Sponsor</h3>
 
 <div class="sponsor-package awards-package">
 <ul>
