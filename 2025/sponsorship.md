@@ -82,7 +82,7 @@ CVMP invites sponsors to help support the conference. Previously, our sponsors i
 
 <div class="sponsorship-packages">
 
-### Gold Sponsor (Day Sponsor)
+<h3>Gold Sponsor (Day Sponsor)</h3>
 
 <div class="sponsor-package gold-package">
 <ul>
@@ -97,7 +97,7 @@ CVMP invites sponsors to help support the conference. Previously, our sponsors i
 </ul>
 </div>
 
-### Silver Sponsor
+<h3>Silver Sponsor</h3>
 
 <div class="sponsor-package silver-package">
 <ul>
@@ -109,7 +109,7 @@ CVMP invites sponsors to help support the conference. Previously, our sponsors i
 </ul>
 </div>
 
-### Bronze Evening Reception Sponsor
+<h3>Bronze Evening Reception Sponsor</h3>
 
 <div class="sponsor-package bronze-package">
 <ul>
@@ -121,7 +121,7 @@ CVMP invites sponsors to help support the conference. Previously, our sponsors i
 </ul>
 </div>
 
-### Bronze Refreshment Sponsor (2 available)
+<h3>Bronze Refreshment Sponsor (2 available)</h3>
 
 <div class="sponsor-package bronze-package">
 <ul>
@@ -132,7 +132,7 @@ CVMP invites sponsors to help support the conference. Previously, our sponsors i
 </ul>
 </div>
 
-### CVMP Technical Awards Sponsor (3 available)
+<h3>CVMP Technical Awards Sponsor (3 available)</h3>
 
 <div class="sponsor-package awards-package">
 <ul>
@@ -142,7 +142,7 @@ CVMP invites sponsors to help support the conference. Previously, our sponsors i
 </ul>
 </div>
 
-### CVMP Enhanced Registration Sponsor for Startups
+<h3>CVMP Enhanced Registration Sponsor for Startups</h3>
 
 <div class="sponsor-package startup-package">
 <ul>
@@ -152,7 +152,7 @@ CVMP invites sponsors to help support the conference. Previously, our sponsors i
 </ul>
 </div>
 
-### CVMP Academic Sponsor
+<h3>CVMP Academic Sponsor</h3>
 
 <div class="sponsor-package academic-package">
 <ul>
@@ -358,3 +358,4 @@ For sponsorship opportunities and custom packages, please contact:
   }
 }
 </style>
+
