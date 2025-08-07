@@ -10,7 +10,7 @@ We would like to thank the following sponsors without whom this event, in partic
 
 <div class="sponsors-container">
 
-## Conference Sponsor
+<h2>Conference Sponsor</h2>
 <div class="sponsor-tier conference-tier">
   <div class="sponsor-grid">
     <div class="sponsor-logo-box conference-logo">
@@ -21,7 +21,7 @@ We would like to thank the following sponsors without whom this event, in partic
   </div>
 </div>
 
-## Gold Sponsors
+<h2>Gold Sponsors</h2>
 <div class="sponsor-tier gold-tier">
   <div class="sponsor-grid">
     <div class="sponsor-logo-box">
@@ -32,7 +32,7 @@ We would like to thank the following sponsors without whom this event, in partic
   </div>
 </div>
 
-## Silver Sponsors
+<h2>Silver Sponsors</h2>
 <div class="sponsor-tier silver-tier">
   <div class="sponsor-grid">
     <div class="sponsor-logo-box">
@@ -48,7 +48,7 @@ We would like to thank the following sponsors without whom this event, in partic
   </div>
 </div>
 
-## Academic Partners
+<h2>Academic Partners</h2>
 <div class="sponsor-tier academic-tier">
   <div class="sponsor-grid">
     <div class="sponsor-logo-box">
@@ -74,35 +74,43 @@ CVMP provides an excellent platform for organizations to connect with leading re
 
 <div class="sponsorship-benefits">
 
-### Gold Sponsors
-- All attendee and organiser lanyards with company branding
-- Company logo displayed prominently throughout the conference
-- 20-minute talk slot presentation opportunity
-- Dedicated exhibition space and booth area
-- 4 complimentary full conference registrations
-- Official acknowledgment in all conference materials
-- Social media announcements across all CVMP channels
-- Networking reception presence with branded materials
+<h3>Gold Sponsors</h3>
+<ul>
+<li>All attendee and organiser lanyards with company branding</li>
+<li>Company logo displayed prominently throughout the conference</li>
+<li>20-minute talk slot presentation opportunity</li>
+<li>Dedicated exhibition space and booth area</li>
+<li>4 complimentary full conference registrations</li>
+<li>Official acknowledgment in all conference materials</li>
+<li>Social media announcements across all CVMP channels</li>
+<li>Networking reception presence with branded materials</li>
+</ul>
 
-### Silver Sponsors
-- Company logo displayed in conference materials and website
-- Talk slot OR exhibition space (choice of one)
-- 2 complimentary full conference registrations
-- Official acknowledgment in conference program
-- Social media announcements highlighting partnership
-- Networking access to academia and industry leaders
+<h3>Silver Sponsors</h3>
+<ul>
+<li>Company logo displayed in conference materials and website</li>
+<li>Talk slot OR exhibition space (choice of one)</li>
+<li>2 complimentary full conference registrations</li>
+<li>Official acknowledgment in conference program</li>
+<li>Social media announcements highlighting partnership</li>
+<li>Networking access to academia and industry leaders</li>
+</ul>
 
-### Bronze Sponsors
-- Company logo displayed in conference materials
-- Official acknowledgment in conference program and website
-- Social media announcements recognizing support
-- Networking opportunities during coffee breaks and poster sessions
+<h3>Bronze Sponsors</h3>
+<ul>
+<li>Company logo displayed in conference materials</li>
+<li>Official acknowledgment in conference program and website</li>
+<li>Social media announcements recognizing support</li>
+<li>Networking opportunities during coffee breaks and poster sessions</li>
+</ul>
 
-### Academic Partners
-- Partner logo displayed in conference materials and website
-- Official acknowledgment highlighting academic collaboration
-- Social media announcements celebrating partnership
-- Research community recognition and networking opportunities
+<h3>Academic Partners</h3>
+<ul>
+<li>Partner logo displayed in conference materials and website</li>
+<li>Official acknowledgment highlighting academic collaboration</li>
+<li>Social media announcements celebrating partnership</li>
+<li>Research community recognition and networking opportunities</li>
+</ul>
 
 </div>
 
