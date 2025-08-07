@@ -68,86 +68,114 @@ We would like to thank the following sponsors without whom this event, in partic
 
 ---
 
-## Become a Sponsor
+## Featuring the CVMP Technical Awards
 
-CVMP provides an excellent platform for organizations to connect with leading researchers in computer vision, graphics, and AI.
+For over 20 years CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the creative industries: film, broadcast, games and immersive entertainment. The Conference brings together expertise in video processing, computer vision, computer graphics, animation and physical simulation. It provides a forum for presentation of the latest research and application advances, combined with keynote and invited talks on state-of-the-art industry practice. 
 
-<div class="sponsorship-benefits">
+CVMP regularly attracts over 100 attendees approximately 50:50 from academia and the creative industries in addition to having an online audience. **This year, for the second time, we will be hosting the CVMP Technical Awards.**
 
-<h3>Gold Sponsors</h3>
+CVMP invites sponsors to help support the conference. Previously, our sponsors include YouTube, Adobe, Reality Labs Meta, Foundry, Activision, CVSSP and CAMERA. Like last year, we are affiliated with ACM SIGGRAPH.
+
+---
+
+## Sponsorship Opportunities
+
+<div class="sponsorship-packages">
+
+### Gold Sponsor (Day Sponsor)
+
+<div class="sponsor-package gold-package">
 <ul>
-<li>All attendee and organiser lanyards with company branding</li>
-<li>Company logo displayed prominently throughout the conference</li>
-<li>20-minute talk slot presentation opportunity</li>
-<li>Dedicated exhibition space and booth area</li>
-<li>4 complimentary full conference registrations</li>
-<li>Official acknowledgment in all conference materials</li>
-<li>Social media announcements across all CVMP channels</li>
-<li>Networking reception presence with branded materials</li>
+<li>Sponsorship of all attendee and organiser lanyards for the day (alongside other Day Sponsor or exclusive if both days sponsored)</li>
+<li>Advertised as either: "Venue for Day sponsored by COMPANY" or "Discounted student tickets sponsored by COMPANY"</li>
+<li>20-minute slot for a sponsored talk/demo</li>
+<li>Exhibition space at conference (~3x2m, first choice for a prime position in the exhibition area)</li>
+<li>Company logo displayed on CVMP website with hyperlink, banners and programme (gold prominence)</li>
+<li>Acknowledgment throughout the day at sessions</li>
+<li>Social media announcement when sponsorship is arranged and leading up to the conference</li>
+<li>2 complimentary delegate registrations (4 for both days), inclusive of social functions</li>
 </ul>
+</div>
 
-<h3>Silver Sponsors</h3>
-<ul>
-<li>Company logo displayed in conference materials and website</li>
-<li>Talk slot OR exhibition space (choice of one)</li>
-<li>2 complimentary full conference registrations</li>
-<li>Official acknowledgment in conference program</li>
-<li>Social media announcements highlighting partnership</li>
-<li>Networking access to academia and industry leaders</li>
-</ul>
+### Silver Sponsor
 
-<h3>Bronze Sponsors</h3>
+<div class="sponsor-package silver-package">
 <ul>
-<li>Company logo displayed in conference materials</li>
-<li>Official acknowledgment in conference program and website</li>
-<li>Social media announcements recognizing support</li>
-<li>Networking opportunities during coffee breaks and poster sessions</li>
+<li>Company logo on CVMP website with hyperlink, banners and programme (silver prominence)</li>
+<li>Choice of: Exhibition table at conference (~1.8x0.9m) OR 20-minute slot for a sponsored talk/demo</li>
+<li>Acknowledgment in the opening and closing sessions</li>
+<li>Social media announcement when sponsorship is arranged</li>
+<li>2 complimentary delegate registrations, inclusive of social functions</li>
 </ul>
+</div>
 
-<h3>Academic Partners</h3>
+### Bronze Evening Reception Sponsor
+
+<div class="sponsor-package bronze-package">
 <ul>
-<li>Partner logo displayed in conference materials and website</li>
-<li>Official acknowledgment highlighting academic collaboration</li>
-<li>Social media announcements celebrating partnership</li>
-<li>Research community recognition and networking opportunities</li>
+<li>Partner's logo on CVMP website with hyperlink, banners and programme (bronze prominence)</li>
+<li>Acknowledgment in the opening and closing sessions</li>
+<li>Sponsorship of the evening networking reception</li>
+<li>Opportunity for short speech at reception</li>
+<li>Exhibition of company display & materials to show at reception</li>
 </ul>
+</div>
+
+### Bronze Refreshment Sponsor (2 available)
+
+<div class="sponsor-package bronze-package">
+<ul>
+<li>Partner's logo on CVMP website with hyperlink, banners and programme (bronze prominence)</li>
+<li>Acknowledgment in the opening and closing sessions</li>
+<li>Sponsorship of the break and lunchtime breakout periods for one day</li>
+<li>Opportunity to exhibit company info & materials during breaks</li>
+</ul>
+</div>
+
+### CVMP Technical Awards Sponsor (3 available)
+
+<div class="sponsor-package awards-package">
+<ul>
+<li>Partner's logo on CVMP website with hyperlink, banners and programme (bronze prominence)</li>
+<li>Acknowledgment in the opening and closing sessions</li>
+<li>Sponsorship of one of the three CVMP Technical Awards</li>
+</ul>
+</div>
+
+### CVMP Enhanced Registration Sponsor for Startups
+
+<div class="sponsor-package startup-package">
+<ul>
+<li>Partner's logo on CVMP website with hyperlink, banners and programme (bronze prominence)</li>
+<li>Acknowledgment in the opening and closing sessions</li>
+<li>1 complimentary delegate registration, inclusive of social functions</li>
+</ul>
+</div>
+
+### CVMP Academic Sponsor
+
+<div class="sponsor-package academic-package">
+<ul>
+<li>Partner's logo on CVMP website with hyperlink, banners and programme</li>
+<li>Acknowledgment in the opening and closing sessions</li>
+<li>Acknowledgment via posters display section</li>
+</ul>
+</div>
 
 </div>
 
 ### Why Sponsor CVMP?
 
-<div class="row">
-<div class="col-md-6">
-
-**Elite Audience**
-- 100+ attendees from top universities and leading companies
-- Decision-makers in creative industries
-- Leading researchers in AI, graphics, and vision
-
-**Networking Opportunities**
-- Direct access to exceptional talent in computer graphics and AI
-- Connect with cutting-edge research communities
-- Meet potential collaborators and partners
-
-</div>
-<div class="col-md-6">
-
-**Visibility & Recognition**
-- Premier European conference with international reach
-- Thought leadership positioning in innovation
-- Comprehensive marketing across multiple channels
-
-**Recruitment Access**
-- Meet top-tier talent in visual computing
-- Connect with PhD students and postdocs
-- Access to Europe's best research institutions
-
-</div>
-</div>
+- **Elite Audience**: 100+ attendees from top universities and leading companies
+- **Industry Connection**: Direct access to decision-makers in creative industries
+- **Research Excellence**: Connect with cutting-edge research in AI, graphics, and vision
+- **Recruitment Opportunities**: Meet exceptional talent in computer graphics and AI
+- **European Reach**: Premier European conference with international visibility
+- **ACM Affiliation**: Prestigious association with ACM SIGGRAPH
 
 ### Contact Us
 
-For sponsorship opportunities and customized packages:
+For sponsorship opportunities and custom packages, please contact:
 
 - **Sara Coppola-Nicholson**: [sara.coppolanicholson@cookeoptics.com](mailto:sara.coppolanicholson@cookeoptics.com)
 - **Da Chen**: [dc598@bath.ac.uk](mailto:dc598@bath.ac.uk)
@@ -237,32 +265,65 @@ For sponsorship opportunities and customized packages:
   box-shadow: 0 4px 12px rgba(40,167,69,0.2);
 }
 
-.sponsorship-benefits {
-  background: #f8f9fa;
-  padding: 30px;
-  border-radius: 8px;
+.sponsorship-packages {
   margin: 30px 0;
 }
 
-.sponsorship-benefits h3 {
+.sponsor-package {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px 0;
+  border-left: 4px solid #dee2e6;
+}
+
+.gold-package {
+  border-left-color: #ffd700;
+  background: #fffdf0;
+}
+
+.silver-package {
+  border-left-color: #c0c0c0;
+  background: #fafafa;
+}
+
+.bronze-package {
+  border-left-color: #cd7f32;
+  background: #fdf9f5;
+}
+
+.awards-package {
+  border-left-color: #17a2b8;
+  background: #f0f9ff;
+}
+
+.startup-package {
+  border-left-color: #6f42c1;
+  background: #f8f6ff;
+}
+
+.academic-package {
+  border-left-color: #28a745;
+  background: #f0fff4;
+}
+
+.sponsor-package h3 {
   color: #2c3e50;
-  border-bottom: 2px solid #3498db;
-  padding-bottom: 8px;
   margin-bottom: 15px;
 }
 
-.sponsorship-benefits ul {
+.sponsor-package ul {
   list-style: none;
   padding-left: 0;
 }
 
-.sponsorship-benefits li {
+.sponsor-package li {
   padding: 5px 0;
   position: relative;
   padding-left: 25px;
 }
 
-.sponsorship-benefits li:before {
+.sponsor-package li:before {
   content: "✓";
   position: absolute;
   left: 0;
@@ -297,4 +358,3 @@ For sponsorship opportunities and customized packages:
   }
 }
 </style>
-
