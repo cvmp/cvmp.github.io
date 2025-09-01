@@ -41,11 +41,13 @@ Full papers should be of no more than 10 pages.
 
 ### Instructions for authors of short papers and demos
 
-Authors of short papers should prepare their **one-page paper** using the LaTeX style files available for download. The link to the template will be provided soon.
+Authors of short papers should prepare their **one-page paper** using the LaTeX style files available to download here:
+
+[CVMP Short Paper and Demos LaTeX template (1.1 MB)]({{ site.url }}/files/2025/latex_CVMP_short_2025.zip)
 
 Authors of demos should use the same format as short papers, describing their demo and its novelty.
 
-Submissions for both short papers and demos are single-blind and do not need to be anonymized.
+Submissions for both short papers and demos are single-blind and do not need to be anonymised.
 
 ### Publications Policies
 
