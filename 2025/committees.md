@@ -101,6 +101,17 @@ year: 2025
       </div>
     </div>
   </div>
+
+<div class="col-xs-12 col-sm-6 col-lg-4">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">Conference Secretary</h4>
+      </div>
+      <div class="panel-body">
+        <h4><a href="https://www.surrey.ac.uk/people/sophie-maxwell" target="_blank">Sophie Maxwell</a><br><small>University of Surrey, UK</small></h4>
+      </div>
+    </div>
+  </div>
   
   <div class="col-xs-12 col-sm-6 col-lg-4">
     <div class="panel panel-default">
