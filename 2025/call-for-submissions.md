@@ -23,6 +23,10 @@ We encourage participation from a diverse range of backgrounds, including scient
 <div class="panel-body">
 
 <div class="alert alert-warning" role="alert">
+  <strong>📢 DEADLINE EXTENDED:</strong> Short Papers & Demos submission Deadline has been extended to <strong>September 19, 2025</strong>
+</div>
+
+<div class="alert alert-warning" role="alert">
   <strong>📢 DEADLINE EXTENDED:</strong> Full Papers submission Deadline has been extended to <strong>August 22, 2025</strong>
 </div>
 
@@ -32,9 +36,9 @@ We encourage participation from a diverse range of backgrounds, including scient
 | - Camera-ready submission deadline: | 03 October 2025 |
 | __Industry Talks deadline:__ | 19 September 2025 |
 | - Author notification: | 03 October 2025 |
-| __Short Papers deadline:__ | 05 September 2025 |
+| __Short Papers deadline:__ | ~~05 September 2025~~ <span style="color:red">19 September 2025</span>|
 | - Author notification: | 29 September 2025 |
-| __Demos deadline:__ | 05 September 2025 |
+| __Demos deadline:__ | ~~05 September 2025~~ <span style="color:red">19 September 2025</span>|
 | - Author notification: | 29 September 2025 |
 
 
