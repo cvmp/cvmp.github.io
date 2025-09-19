@@ -33,16 +33,6 @@ We would like to thank the following sponsors without whom this event, in partic
 <div class="sponsor-tier silver-tier">
   <div class="sponsor-grid">
     <div class="sponsor-logo-box">
-      <a href="https://research.adobe.com/" target="_blank">
-        <img src="{{ site.baseurl }}/img/2023/sponsors/logo-adobe.png" alt="Adobe">
-      </a>
-    </div>
-    <div class="sponsor-logo-box">
-      <a href="https://www.foundry.com/" target="_blank">
-        <img src="{{ site.baseurl }}/img/2024/sponsors/Foundry_RGB_black-yellow-01.png" alt="Foundry">
-      </a>
-    </div>
-    <div class="sponsor-logo-box">
       <a href="https://www.google.com/" target="_blank">
         <img src="{{ site.baseurl }}/img/2025/googlelogo.png" alt="Google">
       </a>
@@ -50,6 +40,16 @@ We would like to thank the following sponsors without whom this event, in partic
     <div class="sponsor-logo-box">
       <a href="https://www.microsoft.com/en-us/research/" target="_blank">
         <img src="{{ site.baseurl }}/img/2025/Microsoft-Logo.png" alt="Microsoft">
+      </a>
+    </div>
+    <div class="sponsor-logo-box">
+      <a href="https://research.adobe.com/" target="_blank">
+        <img src="{{ site.baseurl }}/img/2023/sponsors/logo-adobe.png" alt="Adobe">
+      </a>
+    </div>
+    <div class="sponsor-logo-box">
+      <a href="https://www.foundry.com/" target="_blank">
+        <img src="{{ site.baseurl }}/img/2024/sponsors/Foundry_RGB_black-yellow-01.png" alt="Foundry">
       </a>
     </div>
   </div>
