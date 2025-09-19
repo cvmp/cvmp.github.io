@@ -193,6 +193,10 @@ year: 2025
             <h4>Peter Eisert<br><small>Fraunhofer HHI / HU Berlin</small></h4>
             <h4>Robert Dawes<br><small>BBC</small></h4>
             <h4>Zhidong Xiao<br><small>Bournemouth University</small></h4>
+            <h4>Umar Farooq<br><small>University of Surrey</small></h4>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-lg-4">
+            <h4>Diana Arellano<br><small>Filmakademie Baden-Wuerttemberg</small></h4>
           </div>
         </div>
       </div>
