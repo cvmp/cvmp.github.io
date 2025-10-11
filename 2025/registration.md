@@ -30,12 +30,12 @@ Tickets gain you entry to all areas of the conference (keynotes, paper sessions,
 
 ### Available tickets
 
-- **Non-Student / Author Early**  
+- **Non-Student / Author**  
 Full conference ticket for both days - <span class="label label-danger">Author registration required</span>
   * £400 (early bird - until November 15)
   * £450 (regular - after November 15)
 
-- **Student Early**  
+- **Student**  
 Full conference ticket for both days - <span class="label label-info">Students only</span>
   * £225 (early bird - until November 15)
   * £275 (regular - after November 15)
