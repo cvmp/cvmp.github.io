@@ -8,11 +8,12 @@ year: 2025
 
 #### The CVMP 2025 conference will be hosted at the BFI Southbank (London, SE1 8XT, UK)
 
-<img src="{{site.url}}/{{site.baseurl}}/img/2024/BFI_Southbank.jpeg" class="img-thumbnail">
+<img src="{{site.url}}/{{site.baseurl}}/img/2025/BFI_Southbank.jpeg" class="img-thumbnail">
 
 
 ### Transportation
-<img src="{{site.url}}/{{site.baseurl}}/img/2024/transport from waterloo.jpg" class="img-thumbnail">
+<img src="{{site.url}}/{{site.baseurl}}/img/2025/transport from waterloo.png" class="img-thumbnail">
+<img src="{{site.url}}/{{site.baseurl}}/img/2025/BFI entrance.png" class="img-thumbnail">
 
 #### From Waterloo Station
 * **Walk**: 8 min (0.4 mile) via Theatre Ave
