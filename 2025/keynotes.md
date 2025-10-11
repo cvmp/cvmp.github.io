@@ -28,9 +28,9 @@ Abstract and talk details will be announced soon.
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
-#### Christian Richardt, Meta Reality Labs <br> TBD (Title to be announced)
+#### Christian Richardt, Meta Reality Labs <br> Unleashing Immersive Spaces by Capturing, Reconstructing, and Rendering Reality
 
-Abstract and talk details will be announced soon.
+For over two centuries, immersive visual experiences have captivated our imagination. In this talk, we journey from the earliest experiments in immersive imagery to today’s most advanced techniques for capturing, reconstructing, and rendering reality. Discover how breakthroughs in real-time neural rendering and Gaussian splatting – now running in virtual reality headsets – are transforming real environments into truly immersive virtual spaces. We will journey from the fundamentals of 360° and omni-directional stereo video to the latest advances in neural 3D video, intrinsic image decomposition, and inverse rendering. Along the way, we’ll examine how innovations in sensor technology, such as time-of-flight cameras and transient imaging, are enabling richer, more dynamic reconstructions of real-world scenes. The talk will highlight how these advances converge to create immersive, audiovisual and relightable, spaces for virtual reality that blur the line between the physical and virtual. Join us to discover how capturing, reconstructing, and rendering reality is unleashing a new era of immersive experiences.
 
 *Christian Richardt is a Research Scientist at Meta Reality Labs in Zurich, Switzerland, and previously at the Codec Avatars Lab in Pittsburgh, USA. Until 2022, he was previously a Reader (=Associate Professor) and EPSRC-UKRI Innovation Fellow in the Visual Computing Group and the CAMERA Centre at the University of Bath. His research interests cover the fields of image processing, computer graphics and computer vision, and his research combines insights from vision, graphics and perception to reconstruct visual information from images and videos, to create high-quality visual experiences with a focus on novel-view synthesis. Christian is delighted to return to CVMP after (co-)chairing CVMP in 2020 and 2021.*
 
@@ -46,9 +46,9 @@ Abstract and talk details will be announced soon.
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
-#### Angela Dai, Technical University of Munich <br> TBD (Title to be announced)
+#### Angela Dai, Technical University of Munich <br> Geometry First: Structured Representations for Generating 3D in a Large-Data World
 
-Abstract and talk details will be announced soon.
+Recent advances in machine learning have shown remarkable progress in generative synthesis of text, images, and even video, fueled by very large-scale data and compute. 3D, however, stands at the frontier of enabling machines to perceive and imagine the physical world -- critical for applications spanning content creation, mixed reality, and robotics. However, synthesis of 3D geometry remains constrained by significantly more limited data representing higher-dimensional information. In this talk, we explore lessons learned in incorporating structured priors into such generative 3D geometric synthesis. We examine how spatially grounded 3D scene representations can anchor learning, but often come at a high-dimensional cost. To address this, we construct compact 3D representations that preserve essential structures while remaining highly expressive. Finally, we show how integrating 3D structured priors with powerful complementary 2D signal can enable new possibilities in generative 3D synthesis. This opens the door to new paradigms beyond data limits for 3D synthesis.
 
 *Angela Dai is an Associate Professor at the Technical University of Munich where she leads the 3D AI Lab. Angela's research focuses on understanding how real-world 3D scenes around us can be modeled and semantically understood. Previously, she received her PhD in computer science from Stanford in 2018, advised by Pat Hanrahan, and her BSE in computer science from Princeton in 2013. Her research has been recognized through an ECVA Young Researcher Award, ERC Starting Grant, Eurographics Young Researcher Award, German Pattern Recognition Award, Google Research Scholar Award, and an ACM SIGGRAPH Outstanding Doctoral Dissertation Honorable Mention.*
 
