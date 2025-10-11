@@ -9,30 +9,52 @@ year: 2025
 CVMP is a not-for-profit, paid ticket event.
 Ticket numbers are restricted, so make sure to reserve your place early!
 
-Tickets gain you entry to all areas of the conference (keynotes, paper sessions, poster and demos), lunch, refreshments, and also to the networking reception on 3-4 December 2025.
+Tickets gain you entry to all areas of the conference (keynotes, paper sessions, poster and demos), lunch, refreshments, and also to the networking reception on December 3-4, 2025.
 
-**Registration will open closer to the event date. Please check back later for details.**
+**Registration is now open!**
 
-### Available tickets (Tentative)
+<div class="panel panel-warning">
+<div class="panel-heading">
+<h4>Important Registration Information</h4>
+</div>
+<div class="panel-body">
+<ul>
+<li><strong>Early/Author Registration Deadline: November 15, 2025</strong></li>
+<li><strong>At least one author must register under the Non-Student / Author Early category. A single registration can cover multiple papers.</strong></li>
+<li>The optional networking dinner (£50) can be selected during the registration process. Menu selection details will be communicated later.</li>
+</ul>
+</div>
+</div>
 
-- **Regular registration**  
-Full conference ticket for both days
-  * £400 (early bird)
-  * £450 (regular)
+**[Register Now](https://store.surrey.ac.uk/conferences-and-events/feps-faculty-of-engineering-physical-sciences/cvssp/22nd-acm-siggraph-european-conference-on-visual-media-production-cvmp-2025)**
 
-- **Student registration**  
+### Available tickets
+
+- **Non-Student / Author Early**  
+Full conference ticket for both days - <span class="label label-danger">Author registration required</span>
+  * £400 (early bird - until November 15)
+  * £450 (regular - after November 15)
+
+- **Student Early**  
 Full conference ticket for both days - <span class="label label-info">Students only</span>
-  * £225 (early bird)
-  * £275 (regular)
+  * £225 (early bird - until November 15)
+  * £275 (regular - after November 15)
+
+- **One day registration**  
+Single day conference ticket
+  * £275 per day (Day 1: December 3 or Day 2: December 4)
 
 - **Networking dinner**  
-Optional networking dinner on December 3, 2025 at 19:00
-  * £40
+Optional networking dinner on December 3, 2025 at 18:30
+  * £50
 
+- **Discounted registration**  
+  * £200 (Requires organizer-provided code)
 
+- **Invited registration**  
+  * Complimentary (Requires organizer-provided code)
 
 For visa letters and other registration inquiries, please contact [contact@cvmp-conference.org](mailto:contact@cvmp-conference.org).
-
 
 ## Code of Conduct
 
@@ -47,4 +69,3 @@ CVMP 2025 will be adopting a code of conduct for attendees in line with the [ACM
 * Violations should be reported to the conference chairs ([contact@cvmp-conference.org](mailto:contact@cvmp-conference.org)). All reports will be treated confidentially. The chairs will investigate and prepare a brief statement of facts, a conclusion (proven/not proven) using a preponderance of the evidence standard, and a recommended sanction if a violation is proven. The conference standards committee will vote to either adopt or not adopt this recommendation and may modify it. The decision of the committee is final. Sanctions may include, but are not limited to, exclusion from one or more conference events, exclusion from the entire conference, removal of material from the online record of the conference, referral to the violator's university or employer, and referral to law enforcement. In no case will registration fees or expenses be refunded by the conference.
 
 **All CVMP 2025 attendees and exhibitors are expected to comply with these standards of behaviour.**
-
