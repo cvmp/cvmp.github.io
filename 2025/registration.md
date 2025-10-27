@@ -34,7 +34,6 @@ Tickets gain you entry to all areas of the conference (keynotes, paper sessions,
 </div>
 </div>
 
-**[Register Now](https://store.surrey.ac.uk/conferences-and-events/feps-faculty-of-engineering-physical-sciences/cvssp/22nd-acm-siggraph-european-conference-on-visual-media-production-cvmp-2025)**
 
 ### Available tickets
 

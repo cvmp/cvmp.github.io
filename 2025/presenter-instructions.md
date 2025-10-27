@@ -5,8 +5,6 @@ excerpt: Instructions for CVMP 2025 presenters
 year: 2025
 ---
 
-## Presenter Instructions for CVMP 2025
-
 This page outlines the guidelines and technical details for all presenters.
 Please review them carefully to ensure your session runs smoothly and on time.
 
