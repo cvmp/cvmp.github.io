@@ -5,6 +5,15 @@ year: 2025
 ---
 ##### Please note that this program is tentative and subject to change
 
+<div style="text-align: center; margin: 30px 0; padding: 20px; background-color: #f0f8ff; border: 2px solid #0066cc; border-radius: 8px;">
+  <h3 style="margin-bottom: 15px;">📋 Presenter Instructions</h3>
+  <p style="margin-bottom: 15px;">Important information for all presenters, including talk formats, submission guidelines, and presentation requirements.</p>
+  <a href="{{site.baseurl}}/2025/presenter-instructions" 
+     style="display: inline-block; padding: 12px 30px; font-size: 18px; font-weight: bold; color: white; background-color: #0066cc; text-decoration: none; border-radius: 5px;">
+    View Presenter Instructions
+  </a>
+</div>
+
 <!-- <strong>Programme booklet:</strong>
 [CVMP 2025 Programme (Coming soon)]({{ site.url }}/files/2025/CVMP25.pdf) -->
 
@@ -39,11 +48,29 @@ year: 2025
 			</tr>	
 			<tr>
 				<td>11:20</td>
-				<td><b>Keynote #1: Sketch-based Interfaces for Democratising AI-Powered Creative Tools</b><br/>Yi-Zhe Song <i>University of Surrey</i></td>
+				<td><a href="/2025/keynotes/#YS"><b>Keynote #1: Sketch-based Interfaces for Democratising AI-Powered Creative Tools</b></a><br/>Yi-Zhe Song <i>University of Surrey</i></td>
 			</tr>
 			<tr>
 				<td>12:20</td>
-				<td><b>Spotlight Session - Short Papers and Demos</b></td>
+				<td><b>Spotlight Session - Short Papers and Demos</b><br/>
+					<ul>
+						<li><b>Posters:</b></li>
+						<li>From Archiving to Activation: A Methodological Pipeline for Cultural Heritage Visualisation<br/><i>Evgeny Kalachikhin, Martin Gordon, Sophie Tummescheit, Bjoern Stockleben (Film University Babelsberg KONRAD WOLF)</i></li>
+						<li>Clonoxels: Exploiting Repetitive Structures for Efficient View Synthesis<br/><i>Oliver Camilleri (University of Surrey)</i></li>
+						<li>When Edges Matter: Automating De-Spill for Cleaner Chroma Keys<br/><i>Matthew Skonicki, Nicoletta Adamo (Tower 33 | VFX Studio and Purdue University)</i></li>
+						<li>A Counterexample Attack on Class-wise Data Watermarking<br/><i>Hui Yu Lau, Srinandan Dasmahapatra, Hansung Kim (University of Southampton)</i></li>
+						<li>Language-guided Video Summarization with Recursive Spatiotemporal Graph Modeling<br/><i>Jungin Park, Kwanghoon Sohn (Yonsei University)</i></li>
+						<li>Scaled Momentum Guidance for Flow Models<br/><i>Jinseong Kim, Jongyoo Kim (Yonsei University)</i></li>
+						<li>Sprite Sheet Generation using a Diffusion Model<br/><i>Hei Lit Wong, Marco Volino (University of Surrey)</i></li>
+						<li>Powering Kollani: Distributed Infrastructure for Real-Time Collaborative 3D Asset Reviews in Distributed Teams<br/><i>Francesco Andreussi, Claudio Hickstein, Martin Minsel (RnDeep GmbH)</i></li>
+						<li>Temporal denoising of 3D reconstructed hand pose sequences<br/><i>Fredrik Malmberg, Jonas Beskow (KTH Royal Institute of Technology)</i></li>
+						<li><b>Demos:</b></li>
+						<li>Beepy Veepy: An open-source portable Virtual Production system for field use<br/><i>Graeme Phillipson, Hell Raymond-Hayling (BBC Research & Development)</i></li>
+						<li>Kollani: A Distributed Asset Reviewing Tool for Digital Teams<br/><i>Francesco Andreussi, Claudio Hickstein, Martin Minsel (RnDeep GmbH)</i></li>
+						<li>Demonstrating SAIReco's Video Analysis Studio for Accessible Media Creation<br/><i>Asmar Nadeem, Mahrukh Awan, Armin Mustafa (SAIReco Ltd. and University of Surrey)</i></li>
+						<li>Decentralized Creative Copyright Exchange in the Age of Generative AI<br/><i>Junaid Awan, Kar Balan, John Collomosse (University of Surrey)</i></li>
+					</ul>
+				</td>
 			</tr>
 			<tr>
 				<td>12:40</td>
@@ -66,7 +93,7 @@ year: 2025
 			</tr>	
 			<tr>
 				<td>15:40</td>
-				<td><b>Keynote #2: Unleashing Immersive Spaces by Capturing, Reconstructing, and Rendering Reality</b><br/>Christian Richardt <i>Meta Reality Labs</i></td>
+				<td><a href="/2025/keynotes/#CR"><b>Keynote #2: Unleashing Immersive Spaces by Capturing, Reconstructing, and Rendering Reality</b></a><br/>Christian Richardt <i>Meta Reality Labs</i></td>
 			</tr>
 			<tr>
 				<td>16:40</td>
@@ -107,11 +134,29 @@ year: 2025
 			</tr>	
 			<tr>
 				<td>11:00</td>
-				<td><b>Keynote #3: Geometry First: Structured Representations for Generating 3D in a Large-Data World</b><br/>Angela Dai <i>Technical University of Munich</i></td>
+				<td><a href="/2025/keynotes/#AD"><b>Keynote #3: Geometry First: Structured Representations for Generating 3D in a Large-Data World</b></a><br/>Angela Dai <i>Technical University of Munich</i></td>
 			</tr>
 			<tr>
 				<td>12:00</td>
-				<td><b>Spotlight Session - Short Papers and Demos</b></td>
+				<td><b>Spotlight Session - Short Papers and Demos</b><br/>
+					<ul>
+						<li><b>Posters:</b></li>
+						<li>A Video Processing Pipeline for Automatic Gesture and Prosody Annotation<br/><i>Szymon Lisowski (University of Southampton), Anna Wilson (University of Oxford), Fabio Pizzati (Mohamed Bin Zayed University of Artificial Intelligence), Elinor Payne, Philip Torr (University of Oxford), Hansung Kim (University of Southampton)</i></li>
+						<li>SANDFISH: Smart ANomaly Detection for Filming Interesting Species and Habitats<br/><i>Jack Alston, Robert Dawes (BBC Research & Development)</i></li>
+						<li>Audio Visual Instance Segmentation for Video Editing<br/><i>Jinbae Seo, Seungho Baek, Kwanghoon Sohn (Yonsei University)</i></li>
+						<li>Image-based Facial Rig Inversion<br/><i>Tianxiang Yang (University of Surrey and Humain Ltd.), Marco Volino, Armin Mustafa (University of Surrey), Greg Maguire, Robert Kosk (Humain Ltd.)</i></li>
+						<li>Finding the pattern between Emotions and Genre Classification in Films<br/><i>Ines N. Teixeira, Paula Viana, Maria Teresa Andrade (University of Porto)</i></li>
+						<li>TemporalMamba: A Novel Video Super-Resolution Framework with Temporal State Space Models and Frequency-Domain Fusion<br/><i>Simin Mirzaei, Panos Nasiopoulos, Shahriar Mirabbasi (University of British Columbia)</i></li>
+						<li>Enabling Local Multimodal AI for Metadata Generation in Archival Collections<br/><i>Minsak Nanang, Karyn Fleeting, Armin Mustafa (University of Surrey, The National Gallery, and British Film Institute)</i></li>
+						<li>IK-Based Full-Body and Facial Capture for Stylized 2D Puppets for Real-Time or Linear Pipelines<br/><i>Meghdad Asadilari (Rochester Institute of Technology)</i></li>
+						<li>Monochromatic Palette Space: A Low-Dimensional Manifold Model for Steerable Color Grading<br/><i>Jinwoo Lee (Korea Advanced Institute of Science and Technology)</i></li>
+						<li><b>Demos:</b></li>
+						<li>Virtual Scene Integration: Compositing and Relighting Greenscreen Performances<br/><i>James Gardner, William A. P. Smith, Will Rowan, Florian Block (pxld.ai and University of York)</i></li>
+						<li>IK-Based Full Body and Facial MoCap for Stylized 2D Puppets Using Accessible Tracking Devices<br/><i>Meghdad Asadilari (Rochester Institute of Technology)</i></li>
+						<li>Content Understanding for Personalised Media in AI4ME<br/><i>Davide Berghi, Asmar Nadeem, Tony Alex, Armin Mustafa, Graham Thomas, Philip J. B. Jackson, Adrian Hilton (University of Surrey), Robert Dawes (British Broadcasting Corporation)</i></li>
+						<li>From Lab to Live Production: Practical Lessons in Applying Emerging AI Technology for Media<br/><i>Violeta Menéndez González (CoSTAR National Lab and University of Surrey), Hazel Dixon (CoSTAR National Lab and Royal Holloway University of London)</i></li>
+					</ul>
+				</td>
 			</tr>
 			<tr>
 				<td>12:20</td>
@@ -121,10 +166,10 @@ year: 2025
 				<td>13:40</td>
 				<td><b>Session #4: Industrial Session</b><br/>Chair: Oliver Grau
 					<ul>
-						<li>PBR Capture at scale for production & ML Datasets<br/><i>Elliott Round, CoFounder & CTO, M-XR</i></li>
-						<li>TBD</li>
-						<li>TBD</li>
-						<li>TBD</li>
+						<li>13:40-14:05: PBR Capture at scale for production & ML Datasets<br/><i>Elliott Round (CoFounder & CTO, M-XR)</i></li>
+						<li>14:05-14:30: Evaluation of Depth-Based Volumetric Capture Methods in Production Environments<br/><i>Philip Coulam-Jones (Disguise)</i></li>
+						<li>14:30-14:55: Videomatics for Technical Control and Creative Freedom in ICVFX Productions<br/><i>Lena Gieseke (Filmuniversität Babelsberg KONRAD WOLF)</i></li>
+						<li>14:55-15:20: Stop fixing it in post - how innovation should be pushing VP to the next level<br/><i>Adam Smith (Executive Producer, Dimension)</i></li>
 					</ul>
 				</td>
 			</tr>
@@ -134,7 +179,7 @@ year: 2025
 			</tr>
 			<tr>
 				<td>15:50</td>
-				<td><b>Keynote #4: Title to be announced</b><br/>Peter Hedman <i>Google DeepMind</i></td>
+				<td><a href="/2025/keynotes/#AD"><b>Keynote #4: The Last Mile of Research for Production-Ready View-Synthesis</b></a><br/>Peter Hedman <i>Google DeepMind</i></td>
 			</tr>
 			<tr>
 				<td>16:50</td>

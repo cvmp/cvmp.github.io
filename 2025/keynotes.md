@@ -10,9 +10,9 @@ We are pleased to announce the following keynote speakers for CVMP 2025:
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
-#### Peter Hedman, Google DeepMind <br> TBD (Title to be announced)
+#### Peter Hedman, Google DeepMind <br> The Last Mile of Research for Production-Ready View-Synthesis
 
-Abstract and talk details will be announced soon.
+This talk is about bringing 3D capture and view-synthesis technology from prototypes into production, and the problems that need to be solved along this last mile of research. As a concrete example, we discuss the research that took neural radiance fields (NeRFs) from synthetic objects that were cumbersome to render on a machine learning workstation, to large real scenes that can be explored in real-time on your phone. We then look at bringing this experience to mobile VR and explore the research opportunities that this opens up.
 
 *Peter Hedman is a staff research scientist at Google DeepMind, where he works on problems at the intersection of computer graphics and vision with a focus on building immersive 3D experiences. Prior to this he received his PhD from the CS Department at UCL in 2019 and received his MSc from Helsinki University in 2015. Peter received the prize for the most distinguished master's thesis from Finnish Academic Association for Mathematics and Natural Sciences, the 2016 Rabin Ezra scholarship for doctoral students in computer graphics, imaging and vision, ICCV Best Paper Honorable Mention Award in 2021, Best Student Paper Honorable Mention at CVPR 2022, Best Paper Honorable Mention at SIGGRAPH 2024 and was elected as a Eurographics Junior Fellow in 2025.*
 
