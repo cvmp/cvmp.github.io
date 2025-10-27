@@ -15,7 +15,7 @@ Tickets gain you entry to all areas of the conference (keynotes, paper sessions,
 
 <div style="text-align: center; margin: 40px 0;">
   <a href="https://store.surrey.ac.uk/conferences-and-events/feps-faculty-of-engineering-physical-sciences/cvssp/22nd-acm-siggraph-european-conference-on-visual-media-production-cvmp-2025" 
-     style="display: inline-block; padding: 20px 60px; font-size: 24px; font-weight: bold; color: white; background-color: #0066cc; text-decoration: none; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2); transition: all 0.3s ease;"
+     style="display: inline-block; padding: 20px 60px; font-size: 24px; font-weight: bold; color: white; background-color: #000000; text-decoration: none; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2); transition: all 0.3s ease;"
      onmouseover="this.style.backgroundColor='#0052a3'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.3)';"
      onmouseout="this.style.backgroundColor='#0066cc'; this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 6px rgba(0,0,0,0.2)';">
     🎟️ REGISTER NOW
