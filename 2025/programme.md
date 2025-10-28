@@ -18,9 +18,9 @@ year: 2025
 [CVMP 2025 Programme (Coming soon)]({{ site.url }}/files/2025/CVMP25.pdf) -->
 
 <div class="col-12 col-sm-12 col-lg-12">
-	<a name="tuesday"></a>
+	<a name="wednesday"></a>
 	<div class="panel panel-default">
-		<div class="panel-heading"><b>Tuesday 3rd December 2025</b></div>
+		<div class="panel-heading"><b>Wednesday 3rd December 2025</b></div>
 		<table class="table table-striped">
 			<tr>
 				<td>09:00</td>
@@ -109,9 +109,9 @@ year: 2025
 			</tr>
 		</table>
 	</div>
-	<a name="wednesday"></a>
+	<a name="thursday"></a>
 	<div class="panel panel-default">
-		<div class="panel-heading"><b>Wednesday 4th December 2025</b></div>
+		<div class="panel-heading"><b>Thursday 4th December 2025</b></div>
 		<table class="table table-striped">
 			<tr>
 				<td>09:00</td>
