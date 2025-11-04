@@ -38,7 +38,7 @@ We would like to thank the following sponsors without whom this event, in partic
       </a>
     </div>
     <div class="sponsor-logo-box">
-      <a href="https://www.microsoft.com/en-us/research/" target="_blank">
+      <a href="https://www.microsoft.com/applied-sciences" target="_blank">
         <img src="{{ site.baseurl }}/img/2025/Microsoft-Logo.png" alt="Microsoft">
       </a>
     </div>
