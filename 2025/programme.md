@@ -77,6 +77,10 @@ year: 2025
 				<td><b>Posters, Demos and Lunch</b></td>
 			</tr>
 			<tr>
+				<td>13:45</td>
+				<td><b>Sponsor Talk by Microsoft</b><br/><i>Title to be announced</i></td>
+			</tr>
+			<tr>
 				<td>14:00</td>
 				<td><b>Session #2: Gaussian Splatting</b><br/>
 					<ul>
@@ -92,15 +96,15 @@ year: 2025
 				<td><b>Coffee Break (Posters and Demos continue)</b></td>
 			</tr>	
 			<tr>
-				<td>15:40</td>
+				<td>15:30</td>
 				<td><a href="/2025/keynotes/#CR"><b>Keynote #2: Unleashing Immersive Spaces by Capturing, Reconstructing, and Rendering Reality</b></a><br/>Christian Richardt <i>Meta Reality Labs</i></td>
 			</tr>
 			<tr>
-				<td>16:40</td>
+				<td>16:30</td>
 				<td><b>CVMP Awards</b><br/>Jeff Clifford</td>
 			</tr>
 			<tr>
-				<td>17:00</td>
+				<td>16:45</td>
 				<td><b>Networking Reception</b></td>
 			</tr>
 			<tr>
@@ -154,7 +158,7 @@ year: 2025
 						<li>Virtual Scene Integration: Compositing and Relighting Greenscreen Performances<br/><i>James Gardner, William A. P. Smith, Will Rowan, Florian Block (pxld.ai and University of York)</i></li>
 						<li>IK-Based Full Body and Facial MoCap for Stylized 2D Puppets Using Accessible Tracking Devices<br/><i>Meghdad Asadilari (Rochester Institute of Technology)</i></li>
 						<li>Content Understanding for Personalised Media in AI4ME<br/><i>Davide Berghi, Asmar Nadeem, Tony Alex, Armin Mustafa, Graham Thomas, Philip J. B. Jackson, Adrian Hilton (University of Surrey), Robert Dawes (British Broadcasting Corporation)</i></li>
-						<li>From Lab to Live Production: Practical Lessons in Applying Emerging AI Technology for Media<br/><i>Violeta Menéndez González (CoSTAR National Lab and University of Surrey), Hazel Dixon (CoSTAR National Lab and Royal Holloway University of London)</i></li>
+						<li>CoSTAR National Lab: Prototyping Emerging AI Technologies for Converged Media Production<br/><i>Violeta Menéndez González (CoSTAR National Lab and University of Surrey), Hazel Dixon, Branden Faulls (CoSTAR National Lab and Royal Holloway University of London)</i></li>
 					</ul>
 				</td>
 			</tr>
@@ -168,7 +172,7 @@ year: 2025
 					<ul>
 						<li>13:40-14:05: PBR Capture at scale for production & ML Datasets<br/><i>Elliott Round (CoFounder & CTO, M-XR)</i></li>
 						<li>14:05-14:30: Evaluation of Depth-Based Volumetric Capture Methods in Production Environments<br/><i>Philip Coulam-Jones (Disguise)</i></li>
-						<li>14:30-14:55: Videomatics for Technical Control and Creative Freedom in ICVFX Productions<br/><i>Lena Gieseke (Filmuniversität Babelsberg KONRAD WOLF)</i></li>
+						<li>14:30-14:55: Videomatics for Technical Control and Creative Freedom in ICVFX Productions<br/><i>Adam Streicher, Lena Gieseke (Filmuniversität Babelsberg KONRAD WOLF)</i></li>
 						<li>14:55-15:20: Stop fixing it in post - how innovation should be pushing VP to the next level<br/><i>Adam Smith (Executive Producer, Dimension)</i></li>
 					</ul>
 				</td>
