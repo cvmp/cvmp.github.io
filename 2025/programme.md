@@ -67,7 +67,7 @@ year: 2025
 						<li><b>Demos:</b></li>
 						<li>Beepy Veepy: An open-source portable Virtual Production system for field use<br/><i>Graeme Phillipson, Hell Raymond-Hayling (BBC Research & Development)</i></li>
 						<li>Kollani: A Distributed Asset Reviewing Tool for Digital Teams<br/><i>Francesco Andreussi, Claudio Hickstein, Martin Minsel (RnDeep GmbH)</i></li>
-						<li>Demonstrating SAIReco's Video Analysis Studio for Accessible Media Creation<br/><i>Asmar Nadeem, Mahrukh Awan, Armin Mustafa (SAIReco Ltd. and University of Surrey)</i></li>
+						<li>Demonstrating SAIReco's Video Analysis Studio for Accessible Media Creation<br/><i>Asmar Nadeem, Mahrukh Awan, Armin Mustafa (SAIReco Ltd.)</i></li>
 						<li>Decentralized Creative Copyright Exchange in the Age of Generative AI<br/><i>Junaid Awan, Kar Balan, John Collomosse (University of Surrey)</i></li>
 					</ul>
 				</td>
