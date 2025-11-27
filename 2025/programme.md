@@ -77,11 +77,11 @@ year: 2025
 				<td><b>Posters, Demos and Lunch</b></td>
 			</tr>
 			<tr>
-				<td>13:45</td>
-				<td><b>Sponsor Talk by Microsoft</b><br/><i>Title to be announced</i></td>
+				<td>14:00</td>
+				<td><b>Sponsor Talk by Microsoft</b><br/><i>AI Principles in Creative Tools: From Research to Real World Impact</i></td>
 			</tr>
 			<tr>
-				<td>14:00</td>
+				<td>14:15</td>
 				<td><b>Session #2: Gaussian Splatting</b><br/>
 					<ul>
 						<li>GS-Morph: Dynamic Novel View Synthesis via UDF-ARAP Gaussian Splat Morphing<br/><i>David Stéphane Belemkoabga, Thomas Maugey, Christine Guillemot</i></li>
@@ -92,24 +92,24 @@ year: 2025
 				</td>
 			</tr>
 			<tr>
-				<td>15:00</td>
+				<td>15:15</td>
 				<td><b>Coffee Break (Posters and Demos continue)</b></td>
 			</tr>	
 			<tr>
-				<td>15:30</td>
+				<td>15:45</td>
 				<td><a href="/2025/keynotes/#CR"><b>Keynote #2: Unleashing Immersive Spaces by Capturing, Reconstructing, and Rendering Reality</b></a><br/>Christian Richardt <i>Meta Reality Labs</i></td>
 			</tr>
 			<tr>
-				<td>16:30</td>
+				<td>16:45</td>
 				<td><b>CVMP Awards</b><br/>Jeff Clifford</td>
 			</tr>
 			<tr>
-				<td>16:45</td>
+				<td>17:00</td>
 				<td><b>Networking Reception</b></td>
 			</tr>
 			<tr>
 				<td>18:30</td>
-				<td><b>Networking Dinner</b> (Ticket required - £50)</td>
+				<td><b>Networking Dinner</b> (Ticket required - Sold Out)</td>
 			</tr>
 		</table>
 	</div>
@@ -138,7 +138,7 @@ year: 2025
 			</tr>	
 			<tr>
 				<td>11:00</td>
-				<td><a href="/2025/keynotes/#AD"><b>Keynote #3: Geometry First: Structured Representations for Generating 3D in a Large-Data World</b></a><br/>Angela Dai <i>Technical University of Munich</i></td>
+				<td><a href="/2025/keynotes/#AD"><b>Keynote #3: Can Transformers Speak Geometry?</b></a><br/>Angela Dai <i>Technical University of Munich</i></td>
 			</tr>
 			<tr>
 				<td>12:00</td>

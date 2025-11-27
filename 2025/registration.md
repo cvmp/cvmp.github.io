@@ -51,7 +51,7 @@ Full conference ticket for both days - <span class="label label-info">Students o
 Single day conference ticket
   * £275 per day (Day 1: December 3 or Day 2: December 4)
 
-- **Networking dinner**  
+- **Networking dinner - Sold Out**  
 Optional networking dinner on December 3, 2025 at 18:30
   * £50
 
