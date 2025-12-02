@@ -11,7 +11,7 @@ Ticket numbers are restricted, so make sure to reserve your place early!
 
 Tickets gain you entry to all areas of the conference (keynotes, paper sessions, poster and demos), lunch, refreshments, and also to the networking reception on December 3-4, 2025.
 
-**Registration is now open!**
+**Registration is now closed!**
 
 <div style="text-align: center; margin: 40px 0;">
   <a href="https://store.surrey.ac.uk/conferences-and-events/feps-faculty-of-engineering-physical-sciences/cvssp/22nd-acm-siggraph-european-conference-on-visual-media-production-cvmp-2025" 
