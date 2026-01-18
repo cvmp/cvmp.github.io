@@ -4,16 +4,16 @@ title: CVMP 2025 Awards
 year: 2025
 ---
 
-## CVMP 2025 Technical Awards
-
 The CVMP Technical Awards recognize outstanding contributions to visual media production through research innovation and collaborative excellence.
 
 ---
 
 ### Research Impact Award
 
+{::options parse_block_html="true" /}
+
 <div class="row" style="margin-bottom: 40px;">
-<div class="col-xs-12 col-sm-8">
+<div class="col-xs-12 col-sm-8" markdown="1">
 
 #### Compact 3D Scene Representation via Self-Organizing Gaussian Grids
 
@@ -26,18 +26,23 @@ The CVMP Technical Awards recognize outstanding contributions to visual media pr
 The Research Impact Award is presented to individuals who have performed key research that has been adopted by third parties and effectively used in media production or products.
 
 </div>
-
 <div class="col-xs-12 col-sm-4">
+
 <img src="{{site.url}}/img/2025/awards/research-impact-trophy.jpg" class="img-responsive img-thumbnail" alt="Research Impact Award Trophy">
+
 </div>
 </div>
+
+{::options parse_block_html="false" /}
 
 ---
 
 ### Collaboration Award
 
+{::options parse_block_html="true" /}
+
 <div class="row" style="margin-bottom: 40px;">
-<div class="col-xs-12 col-sm-8">
+<div class="col-xs-12 col-sm-8" markdown="1">
 
 #### European Media and Immersion Lab (EMIL)
 
@@ -47,20 +52,23 @@ The Research Impact Award is presented to individuals who have performed key res
 - **Universitat Pompeu Fabra**
 - **University of Bath**
 
-**Award Recipients:**
+**Award Representatives:**
 - **Juhani Tenhunen** - Aalto University
 - **Volker Helzle** - Filmakademie Baden-Württemberg
 - **Narcis Pares** - Universitat Pompeu Fabra
-- **Christof Lutteroth** - University of Bath
+- **Christof Lutteroto** - University of Bath
 
 The Collaboration Award recognizes joint efforts on dedicated projects between individuals working across both academia and industry, demonstrating excellence in collaborative research and development.
 
 </div>
-
 <div class="col-xs-12 col-sm-4">
+
 <img src="{{site.url}}/img/2025/awards/collaboration-trophy.jpg" class="img-responsive img-thumbnail" alt="Collaboration Award Trophy">
+
 </div>
 </div>
+
+{::options parse_block_html="false" /}
 
 ---
 
