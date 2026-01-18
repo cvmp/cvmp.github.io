@@ -8,6 +8,12 @@ The CVMP Technical Awards recognize outstanding contributions to visual media pr
 
 ---
 
+<div style="text-align: center; margin: 40px 0;">
+<img src="{{site.url}}/img/2025/awards/research-impact-trophy.jpg" class="img-responsive img-thumbnail" alt="CVMP 2025 Award Trophies" style="max-width: 700px; width: 100%;">
+</div>
+
+---
+
 ### Research Impact Award
 
 #### Compact 3D Scene Representation via Self-Organizing Gaussian Grids
@@ -39,12 +45,6 @@ The Research Impact Award is presented to individuals who have performed key res
 - **Christof Lutteroto** - University of Bath
 
 The Collaboration Award recognizes joint efforts on dedicated projects between individuals working across both academia and industry, demonstrating excellence in collaborative research and development.
-
----
-
-<div style="text-align: center; margin: 40px 0;">
-<img src="{{site.url}}/img/2025/awards/research-impact-trophy.jpg" class="img-responsive img-thumbnail" alt="CVMP 2025 Award Trophies" style="max-width: 600px; width: 100%;">
-</div>
 
 ---
 
