@@ -78,7 +78,6 @@ The CVMP Technical Awards celebrate exceptional contributions to the field of vi
 
 ## Previous Award Winners
 
-- [CVMP 2024 Awards]({{site.baseurl}}/2024/awards/)
 - [CVMP 2023 Awards]({{site.baseurl}}/2023/awards/)
 
 ---
@@ -86,3 +85,4 @@ The CVMP Technical Awards celebrate exceptional contributions to the field of vi
 **Congratulations to all 2025 award recipients!**
 
 The awards were presented at CVMP 2025, held on December 3-4, 2025 at BFI Southbank, London.
+
