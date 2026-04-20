@@ -12,7 +12,7 @@ year: 2026
       </div>
       <div class="panel-body">        
         <h4><a href="https://sites.google.com/view/giuseppe-claudio-guarnera" target="_blank">Claudio Guarnera</a><br><small>University of York, UK</small></h4>
-        <h4><a href="https://www.bbc.co.uk/rd/author/?id=author-people-robert-dawes" target="_blank">Robert Dawes</a><br><small>University of Southampton, UK</small></h4>
+        <h4><a href="https://www.bbc.co.uk/rd/author/?id=author-people-robert-dawes" target="_blank">Robert Dawes</a><br><small>BBC Research & Development, UK</small></h4>
       </div>
     </div>
   </div>
