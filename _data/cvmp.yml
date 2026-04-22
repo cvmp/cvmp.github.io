@@ -1,6 +1,5 @@
 current-year: 2026
 previous-years:
-    - 2026
     - 2025
     - 2024
     - 2023
@@ -11,7 +10,7 @@ previous-years:
     - 2018
 
 2026:
-    title: "The 23<sup>rd</sup> <b>European Conference on Visual Media Production</b>"
+    title: "The 23<sup>rd</sup> <b>ACM SIGGRAPH European Conference on Visual Media Production</b>"
     date: "8-9 December"
     location: "BFI Southbank, London, UK"
     logo: img/2026/CVMP-logo-1200w.png

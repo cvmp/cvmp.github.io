@@ -5,6 +5,21 @@ excerpt: CVMP 2025 Sponsors
 headline: Sponsorship
 year: 2026
 ---
+
+We would like to thank the following sponsors without whom this event, in particular the keynotes and social events, would not have been possible.
+
+<div class="sponsors-container">
+<h2>Conference Sponsor</h2>
+<div class="sponsor-tier conference-tier">
+  <div class="sponsor-grid">
+    <div class="sponsor-logo-box conference-logo">
+      <a href="https://www.siggraph.org/" target="_blank">
+        <img src="{{ site.baseurl }}/img/2023/sponsors/logo-acm-siggraph-wide.png" alt="ACM SIGGRAPH">
+      </a>
+    </div>
+  </div>
+</div>
+
 <!-- 
 We would like to thank the following sponsors without whom this event, in particular the keynotes and social events, would not have been possible.
 
@@ -27,7 +42,7 @@ For over 20 years CVMP has built a reputation as the prime venue for researchers
 
 CVMP regularly attracts over 100 attendees approximately 50:50 from academia and the creative industries in addition to having an online audience. **This year, for the second time, we will be hosting the CVMP Technical Awards.**
 
-CVMP invites sponsors to help support the conference. Previously, our sponsors include YouTube, Adobe, Reality Labs Meta, Foundry, Activision, CVSSP and CAMERA. 
+CVMP invites sponsors to help support the conference. Previously, our sponsors include YouTube, Adobe, Reality Labs Meta, Foundry, Activision, CVSSP and CAMERA. Like last year, we are affiliated with ACM SIGGRAPH.
 
 ---
 

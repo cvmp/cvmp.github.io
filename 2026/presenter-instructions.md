@@ -1,8 +1,8 @@
 ---
 layout: cvmp-default
 title: Presenter Instructions
-excerpt: Instructions for CVMP 2025 presenters
-year: 2025
+excerpt: Instructions for CVMP 2026 presenters
+year: 2026
 ---
 
 This page outlines the guidelines and technical details for all presenters.
@@ -12,7 +12,7 @@ Please review them carefully to ensure your session runs smoothly and on time.
 
 ## Presentation Session
 
-The date, time and location of your presentation slot can be found in the [online conference programme]({{site.baseurl}}/2025/programme). 
+The date, time and location of your presentation slot can be found in the [online conference programme]({{site.baseurl}}/2026/programme). 
 
 **Important:** All presenters will be contacted with specific details once the final programme is confirmed.
 

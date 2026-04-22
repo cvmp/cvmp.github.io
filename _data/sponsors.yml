@@ -1,5 +1,9 @@
 2026:
-
+- name: ACM SIGGRAPH
+  url: https://www.siggraph.org/
+  image: img/2023/sponsors/logo-acm-siggraph-wide.png
+  level: conference
+  
 2025:
 - name: ACM SIGGRAPH
   url: https://www.siggraph.org/
