@@ -31,8 +31,8 @@ We would like to thank the following sponsors without whom this event, in partic
 <h2>Silver Sponsors</h2>
 
 <h2>Academic Partners</h2>
-
-</div> -->
+-->
+</div> 
 
 ---
 
