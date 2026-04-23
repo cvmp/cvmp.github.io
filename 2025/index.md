@@ -1,5 +1,4 @@
 ---
-redirect_from: "/"
 layout: cvmp-plain
 title: "CVMP 2025"
 year: 2025
