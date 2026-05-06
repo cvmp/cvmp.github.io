@@ -143,6 +143,7 @@ year: 2026
       </div>
       <div class="panel-body">
         <h4><a href="http://www.3dkim.com/Eng/" target="_blank">Hansung Kim</a><br><small>University of Southampton, UK</small></h4>
+        <h4><a href="https://mmai.yonsei.ac.kr/" target="_blank">Jongyoo Kim</a><br><small>Yonsei University, South Korea</small></h4>
       </div>
     </div>
   </div>
