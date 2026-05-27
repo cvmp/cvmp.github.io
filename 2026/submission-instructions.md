@@ -1,17 +1,17 @@
 ---
 layout: cvmp-default
 title: Submission Instructions
-excerpt: Submission instructions for CVMP 2025
+excerpt: Submission instructions for CVMP 2026
 headline: Submission Instructions
-year: 2025
+year: 2026
 ---
 
 <!-- ### Paper submission -->
 
 CVMP 2025 offers the opportunity to showcase your work through submission of Full (up to 10 pages) and Short (1 page) papers.
 
-All submissions should be made via the CVMP 2025 submission site:\\
-<https://cmt3.research.microsoft.com/CVMP2025>
+All submissions should be made via the CVMP 2026 submission site:\\
+<https://cmt3.research.microsoft.com/CVMP2026>
 
 Authors should upload a PDF file of no more than 20 MB containing their paper for review. Full papers submissions may optionally include supplementary materials in a single ZIP file of no more than 100 MB (for example, videos or PDFs of additional results).
 
@@ -30,10 +30,10 @@ Additionally, please set the conference details in the template as follows:
 
 ```
 %Conference
-\acmConference[CVMP 2025]{the 22nd ACM SIGGRAPH European Conference on
-Visual Media Production}{Dec.\ 3--4}{London, UK}
-\acmYear{2025}
-\copyrightyear{2025}
+\acmConference[CVMP 2026]{the 23rd ACM SIGGRAPH European Conference on
+Visual Media Production}{Dec.\ 8--9}{London, UK}
+\acmYear{2026}
+\copyrightyear{2026}
 \setcopyright{none}
 ```
 
@@ -52,3 +52,6 @@ Submissions for both short papers and demos are single-blind and do not need to 
 ### Publications Policies
 
 As a published ACM CVMP author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies), including ACM's [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects).
+
+### Microsoft CMT Support
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
