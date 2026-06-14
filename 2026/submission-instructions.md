@@ -5,10 +5,10 @@ excerpt: Submission instructions for CVMP 2026
 headline: Submission Instructions
 year: 2026
 ---
-
+ 
 <!-- ### Paper submission -->
 
-CVMP 2025 offers the opportunity to showcase your work through submission of Full (up to 10 pages) and Short (1 page) papers.
+CVMP 2026 offers the opportunity to showcase your work through submission of Full (up to 10 pages) and Short (1 page) papers.
 
 All submissions should be made via the CVMP 2026 submission site:\\
 <https://cmt3.research.microsoft.com/CVMP2026>
