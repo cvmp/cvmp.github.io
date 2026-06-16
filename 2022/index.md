@@ -1,5 +1,5 @@
 ---
-layout: cvmp-plain
+layout: cvmp-plain-prev-years
 title: "CVMP 2022"
 year: 2022
 image:

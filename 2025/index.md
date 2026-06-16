@@ -1,5 +1,5 @@
 ---
-layout: cvmp-plain
+layout: cvmp-plain-prev-years
 title: "CVMP 2025"
 year: 2025
 image:

@@ -1,5 +1,5 @@
 ---
-layout: cvmp-plain
+layout: cvmp-plain-prev-years
 title: "CVMP 2018"
 year: 2018
 image:

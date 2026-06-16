@@ -271,3 +271,22 @@ div.progress-bar-none {
   height: 50px; /* fixed header height*/
   margin: -50px 0 0; /* negative fixed header height */
 }
+
+
+.cvmp-old-edition-banner {
+  background: #fff3e0;
+  border: 1px solid #f0c27b;
+  border-left: 5px solid #f4a261;
+  color: #333;
+  padding: 12px 18px;
+  margin: 0 0 18px 0;
+  font-size: 16px;
+  line-height: 1.5;
+  border-radius: 4px;
+}
+
+.cvmp-old-edition-banner a {
+  font-weight: 700;
+  color: #b35400;
+  text-decoration: underline;
+}
