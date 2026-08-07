@@ -22,10 +22,10 @@ We encourage participation from a diverse range of backgrounds, including scient
 <div class="panel-body">
 
 
-| __Full Papers deadline:__ | ~~24 July 2026~~ <span style="color:red">6 August 2026</span> |
-| - Review deadline: | 04 September 2026 |
-| - Author notification: | 11 September 2026 |
-| - Camera-ready submission deadline: | 02 October 2026 |
+| __Full Papers deadline:__ | ~~24 July 2026~~ <span style="color:red">21 August 2026</span> |
+| - Review deadline: | ~~04 September 2026~~ 18 September 2026 |
+| - Author notification: | ~~11 September 2026~~ 25 September 2026 |
+| - Camera-ready submission deadline: | ~~02 October 2026~~ 16 October 2026 |
 | __Industry Talks deadline:__ | __19 September 2026__ |
 | - Author notification: | 03 October 2026 |
 | __Short Papers deadline__ |  |
