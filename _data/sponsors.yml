@@ -4,6 +4,11 @@
   image: img/2023/sponsors/logo-acm-siggraph-wide.png
   level: conference
   
+- name: Adobe
+  url: https://research.adobe.com/
+  image: img/2023/sponsors/logo-adobe.png
+  level: silver
+  
 2025:
 - name: ACM SIGGRAPH
   url: https://www.siggraph.org/
