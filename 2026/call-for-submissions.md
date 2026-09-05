@@ -45,6 +45,39 @@ We encourage participation from a diverse range of backgrounds, including scient
 #### Full Papers
 We invite submissions of regular, technical papers presenting novel research or applications related to any aspect of media production, including computer vision, graphics and machine learning research with application in this area. We particularly encourage the submission of early-stage doctoral work. Submitted papers can be any length up to 10 pages and will be subject to double-blind peer review. Accepted papers will be presented in either oral or poster form, and will appear in the ACM Digital Library. Browse past CVMP papers in the [ACM Digital Library](https://dl.acm.org/conference/cvmp).
 
+*(Full Papers only)* **Open Access:** Starting January 1, 2026, ACM will fully transition to Open Access. All ACM publications, including those from ACM-sponsored conferences, will be 100% Open Access. Authors will have two primary options for publishing Open Access articles with ACM: the ACM Open institutional model or by paying Article Processing Charges (APCs). With over 2,600 institutions already part of ACM Open, the majority of ACM-sponsored conference papers will not require APCs from authors or conferences (currently, around 76%).
+<a href="#" id="open-access-toggle">See details</a>
+
+<div id="open-access-details" style="display: none;">
+<p>Authors from institutions not participating in ACM Open will need to pay an APC to publish their papers, unless they qualify for a financial waiver. To find out whether an APC applies to your article, please consult the list of participating institutions in ACM Open and review the <a href="https://www.acm.org/publications/policies/policy-on-discretionary-open-access-apc-waivers">ACM policy on discretionary open access APC waivers</a>. Keep in mind that waivers are rare and are granted based on specific criteria set by ACM.</p>
+
+<p>Understanding that this change could present financial challenges, ACM has approved a temporary subsidy for 2026 to ease the transition and allow more time for institutions to join ACM Open. The subsidy will offer:</p>
+
+<ul>
+<li><strong>$250 APC for ACM/SIG members</strong></li>
+<li><strong>$350 for non-members</strong></li>
+</ul>
+
+<p>This represents a 65% discount, funded directly by ACM. Authors are encouraged to help advocate for their institutions to join ACM Open during this transition period.</p>
+
+<p>This temporary subsidized pricing will apply to all conferences scheduled for 2026.</p>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var toggle = document.getElementById('open-access-toggle');
+  var details = document.getElementById('open-access-details');
+
+  if (toggle && details) {
+    toggle.addEventListener('click', function (event) {
+      event.preventDefault();
+      var isHidden = details.style.display === 'none';
+      details.style.display = isHidden ? 'block' : 'none';
+      toggle.textContent = isHidden ? 'Show less' : 'See details';
+    });
+  }
+});
+</script>
 
 #### Short Papers and Technical Abstracts
 Submissions are invited in the form of a one-page extended abstract, describing innovative industry practice or academic research. Submissions can also describe work in progress and do not prevent submission of the work elsewhere. Accepted submissions will be presented in poster form at the conference, and will not appear in the ACM Digital Library.

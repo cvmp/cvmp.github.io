@@ -20,7 +20,7 @@ We would like to thank the following sponsors without whom this event, in partic
   </div>
 </div>
 
-<!-- 
+
 We would like to thank the following sponsors without whom this event, in particular the keynotes and social events, would not have been possible.
 
 <div class="sponsors-container">
@@ -29,9 +29,14 @@ We would like to thank the following sponsors without whom this event, in partic
 <h2>Gold Sponsors</h2>
 
 <h2>Silver Sponsors</h2>
+<div class="sponsor-logo-box">
+  <a href="https://research.adobe.com/" target="_blank">
+    <img src="{{ site.baseurl }}/img/2023/sponsors/logo-adobe.png" alt="Adobe">
+  </a>
+</div>
 
 <h2>Academic Partners</h2>
--->
+
 </div> 
 
 ---
