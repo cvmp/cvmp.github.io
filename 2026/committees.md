@@ -181,6 +181,7 @@ year: 2026
   </div>
 </div>
 
+
 <h2>Programme Committee</h2>
 <div class="row">
   <div class="col-xs-12">
@@ -190,7 +191,34 @@ year: 2026
       </div>
       <div class="panel-body">
         <div class="row">
-          
+          <div class="col-xs-12 col-sm-4 col-lg-4">
+            <h4>Florian Barthel<br><small>Fraunhofer HHI / Humboldt University Berlin</small></h4>
+            <h4>Robert Dawes<br><small>BBC Research &amp; Development</small></h4>
+            <h4>Daljit Singh Dhillon<br><small>Clemson University</small></h4>
+            <h4>Farshad Einabadi<br><small>University of Surrey</small></h4>
+            <h4>Peter Eisert<br><small>Fraunhofer HHI / Humboldt University Berlin</small></h4>
+            <h4>Umar Farooq<br><small>University of Surrey</small></h4>
+            <h4>Lena Gieseke<br><small>Filmuniversität Babelsberg KONRAD WOLF</small></h4>
+            <h4>Andrew Gilbert<br><small>University of Surrey</small></h4>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-lg-4">
+            <h4>Oliver Grau<br><small>Intel</small></h4>
+            <h4>Dar'ya Guarnera<br><small>University of York</small></h4>
+            <h4>Peter Hall<br><small>University of Bath</small></h4>
+            <h4>Anna Hilsmann<br><small>Fraunhofer HHI</small></h4>
+            <h4>Hansung Kim<br><small>University of Southampton</small></h4>
+            <h4>Rafal Mantiuk<br><small>University of Cambridge</small></h4>
+            <h4>Armin Mustafa<br><small>University of Surrey</small></h4>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-lg-4">
+            <h4>Asmar Nadeem<br><small>University of Surrey</small></h4>
+            <h4>Changjae Oh<br><small>Queen Mary University of London</small></h4>
+            <h4>Christian Richardt<br><small>Meta Reality Labs</small></h4>
+            <h4>Moira Shooter<br><small>Industrial Light &amp; Magic</small></h4>
+            <h4>Graham Thomas<br><small>BBC</small></h4>
+            <h4>Peter Vangorp<br><small>Utrecht University</small></h4>
+            <h4>Zhidong Xiao<br><small>Bournemouth University</small></h4>
+          </div>
         </div>
       </div>
     </div>

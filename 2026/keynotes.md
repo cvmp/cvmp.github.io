@@ -24,3 +24,36 @@ This talk explores how AI is shifting visual storytelling beyond spectacle and t
 </figure>
 
 </div>
+
+
+<a name="AD" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### George Drettakis, Inria <br> Title TBA
+
+*George Drettakis graduated in Computer Science (CS) in Crete, Greece, obtained an M.Sc. and a Ph.D. (1994) in CS at the University of Toronto, Canada, under the supervision of Eugene Fiume, followed by an ERCIM postdoc in Grenoble, Barcelona and Bonn (94-95). He obtained an Inria researcher position in the iMAGIS group in Grenoble (1995), and the degree of "Habilitation" at the University of Grenoble (1999). In 2000 he founded the REVES research group at INRIA Sophia-Antipolis (2002-2015), followed by the current GRAPHDECO group. He has received several awards: the Eurographics (EG) Outstanding Technical Contributions award in 2007, EG Distinguished Career Award (2024), Inria-French Academy of Sciences Grand Prix (2024), the ACM SIGGRAPH Computer Graphics Achievement Award (2025), and was named EG (2007) and ACM Fellow (2026). He was papers co-chair of the EG Rendering Workshop in 1998, EG conference in 2002 and 2008, technical papers chair of SIGGRAPH Asia 2010, associate editor for major graphics journals, and chairs the EG working group on Rendering. His research spans many topics in computer graphics, with an emphasis on rendering. He initially concentrated on lighting and shadow computation and subsequently worked on 3D audio, perceptually-driven algorithms, virtual reality and 3D interaction. In recent years he has focused more on learning-based appearance capture, relighting and novel view synthesis (previously known as image-based rendering), culminating in the development of 3D Gaussian Splatting.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2026/keynotes/george_drettakis.png" class="img-responsive img-thumbnail" alt="Victor Perez" title="George Drettakis">
+</figure>
+
+</div>
+
+<a name="AD" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Niloy Mitra, University College London and Adobe Research <br> Neurosymbolic Structure for Controllable Visual Media
+
+*Niloy J. Mitra leads the Smart Geometry Processing group in the Department of Computer Science at University College London and the Adobe Research London Lab. He received his Ph.D. from Stanford University under the guidance of Leonidas Guibas. His research develops machine learning frameworks for generating high-quality geometric and functional content in computer graphics applications. He has received several recognitions, including the ACM SIGGRAPH Significant New Researcher Award (2013), the BCS Roger Needham Award (2015), and the Eurographics Outstanding Technical Contributions Award (2019). He was elected a Eurographics Fellow in 2021, served as Technical Papers Chair for SIGGRAPH in 2022, and was inducted into the SIGGRAPH Academy in 2023. Beyond research, Niloy is an avid DIYer and enjoys reading, cricket, and cooking. More information is available at https://geometry.cs.ucl.ac.uk *
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2026/keynotes/niloy_profile.jpg" class="img-responsive img-thumbnail" alt="Victor Perez" title="Niloy Mitra">
+</figure>
+
+</div>

@@ -28,9 +28,9 @@ We encourage participation from a diverse range of backgrounds, including scient
 | - Camera-ready submission deadline: | ~~02 October 2026~~ 16 October 2026 |
 | __Industry Talks deadline:__ | __19 September 2026__ |
 | - Author notification: | 03 October 2026 |
-| __Short Papers deadline__ |  |
-| __(including Special Session):__ | ~~05 September 2026~~ <span style="color:red">19 September 2026</span> |
-| - Author notification: | 29 September 2026 |
+  | __Short Papers deadline__ |  |
+  | __(including Special Session):__ | ~~05 September 2026~~ ~~19 September 2026~~ <span style="color:red">03 October 2026 (final extension)</span> |
+| - Author notification: | ~~29 September 2026~~ <span style="color:red">14 October 2026 (final extension)</span> |
 | __Demos deadline:__ | ~~05 September 2026~~ <span style="color:red">19 September 2026 |
 | - Author notification: | 29 September 2026 |
 
