@@ -8,6 +8,11 @@
   url: https://research.adobe.com/
   image: img/2023/sponsors/logo-adobe.png
   level: silver
+
+- name: Activision
+  url: https://research.activision.com/
+  image: img/2023/sponsors/logo-activision-2x.png
+  level: gold
   
 2025:
 - name: ACM SIGGRAPH
