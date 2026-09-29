@@ -31,8 +31,8 @@ We encourage participation from a diverse range of backgrounds, including scient
   | __Short Papers deadline__ |  |
   | __(including Special Session):__ | ~~05 September 2026~~ ~~19 September 2026~~ <span style="color:red">03 October 2026 (final extension)</span> |
 | - Author notification: | ~~29 September 2026~~ <span style="color:red">14 October 2026 (final extension)</span> |
-| __Demos deadline:__ | ~~05 September 2026~~ <span style="color:red">19 September 2026 |
-| - Author notification: | 29 September 2026 |
+| __Demos deadline:__ | ~~05 September 2026~~ ~~19 September 2026~~ <span style="color:red">03 October 2026 (final extension)</span> |
+| - Author notification: | ~~29 September 2026~~ <span style="color:red">14 October 2026 (final extension)</span> |
 
 
 *All deadlines are 23:59 Pacific Time.*

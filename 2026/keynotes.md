@@ -26,7 +26,7 @@ This talk explores how AI is shifting visual storytelling beyond spectacle and t
 </div>
 
 
-<a name="AD" />
+<a name="GD" />
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
@@ -37,12 +37,12 @@ This talk explores how AI is shifting visual storytelling beyond spectacle and t
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/img/2026/keynotes/george_drettakis.png" class="img-responsive img-thumbnail" alt="Victor Perez" title="George Drettakis">
+  <img src="{{site.url}}/img/2026/keynotes/george_drettakis.png" class="img-responsive img-thumbnail" alt="George Drettakis" title="George Drettakis">
 </figure>
 
 </div>
 
-<a name="AD" />
+<a name="NM" />
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
@@ -53,7 +53,26 @@ This talk explores how AI is shifting visual storytelling beyond spectacle and t
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/img/2026/keynotes/niloy_profile.jpg" class="img-responsive img-thumbnail" alt="Victor Perez" title="Niloy Mitra">
+  <img src="{{site.url}}/img/2026/keynotes/niloy_profile.jpg" class="img-responsive img-thumbnail" alt="Niloy Mitra" title="Niloy Mitra">
+</figure>
+
+</div>
+
+
+<a name="RK" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Robin Kahlow, Runway <br> Simulating the Stack
+
+Every pipeline that produces images, sound or interactive experiences is built from layers of explicit systems. Drawing on Runway's research into world models and real-time simulation, this keynote maps which of those layers learned simulation can handle today, where explicit systems still hold and what comes next.
+
+*Robin Kahlow is a Principal Research Scientist at Runway, building the real-time technology behind Runway Characters, Solaris and GWM Worlds, which generate conversational characters, interactive interfaces and explorable worlds. He led the research on Gen-Turbo, which brought high-quality video generation down from minutes to seconds, and helped build Runway's Gen series of image and video models, from pretraining to inference optimization.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2026/keynotes/Robin_Kahlow.jpg" class="img-responsive img-thumbnail" alt="Robin Kahlow" title="Robin Kahlow">
 </figure>
 
 </div>
