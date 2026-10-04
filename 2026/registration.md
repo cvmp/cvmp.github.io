@@ -51,7 +51,7 @@ Single day conference ticket
 
 - **Networking dinner**  
 Optional networking dinner on December 8, 2026
-  * Price to be confirmed, on sale from 15 October.
+  * Price to be confirmed, on sale from October 15.
 
 - **Discounted registration**  
   * £200 (Requires organizer-provided code. No cancellations or refunds.)
