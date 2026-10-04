@@ -54,7 +54,7 @@ Optional networking dinner on December 8, 2026
   * Price to be confirmed, on sale from 15 October.
 
 - **Discounted registration**  
-  * Requires organizer-provided code. No cancellations or refunds.
+  * £200 (Requires organizer-provided code. No cancellations or refunds.)
 
 - **Invited registration**  
   * Complimentary (Requires organizer-provided code)
