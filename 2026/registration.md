@@ -28,6 +28,7 @@ Tickets gain you entry to all areas of the conference (keynotes, paper sessions,
 <li><strong>Early/Author Registration Deadline: November 8, 2026</strong></li>
 <li><strong>At least one author must register under the Non-Student / Author Early category. A single registration can cover multiple papers.</strong></li>
 <li><strong>The networking dinner will take place on 8 December (optional), with tickets on sale from 15 October at a price to be confirmed.</strong></li>
+<li><strong>There are no cancellations or refunds for purchased tickets.</strong></li>     
 </ul>
 </div>
 </div>
@@ -54,7 +55,7 @@ Optional networking dinner on December 8, 2026
   * Price to be confirmed, on sale from October 15.
 
 - **Discounted registration**  
-  * £200 (Requires organizer-provided code. No cancellations or refunds.)
+  * £200 (Requires organizer-provided code.)
 
 - **Invited registration**  
   * Complimentary (Requires organizer-provided code)
