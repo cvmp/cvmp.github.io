@@ -4,7 +4,7 @@ title: Production Talk
 year: 2026
 ---
 
-We are pleased to announce the following speaker for Production Talk at CVMP 2026:
+We are pleased to announce the following speaker for the Production Talk at CVMP 2026:
 
 <a name="SP" />
 <div class="row">

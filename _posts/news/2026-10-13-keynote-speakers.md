@@ -8,6 +8,7 @@ year: 2026
 
 We are pleased to announce our keynote speakers for CVMP 2026:
 
+- **Victor Perez**, Visual Effects Supervisor
 - **George Drettakis**, Inria
 - **Niloy Mitra**, University College London and Adobe Research
 - **Robin Kahlow**, Runway

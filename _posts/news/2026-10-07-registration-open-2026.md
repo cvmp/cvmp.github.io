@@ -2,7 +2,7 @@
 layout: cvmp-default
 categories: news
 title: Registration Open
-excerpt: Registration for CVMP 2026 is now open.
+excerpt: Registration for CVMP 2026 is now open with early-bird rates until 8 November.
 year: 2026
 ---
 
