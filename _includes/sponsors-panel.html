@@ -14,30 +14,33 @@
                 {% endif %}
             {% endfor %}
             <br/>
-            <div class="row-xs-12">
+            <div class="clearfix">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'gold' %}
                         <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
                     {% endif %}
                 {% endfor %}
             </div>
-            <br/>
-            <div class="row-xs-12 row-sm-6">
+            <div class="sidebar-sponsor-row">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'silver' %}
-                        <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
+                        <a href="{{ sponsor.url }}" target="_blank">
+                            <img src="{{ site.url }}/{{ sponsor.image }}"
+                                alt="{{ sponsor.name }} logo"
+                                title="{{ sponsor.name }}">
+                        </a>
                     {% endif %}
                 {% endfor %}
             </div>
             <br/>
-            <div class="row-xs-12 row-sm-6">
+            <div class="clearfix">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'bronze' %}
                         <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
                     {% endif %}
                 {% endfor %}
             </div>
-            <div class="row-xs-12 row-sm-6">
+            <div class="clearfix">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'academic' %}
                         <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>

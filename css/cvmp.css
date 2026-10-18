@@ -291,3 +291,32 @@ div.progress-bar-none {
   text-decoration: underline;
 } 
 
+
+#sponsors .sidebar-sponsor-row {
+  clear: both;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100%;
+}
+
+#sponsors .sidebar-sponsor-row > a {
+  flex: 0 0 50%;
+  min-width: 0;
+  box-sizing: border-box;
+  padding: 0 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#sponsors .sidebar-sponsor-row img {
+  display: block;
+  float: none;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  max-height: none;
+  padding: 0;
+  margin: 0;
+}

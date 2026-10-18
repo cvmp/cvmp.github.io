@@ -32,11 +32,19 @@ We would like to thank the following sponsors without whom this event, in partic
 </div>
 
 <h2>Silver Sponsors</h2>
-<div class="sponsor-grid">
-  <div class="sponsor-logo-box">
-    <a href="https://research.adobe.com/" target="_blank">
-      <img src="{{ site.baseurl }}/img/2023/sponsors/logo-adobe.png" alt="Adobe">
-    </a>
+<div class="sponsor-tier silver-tier">
+  <div class="sponsor-grid">
+    <div class="sponsor-logo-box">
+      <a href="https://research.adobe.com/" target="_blank">
+        <img src="{{ site.baseurl }}/img/2023/sponsors/logo-adobe.png" alt="Adobe">
+      </a>
+    </div>
+    <div class="sponsor-logo-box">
+        <a href="https://www.foundry.com/" target="_blank">
+          <img src="{{ site.baseurl }}/img/2024/sponsors/Foundry_RGB_black-yellow-01.png"
+              alt="Foundry">
+        </a>
+      </div>
   </div>
 </div>
 
