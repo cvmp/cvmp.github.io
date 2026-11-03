@@ -43,7 +43,7 @@
             <div class="clearfix">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'academic' %}
-                        <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
+                        <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-75" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
                     {% endif %}
                 {% endfor %}
             </div>

@@ -92,12 +92,15 @@ img#venue {
   margin-top: 0px;
 }
 
-.img-responsive-50{display:block;height:auto;max-width:50%}
+.img-responsive-50{margin: 0; display:block;height:auto;max-width:50%}
+
+.img-responsive-75{margin: 0; display:block;height:auto;max-width:75%}
 
 #sponsors img {
   padding: 0em 1em;
   margin: 0;
 }
+
 
 footer #sponsors .col-xs-12 img {
   width: 25%;

@@ -50,7 +50,17 @@ We would like to thank the following sponsors without whom this event, in partic
 
 <h2>Academic Partners</h2>
 
-</div> 
+<div class="sponsor-tier academic-tier">
+  <div class="sponsor-grid">
+    <div class="sponsor-logo-box">
+      <a href="" target="_blank">
+        <img src="{{ site.baseurl }}/img/2026/sponsors/yonsei_global.png" alt="Yonsei">
+      </a>
+    </div>
+  </div>
+</div>
+
+</div>
 
 ---
 
@@ -242,9 +252,10 @@ For sponsorship opportunities and custom packages, please contact:
 
 .academic-tier .sponsor-logo-box {
   border-color: #28a745;
-  width: 180px;
-  height: 110px;
+  width: 240px;
+  height: 70px;
 }
+
 
 .academic-tier .sponsor-logo-box:hover {
   border-color: #20c997;
