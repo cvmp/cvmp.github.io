@@ -12,4 +12,4 @@ We are pleased to announce our keynote speakers for CVMP 2026:
 - **Niloy Mitra**, University College London and Adobe Research
 - **Robin Kahlow**, Runway
 
-Please visit the [Keynotes page]({{site.baseurl}}/2026/keynotes/) for talk details and speaker biographies.
+Please visit the [Speakers page]({{site.baseurl}}/2026/speakers/) for talk details and speaker biographies.
