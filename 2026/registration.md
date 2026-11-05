@@ -64,6 +64,14 @@ Optional networking dinner on 8 December, 2026
 
 For visa letters and other registration inquiries, please contact [contact@cvmp-conference.org](mailto:contact@cvmp-conference.org).
 
+## Photography
+
+A professional photographer will be taking photos at CVMP 2026 on both days, including during talks, poster sessions, breaks and the reception. The photos may be used on the CVMP website, on our social media channels and in future promotion of the conference.
+
+If you would prefer not to appear in photos, please let us know at the registration desk, or email [contact@cvmp-conference.org](mailto:contact@cvmp-conference.org). If you later see a photo of yourself that you would like removed, please contact us and we will take it down.
+
+Some speakers may ask that their slides are not photographed or shared. Please respect any such request made during the session.
+
 ## Code of Conduct
 
 CVMP 2026 will be adopting a code of conduct for attendees in line with the [ACM Policy Against Harassment](https://www.acm.org/about-acm/policy-against-harassment) and the [CVPR Code of Conduct](https://cvpr2022.thecvf.com/node/27), as established for our research community:

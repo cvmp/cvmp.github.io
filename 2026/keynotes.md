@@ -2,6 +2,7 @@
 layout: cvmp-default
 title: Keynotes
 year: 2026
+redirect_to: /2026/speakers/
 ---
 
 We are pleased to announce the following keynote speakers for CVMP 2026:

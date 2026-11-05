@@ -381,6 +381,13 @@ year: 2026
           machine learning to colour grading.
   </p>
 
+  <p><em>
+    <strong>Biography:</strong> Daniele Siragusano is an image engineer at FilmLight. He leads the design of Truelight Colour Spaces, Baselight's colour management system. He also created the scene-referred grading tools BaseGrade, X Grade and Chromogen, and the Truelight CAM display rendering. His current work covers ML-driven grading, spectral imaging, film grain and visual adaptation in HDR.
+  </em></p>
+
+
+  
+
 
 </article>
 

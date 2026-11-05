@@ -2,6 +2,7 @@
 layout: cvmp-default
 title: Production Talk
 year: 2026
+redirect_to: /2026/speakers/
 ---
 
 We are pleased to announce the following speaker for the Production Talk at CVMP 2026:
