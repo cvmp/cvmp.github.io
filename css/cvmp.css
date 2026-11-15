@@ -323,3 +323,19 @@ div.progress-bar-none {
   padding: 0;
   margin: 0;
 }
+
+/* Centre the final logo when a tier has an odd number */
+#sponsors .sidebar-sponsor-row > a:last-child:nth-child(odd) {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* #sponsors .sidebar-sponsor-row img[alt="PXLD logo"] {
+  width: 80%;
+} */
+
+#sponsors img.img-responsive-75 {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}

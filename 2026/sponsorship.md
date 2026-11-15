@@ -28,6 +28,16 @@ We would like to thank the following sponsors without whom this event, in partic
         <img src="{{ site.baseurl }}/img/2023/sponsors/logo-activision-2x.png" alt="Activision">
       </a>
     </div>
+    <div class="sponsor-logo-box">
+      <a href="https://www.youtube.com/" target="_blank">
+        <img src="{{ site.baseurl }}/img/2026/sponsors/yt_logo.png" alt="YouTube">
+      </a>
+    </div>
+    <div class="sponsor-logo-box">
+      <a href="https://www.xgrids.com/" target="_blank">
+        <img src="{{ site.baseurl }}/img/2026/sponsors/XGRIDS_logo.png" alt="XGRIDS">
+      </a>
+    </div>
   </div>
 </div>
 
@@ -44,7 +54,12 @@ We would like to thank the following sponsors without whom this event, in partic
           <img src="{{ site.baseurl }}/img/2024/sponsors/Foundry_RGB_black-yellow-01.png"
               alt="Foundry">
         </a>
-      </div>
+    </div>
+    <div class="sponsor-logo-box">
+        <a href="https://pxld.ai/" target="_blank">
+          <img src="{{ site.baseurl }}/img/2026/sponsors/PXLD_logo.png" alt="PXLD">
+        </a>
+    </div>
   </div>
 </div>
 

@@ -264,6 +264,11 @@ year: 2026
     Neurosymbolic Structure for Controllable Visual Media
   </p>
 
+
+  <p>
+    <strong>Abstract:</strong> While text-to-video models have achieved remarkable visual quality, providing artists with fine-grained, interpretable, and directorial control remains a major challenge. In this talk, I will argue that structured representations and neurosymbolic models are the key to unlocking precise control over both camera movement and action (i.e., dynamics). First, I will introduce LAMP (Language-Assisted Motion Planning), which uses a cinematography-inspired Domain-Specific Language (DSL) to translate natural language into explicit, structured 3D camera and object trajectories. Second, I will present LooseControlVideo (LCV), a framework that utilizes sparse, easy-to-author 3D boxes as a dynamic geometric proxy. This allows users to intuitively choreograph object trajectories and complex dynamics, functioning much like traditional stage/game blocking. Finally, by bridging generative video backbones with symbolic 3D primitives and procedural motion programs, I will demonstrate how neurosymbolic approaches can transform video generation into a precise and predictable directorial medium. More information can be found at <a href="https://geometry.cs.ucl.ac.uk/">https://geometry.cs.ucl.ac.uk</a>.
+  </p>
+
   <p>    
   <em><strong>Biography:</strong>
     Niloy J. Mitra leads the Smart Geometry Processing group in the

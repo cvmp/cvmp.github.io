@@ -13,7 +13,7 @@ year: 2026
 
 ### Transportation
 <img src="{{site.url}}/{{site.baseurl}}/img/2025/transport from waterloo.png" class="img-thumbnail">
-<img src="{{site.url}}/{{site.baseurl}}/img/2025/BFI entrance.png" class="img-thumbnail">
+<img src="{{site.url}}/{{site.baseurl}}/img/2026/BFI entrance.png" class="img-thumbnail">
 
 #### From Waterloo Station
 * **Walk**: 8 min (0.4 mile) via Theatre Ave

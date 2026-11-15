@@ -9,6 +9,16 @@
   image: img/2023/sponsors/logo-activision-2x.png
   level: gold
 
+- name: YouTube
+  url: https://www.youtube.com/
+  image: img/2026/sponsors/yt_logo.png
+  level: gold
+
+- name: XGRIDS
+  url: https://www.xgrids.com/
+  image: img/2026/sponsors/XGRIDS_logo.png
+  level: gold
+
 - name: Adobe
   url: https://research.adobe.com/
   image: img/2023/sponsors/logo-adobe.png
@@ -17,6 +27,11 @@
 - name: Foundry
   url: https://www.foundry.com/
   image: img/2024/sponsors/Foundry_RGB_black-yellow-01.png
+  level: silver
+  
+- name: PXLD
+  url: https://pxld.ai/
+  image: img/2026/sponsors/PXLD_logo.png
   level: silver
 
 - name: Yonsei  

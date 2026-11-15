@@ -8,23 +8,26 @@
     <h4 class="panel-heading">Sponsors</h4>
     <div class="panel-body">
         <div class="dense-gutter">
-            {% for sponsor in site.data.sponsors[year] %}
-                {% if sponsor.level contains 'conference' %}
-                    <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
-                {% endif %}
-            {% endfor %}
-            <br/>
             <div class="clearfix">
                 {% for sponsor in site.data.sponsors[year] %}
-                    {% if sponsor.level contains 'gold' %}
-                        <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
+                    {% if sponsor.level contains 'conference' %}
+                        <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
+                            <img src="{{ site.url }}/{{ sponsor.image }}"
+                                 class="col-xs-12 img-responsive"
+                                 alt="{{ sponsor.name }} logo"
+                                 title="{{ sponsor.name }}">
+                        </a>
                     {% endif %}
                 {% endfor %}
             </div>
+
+            <br/>
+
+                        
             <div class="sidebar-sponsor-row">
                 {% for sponsor in site.data.sponsors[year] %}
-                    {% if sponsor.level contains 'silver' %}
-                        <a href="{{ sponsor.url }}" target="_blank">
+                    {% if sponsor.level contains 'gold' %}
+                        <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
                             <img src="{{ site.url }}/{{ sponsor.image }}"
                                 alt="{{ sponsor.name }} logo"
                                 title="{{ sponsor.name }}">
@@ -32,14 +35,33 @@
                     {% endif %}
                 {% endfor %}
             </div>
+
             <br/>
+                      
+            <div class="sidebar-sponsor-row">
+                {% for sponsor in site.data.sponsors[year] %}
+                    {% if sponsor.level contains 'silver' %}
+                        <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
+                            <img src="{{ site.url }}/{{ sponsor.image }}"
+                                alt="{{ sponsor.name }} logo"
+                                title="{{ sponsor.name }}">
+                        </a>
+                    {% endif %}
+                {% endfor %}
+            </div>
+
+            
+            
             <div class="clearfix">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'bronze' %}
                         <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
                     {% endif %}
                 {% endfor %}
-            </div>
+            </div> 
+            
+            <br/>
+
             <div class="clearfix">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'academic' %}
