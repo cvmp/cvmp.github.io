@@ -4,10 +4,18 @@
     {% assign year = site.data.cvmp.current-year %}
 {% endif %}
 
+{% assign sp = site.data.sponsors[year] %}
+{% assign conference = sp | where_exp: "s", "s.level contains 'conference'" %}
+{% assign gold = sp | where_exp: "s", "s.level contains 'gold'" %}
+{% assign silver = sp | where_exp: "s", "s.level contains 'silver'" %}
+{% assign bronze = sp | where_exp: "s", "s.level contains 'bronze'" %}
+{% assign academic = sp | where_exp: "s", "s.level contains 'academic'" %}
+
 <div class="panel panel-default" id="sponsors">
     <h4 class="panel-heading">Sponsors</h4>
     <div class="panel-body">
-        <div class="dense-gutter">
+        <div class="dense-gutter">            
+            {% if conference.size > 0 %}<div class="tier-label">Conference sponsor</div>{% endif %}
             <div class="clearfix">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'conference' %}
@@ -21,10 +29,11 @@
                 {% endfor %}
             </div>
 
-            <br/>
+            
 
-                        
+            {% if gold.size > 0 %}<div class="tier-label">Gold sponsors</div>{% endif %}           
             <div class="sidebar-sponsor-row">
+                
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'gold' %}
                         <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
@@ -36,9 +45,10 @@
                 {% endfor %}
             </div>
 
-            <br/>
-                      
-            <div class="sidebar-sponsor-row">
+            
+            
+            {% if silver.size > 0 %}<div class="tier-label">Silver sponsors</div>{% endif %}
+            <div class="sidebar-sponsor-row">                
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'silver' %}
                         <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
@@ -51,7 +61,7 @@
             </div>
 
             
-            
+            {% if bronze.size > 0 %}<div class="tier-label">Bronze sponsors</div>{% endif %}
             <div class="clearfix">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'bronze' %}
@@ -60,8 +70,9 @@
                 {% endfor %}
             </div> 
             
-            <br/>
+            
 
+            {% if academic.size > 0 %}<div class="tier-label">Academic partner</div>{% endif %}
             <div class="clearfix">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'academic' %}

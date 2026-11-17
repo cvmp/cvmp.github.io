@@ -34,8 +34,9 @@
   image: img/2026/sponsors/PXLD_logo.png
   level: silver
 
-- name: Yonsei  
-  image: img//2026/sponsors/yonsei_global.png
+- name: Yonsei
+  url: https://www.yonsei.ac.kr/en_sc/index.do
+  image: img/2026/sponsors/yonsei_global.png
   level: academic
 
   

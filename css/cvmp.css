@@ -330,12 +330,37 @@ div.progress-bar-none {
     margin-right: auto;
 }
 
-/* #sponsors .sidebar-sponsor-row img[alt="PXLD logo"] {
-  width: 80%;
-} */
+#sponsors .sidebar-sponsor-row img[alt="PXLD logo"] {
+  width: 65%;
+} 
 
 #sponsors img.img-responsive-75 {
     float: none;
     margin-left: auto;
     margin-right: auto;
+}
+
+#sponsors .tier-label {
+  clear: both;
+  text-align: center;
+  font-size: 11px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #888;
+  margin: 14px 15px 8px;
+  border-top: 1px solid #e5e5e5;
+  padding-top: 8px;
+}
+
+/* Applies to the first visible label, even without conference sponsors. */
+#sponsors .dense-gutter > .tier-label {
+  border-top: none;
+  margin-top: 4px;
+  padding-top: 0;
+}
+
+#sponsors .dense-gutter > .tier-label ~ .tier-label {
+  border-top: 1px solid #e5e5e5;
+  margin-top: 14px;
+  padding-top: 8px;
 }
