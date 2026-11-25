@@ -8,6 +8,10 @@ year: 2026
 
 #### The CVMP 2026 conference will be hosted at the BFI Southbank (London, SE1 8XT, UK)
 
+* **Registration:** main foyer, from 08:30 on both days
+* **Talks:** NFT2
+* **Coffee breaks, lunch, posters, demos, sponsor stands and the networking reception:** the Blue Room, upstairs (lift available)
+
 <img src="{{site.url}}/{{site.baseurl}}/img/2025/BFI_Southbank.jpeg" class="img-thumbnail">
 
 

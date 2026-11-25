@@ -25,9 +25,9 @@ Tickets gain you entry to all areas of the conference (keynotes, paper sessions,
 </div>
 <div class="panel-body">
 <ul>
-<li><strong>Early/Author Registration Deadline: 8 November, 2026</strong></li>
+<li><strong>Early-bird registration closed on 8 November, 2026. Registration remains open at the regular rates.</strong></li>
 <li><strong>At least one author must register under the Non-Student / Author Early category. A single registration can cover multiple papers.</strong></li>
-<li><strong>The networking dinner will take place at <a href="https://maps.app.goo.gl/U8ecMdJN8NE1wyqX9">Auberge</a> (1 Sandell Street, a few minutes' walk from the BFI) from 7pm on Tuesday 8 December. Tickets are on sale now at £65.</strong></li>
+<li><strong>The networking dinner will take place at <a href="https://maps.app.goo.gl/U8ecMdJN8NE1wyqX9">Auberge</a> (1 Sandell Street, a few minutes' walk from the BFI) from 7pm on Tuesday 8 December. Tickets are on sale until Monday 30 November at £65. If you have already registered, choose the "Dinner only" option in the store; guests are welcome. The dinner is upstairs: if you cannot manage the stairs, please let us know when you book and we will seat you downstairs.</strong></li>
 <li><strong>There are no cancellations or refunds for purchased tickets.</strong></li>   
 <li><strong>CVMP is an ACM SIGGRAPH conference. As required by ACM, the names and email addresses of registrants are shared with ACM to be checked against ACM's sanctions list.</strong></li>   
 </ul>
@@ -44,7 +44,7 @@ Full conference ticket for both days - <span class="label label-danger">Author r
 
 - **Student**  
 Full conference ticket for both days - <span class="label label-info">Students only</span><br>
-Student tickets are offered at a discounted rate with support from **Activision**, our Gold Sponsor.
+Student tickets are offered at a discounted rate with support from **Activision**, our Gold Sponsor. Student participation at CVMP 2026 is also supported by **XGRIDS**, our Gold Sponsor.
   * £225 (early bird - until 8 November)
   * £275 (regular - after 8 November)
 
@@ -54,7 +54,7 @@ Single day conference ticket
 
 - **Networking dinner**  
 Optional networking dinner on 8 December, 2026
-  * £65 - on sale now. From 7pm on Tuesday 8 December at <a href="https://maps.app.goo.gl/U8ecMdJN8NE1wyqX9">Auberge</a> (1 Sandell Street, near the BFI).
+  * £65 - on sale until Monday 30 November. From 7pm on Tuesday 8 December at <a href="https://maps.app.goo.gl/U8ecMdJN8NE1wyqX9">Auberge</a> (1 Sandell Street, near the BFI).
 
 - **Discounted registration**  
   * £200 (Requires organizer-provided code.)

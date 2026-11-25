@@ -72,8 +72,8 @@
             
             
 
-            {% if academic.size > 0 %}<div class="tier-label">Academic partner</div>{% endif %}
-            <div class="clearfix">
+            {% if academic.size > 0 %}<div class="tier-label">Academic partners</div>{% endif %}
+            <div class="clearfix academic-sponsors">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'academic' %}
                         <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-75" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>

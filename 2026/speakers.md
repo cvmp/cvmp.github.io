@@ -202,9 +202,13 @@ year: 2026
       <li>From Technical Capability to Team Structure: Real-Time VFX in the Post-Production of High-End Fiction Television</li>
     </ul>
   </li>  
+  <li>
+    <a href="#dadi-einarsson">Daði Einarsson and Tom Horton</a>
+    <ul>
+      <li>House of the Dragon Season 3: The Battle of the Gullet</li>
+    </ul>
+  </li>
 </ul>
-
-<p>Further speakers will be added as they are confirmed.</p>
 
 <!-- Full keynote entries -->
 
@@ -471,6 +475,29 @@ year: 2026
     a default.
   </p>
 </article>
+
+
+<article class="speaker-entry" id="dadi-einarsson">
+  <h3>Daði Einarsson and Tom Horton</h3>
+  <p class="speaker-affiliation">VFX Supervisor and VFX Producer, House of the Dragon</p>
+  <p class="talk-title">
+    House of the Dragon Season 3: The Battle of the Gullet
+  </p>
+
+  <p>
+    <strong>Abstract:</strong> The opening episode of House of the Dragon, Season 3, features a twenty minute naval battle with mounted dragons flying above and bathing ships in flames. To realize this incredibly ambitious vision required close collaboration between director, showrunner, producer, visual effects, special effects, production design and editorial to name a few. The creative vision drove an enormous logistical undertaking, with vast infrastructure being designed, engineered and constructed solely for the precisely planned story beats. Our aim was to tell a compelling story, with the ultimate stakes, while immersing the viewer in the exhilarating spectacle of chaotic airborne and naval war.
+  </p>
+
+  <p><em>
+    <strong>Biography (Daði Einarsson):</strong> Daði Einarsson is a multiple Emmy, BAFTA and VES nominated visual effects supervisor with over 25 years experience in film, television, commercials and real time projects. With a background in animation, he worked on shows such as Harry Potter and the Chamber of Secrets, The Golden Compass and Gravity before becoming a visual effects supervisor on feature films and television including Everest and The Witcher. Since 2024 he has been visual effects supervisor on House of the Dragon and is currently working on Season 4.
+  </em></p>
+
+  <p><em>
+    <strong>Biography (Tom Horton):</strong> Thomas Horton is an award-winning VFX Producer with over 25 years of global experience. Trusted by visionary filmmakers including Ron Howard, David Goyer, Tom Hooper, and Barry Sonnenfeld, he has led visual effects for major projects at NBCUniversal, Starz, Netflix, and HBO. His credits include House of the Dragon, Thirteen Lives, A Series of Unfortunate Events, and The King's Speech. A two-time RTS and VES Award winner, he recently earned multiple Emmy, BAFTA, and VES nominations for House of the Dragon, and is currently producing VFX for its fourth season.
+  </em></p>
+</article>
+
+
 
 </section>
 

@@ -364,3 +364,22 @@ div.progress-bar-none {
   margin-top: 14px;
   padding-top: 8px;
 }
+
+/* Space between academic partner logos */
+#sponsors .academic-sponsors > a {
+  display: block;
+  margin-bottom: 16px;
+}
+
+#sponsors .academic-sponsors > a:last-child {
+  margin-bottom: 0;
+}
+
+/* Make the PAI logo smaller and centred */
+#sponsors .academic-sponsors img[alt="People-Centred AI Institute logo"] {
+  width: 55%;
+  max-width: 55%;
+  height: auto;
+  float: none;
+  margin: 0 auto;
+}

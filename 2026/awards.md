@@ -22,15 +22,9 @@ The CVMP Technical Awards celebrate exceptional contributions to the field of vi
 
 ## Nominations
 
-Nominations for the CVMP 2026 Technical Awards are now open.
+Nominations for the CVMP 2026 Technical Awards closed on Monday, 2 November 2026. Thank you to everyone who submitted a nomination.
 
-**Nomination deadline: Monday, 2 November 2026**
-
-Please submit a nomination using the relevant form:
-
-- [Research Impact Award nomination form](https://forms.gle/WJGChtFEL3Wx2oM48)
-- [Collaboration Award nomination form](https://forms.gle/q5Lyc5rXdpVM1TCE8)
-- [Technology Impact Award nomination form](https://forms.gle/YXpLx5exeZBrNpUG8)
+The CVMP 2026 Technical Awards will be presented on **Tuesday 8 December at 16:45**, in NFT2.
 
 ---
 
